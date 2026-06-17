@@ -223,3 +223,71 @@ img{ max-width:100%; display:block; }
 .content strong{ color:var(--moss); font-weight:600; }
 details summary::-webkit-details-marker{ display:none; }
 details[open] summary span{ transform:rotate(180deg); transition:0.2s; display:inline-block; }
+
+
+/* ============ Slides intégrées (faux deck inline) ============ */
+.slides{ display:grid; gap:18px; margin:8px 0 4px; }
+.slide{ background:linear-gradient(135deg, var(--bg3), var(--bg2)); border:0.5px solid var(--line2); border-radius:14px;
+  padding:30px 34px; position:relative; min-height:220px; display:flex; flex-direction:column; }
+.slide-num{ position:absolute; top:14px; right:18px; font-family:"JetBrains Mono",monospace;
+  font-size:10px; color:var(--gold); letter-spacing:0.10em; opacity:0.7; }
+.slide h5{ font-family:"Fraunces",serif; font-size:22px; font-weight:500; color:var(--ink);
+  margin:0 0 14px; letter-spacing:-0.005em; line-height:1.2; }
+.slide-kicker{ font-size:11px; color:var(--moss); letter-spacing:0.16em; text-transform:uppercase;
+  margin-bottom:8px; }
+.slide ul{ list-style:none; padding:0; margin:0; }
+.slide li{ position:relative; padding:6px 0 6px 22px; font-size:15px; line-height:1.55; color:var(--ink); }
+.slide li::before{ content:""; position:absolute; left:0; top:14px; width:8px; height:8px;
+  border-radius:50%; background:var(--gold); }
+.slide-quote{ font-family:"Fraunces",serif; font-style:italic; font-size:18px; color:var(--moss);
+  line-height:1.35; margin-top:10px; }
+
+
+/* ============ Module dynamique — vidéos & animations ============ */
+.video-hero{ position:relative; aspect-ratio:16/9; margin:0 0 28px; border-radius:14px; overflow:hidden;
+  background:#000; border:0.5px solid var(--line2); box-shadow:0 18px 50px -16px rgba(0,0,0,0.5); }
+.video-hero iframe{ width:100%; height:100%; border:0; }
+.video-hero-caption{ font-size:12px; color:var(--ink3); margin:-18px 0 26px; font-style:italic; }
+
+.encadre{ position:relative; margin:28px 0; padding:24px 26px 22px;
+  background:linear-gradient(135deg, rgba(217,164,65,0.10), rgba(217,164,65,0.04));
+  border-left:3px solid var(--gold); border-radius:0 10px 10px 0; }
+.encadre-test{ border-left-color:var(--coral); background:linear-gradient(135deg, rgba(226,97,59,0.10), rgba(226,97,59,0.04)); }
+.encadre-demo{ border-left-color:var(--moss); background:linear-gradient(135deg, rgba(159,224,213,0.10), rgba(159,224,213,0.04)); }
+.encadre-tag{ font-size:11px; letter-spacing:0.16em; text-transform:uppercase; color:var(--gold);
+  font-weight:600; margin-bottom:8px; display:flex; align-items:center; gap:8px; }
+.encadre-test .encadre-tag{ color:var(--coral); }
+.encadre-demo .encadre-tag{ color:var(--moss); }
+.encadre-tag::before{ content:"●"; font-size:14px; }
+.encadre h4{ font-family:"Fraunces",serif; font-size:18px; font-weight:500; margin:0 0 10px; color:var(--ink); }
+.encadre p{ margin:0 0 8px; }
+
+/* Comparateur avant/après */
+.compare{ display:grid; grid-template-columns:1fr 1fr; gap:14px; margin:24px 0; }
+.compare > div{ padding:18px 20px; border-radius:10px; border:0.5px solid var(--line); }
+.compare .before{ background:rgba(226,97,59,0.06); border-color:rgba(226,97,59,0.30); }
+.compare .after{ background:rgba(159,224,213,0.06); border-color:rgba(159,224,213,0.30); }
+.compare-label{ font-size:10px; letter-spacing:0.14em; text-transform:uppercase; margin-bottom:8px; }
+.compare .before .compare-label{ color:var(--coral); }
+.compare .after .compare-label{ color:var(--moss); }
+.compare blockquote{ font-family:"Fraunces",serif; font-size:15px; line-height:1.45; font-style:italic; margin:0; color:var(--ink); }
+@media (max-width: 760px){ .compare{ grid-template-columns:1fr; } }
+
+/* Animations au scroll */
+.reveal{ opacity:0; transform:translateY(20px); transition:opacity 0.6s ease-out, transform 0.6s ease-out; }
+.reveal.in{ opacity:1; transform:translateY(0); }
+
+/* Galerie vidéos in-content */
+.video-grid{ display:grid; grid-template-columns:repeat(auto-fit, minmax(260px,1fr)); gap:14px; margin:24px 0; }
+.video-card{ aspect-ratio:16/9; border-radius:10px; overflow:hidden; background:#000; border:0.5px solid var(--line); }
+.video-card iframe{ width:100%; height:100%; border:0; }
+
+/* Quizz interactif */
+.quizz-q{ margin:22px 0; padding:20px 22px; background:var(--bg2); border:0.5px solid var(--line); border-radius:12px; }
+.quizz-q h4{ font-family:"Fraunces",serif; font-size:17px; font-weight:500; margin:0 0 14px; color:var(--ink); }
+.quizz-opt{ display:block; padding:10px 14px; margin:6px 0; background:rgba(255,255,255,0.03);
+  border:0.5px solid var(--line); border-radius:8px; cursor:pointer; transition:0.15s; font-size:14px; color:var(--ink); }
+.quizz-opt:hover{ background:rgba(255,255,255,0.06); border-color:var(--line2); }
+.quizz-opt.correct{ background:rgba(159,224,213,0.15); border-color:var(--moss); color:var(--moss); }
+.quizz-opt.wrong{ background:rgba(226,97,59,0.15); border-color:var(--coral); color:var(--coral); }
+.quizz-feedback{ margin-top:10px; font-size:13px; color:var(--ink3); font-style:italic; min-height:18px; }
