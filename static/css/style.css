@@ -291,3 +291,76 @@ details[open] summary span{ transform:rotate(180deg); transition:0.2s; display:i
 .quizz-opt.correct{ background:rgba(159,224,213,0.15); border-color:var(--moss); color:var(--moss); }
 .quizz-opt.wrong{ background:rgba(226,97,59,0.15); border-color:var(--coral); color:var(--coral); }
 .quizz-feedback{ margin-top:10px; font-size:13px; color:var(--ink3); font-style:italic; min-height:18px; }
+
+
+/* ============ MODE PROJECTION 16/9 — panels stackés ============ */
+.module-stage{ scroll-snap-type:y mandatory; max-height:calc(100vh - 88px); overflow-y:auto;
+  scrollbar-width:thin; scrollbar-color:var(--gold) transparent; }
+.module-stage::-webkit-scrollbar{ width:6px; }
+.module-stage::-webkit-scrollbar-thumb{ background:var(--gold); border-radius:3px; }
+
+.panel{ scroll-snap-align:start; min-height:calc(100vh - 88px); padding:50px 60px;
+  display:grid; grid-template-columns:1fr 1fr; gap:50px; align-items:center;
+  border-bottom:0.5px solid var(--line); position:relative; }
+.panel.full{ grid-template-columns:1fr; }
+.panel-num{ position:absolute; top:24px; right:32px; font-family:"JetBrains Mono",monospace;
+  font-size:11px; color:var(--gold); letter-spacing:0.10em; opacity:0.75; }
+.panel-kicker{ font-size:11px; color:var(--moss); letter-spacing:0.18em; text-transform:uppercase; margin-bottom:14px; }
+.panel-title{ font-family:"Fraunces",serif; font-size:46px; font-weight:500; line-height:1.05;
+  letter-spacing:-0.02em; margin:0 0 22px; color:var(--ink); }
+.panel-title em{ font-style:italic; color:var(--moss); }
+.panel-lead{ font-size:18px; line-height:1.55; color:var(--ink2); margin-bottom:24px; max-width:520px; }
+.panel-points{ list-style:none; padding:0; margin:0; }
+.panel-points li{ padding:10px 0 10px 24px; position:relative; font-size:16px; line-height:1.55; color:var(--ink); }
+.panel-points li::before{ content:""; position:absolute; left:0; top:18px; width:10px; height:10px;
+  border-radius:50%; background:var(--gold); }
+.panel-quote{ font-family:"Fraunces",serif; font-style:italic; font-size:24px; line-height:1.35;
+  color:var(--moss); margin:18px 0; max-width:560px; }
+.panel-visual{ width:100%; }
+.panel-visual .video-hero,.panel-visual .encadre,.panel-visual .compare{ margin:0; }
+.panel-visual .video-hero-caption{ margin:8px 0 0; }
+
+/* Cover panel = première impression module */
+.panel.cover{ background:linear-gradient(135deg, var(--bg2) 0%, var(--bg) 100%);
+  grid-template-columns:1.2fr 1fr; }
+.panel.cover .panel-title{ font-size:62px; }
+
+/* Présentation : nav clavier overlay */
+.presenter-toolbar{ position:sticky; top:0; z-index:30; background:rgba(14,26,20,0.92);
+  backdrop-filter:blur(12px); border-bottom:0.5px solid var(--line);
+  padding:10px 24px; display:flex; gap:18px; align-items:center; font-size:12px; color:var(--ink2); }
+.presenter-toolbar .breadcrumb{ flex:1; }
+.presenter-toolbar .crumb-link{ color:var(--moss); cursor:pointer; }
+.presenter-toolbar .progress-dots{ display:flex; gap:4px; }
+.presenter-toolbar .dot{ width:8px; height:8px; border-radius:50%; background:rgba(255,255,255,0.15); cursor:pointer; transition:0.15s; }
+.presenter-toolbar .dot.active{ background:var(--gold); transform:scale(1.4); }
+.presenter-toolbar .btn-fs{ padding:6px 14px; border:0.5px solid var(--line2); border-radius:999px;
+  background:transparent; color:var(--ink); font-size:11px; cursor:pointer; transition:0.15s; }
+.presenter-toolbar .btn-fs:hover{ border-color:var(--gold); color:var(--gold); }
+
+/* Mode plein écran (F11 ou bouton) */
+.module-stage:fullscreen,.module-stage:-webkit-full-screen{ max-height:100vh; }
+.module-stage:fullscreen .panel{ min-height:100vh; }
+
+/* Responsive : repli mobile */
+@media (max-width: 900px){
+  .panel{ grid-template-columns:1fr; gap:24px; padding:32px 24px; min-height:auto; }
+  .panel.cover{ grid-template-columns:1fr; }
+  .panel.cover .panel-title{ font-size:36px; }
+  .panel-title{ font-size:30px; }
+  .module-stage{ scroll-snap-type:none; max-height:none; overflow:visible; }
+}
+
+
+/* ============ Tableaux du livret ============ */
+.livret-table{ width:100%; border-collapse:collapse; margin:24px 0; font-size:14px;
+  background:var(--bg2); border:0.5px solid var(--line); border-radius:10px; overflow:hidden; }
+.livret-table th{ text-align:left; padding:14px 18px; background:rgba(217,164,65,0.10);
+  color:var(--gold); font-weight:500; font-size:11px; letter-spacing:0.10em; text-transform:uppercase;
+  border-bottom:1px solid var(--line); }
+.livret-table td{ padding:14px 18px; vertical-align:top; line-height:1.55; border-bottom:0.5px solid var(--line); color:var(--ink); }
+.livret-table tbody tr:last-child td{ border-bottom:0; }
+.livret-table tbody tr:hover{ background:rgba(255,255,255,0.02); }
+.content h2.chap{ font-family:"Fraunces",serif; font-size:32px; font-weight:500; margin:40px 0 18px;
+  color:var(--gold); letter-spacing:-0.02em; border-top:1px solid var(--line); padding-top:30px; }
+.content h2.chap:first-of-type{ border-top:0; padding-top:0; margin-top:0; }
