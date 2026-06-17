@@ -1,0 +1,10 @@
+{
+  "themes": [
+    { "slug": "llm",       "label": "LLM",       "color": "#9fe0d5", "desc": "Modèles de langage : Claude, GPT, Gemini, Mistral. Quoi, pour qui, comment." },
+    { "slug": "creation",  "label": "Création",  "color": "#e2613b", "desc": "Texte, image, vidéo, audio. Produire avec l'IA, vite et bien." },
+    { "slug": "curation",  "label": "Curation",  "color": "#d9a441", "desc": "Trier, résumer, organiser. L'IA pour gérer l'infobésité." },
+    { "slug": "workflow",  "label": "Workflow",  "color": "#b8c4ba", "desc": "Automatiser ses tâches répétitives. Gagner du temps tous les jours." },
+    { "slug": "agents",    "label": "Agents",    "color": "#c7a3ff", "desc": "IA autonomes qui exécutent des chaînes d'actions. La frontière qui bouge." },
+    { "slug": "ethique",   "label": "Éthique",   "color": "#f0997b", "desc": "RGPD, biais, droits d'auteur, dépendance. Les questions qu'on n'évite pas." }
+  ]
+}
