@@ -211,3 +211,15 @@ img{ max-width:100%; display:block; }
   .quote-photo{ margin:0 auto; }
   .this-week{ flex-direction:column; align-items:flex-start; gap:10px; margin:-24px 16px 0; }
 }
+
+
+/* ============ Contenu des modules (HTML extrait) ============ */
+.content h3{ font-family:"Fraunces",serif; font-size:22px; font-weight:500; margin:28px 0 12px; color:var(--ink); letter-spacing:-0.005em; }
+.content h4{ font-family:"Fraunces",serif; font-size:17px; font-weight:500; margin:22px 0 10px; color:var(--moss); }
+.content p{ margin:0 0 14px; color:var(--ink); line-height:1.7; }
+.content ul{ margin:0 0 16px 22px; padding:0; }
+.content li{ margin:0 0 8px; color:var(--ink); line-height:1.6; }
+.content em{ color:var(--gold); font-style:italic; }
+.content strong{ color:var(--moss); font-weight:600; }
+details summary::-webkit-details-marker{ display:none; }
+details[open] summary span{ transform:rotate(180deg); transition:0.2s; display:inline-block; }
