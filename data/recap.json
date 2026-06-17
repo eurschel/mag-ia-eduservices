@@ -1,0 +1,15 @@
+{
+  "semaine": 25,
+  "annee": 2026,
+  "titre": "Claude 4.6, Gemini 3 Pro, et un agent qui corrige les copies en 4 min.",
+  "lead": "Le récap de la semaine 25 — 3 actus essentielles, 1 outil à tester, 1 retour terrain, 1 lecture longue.",
+  "pdf": "/static/recaps/2026-W25.pdf",
+  "items": [
+    { "type": "actu",      "titre": "Anthropic publie Claude 4.6", "lead": "Plus rapide, vision améliorée, contexte 500K tokens. Bench prof : +18 % en correction.", "url": "https://www.anthropic.com" },
+    { "type": "actu",      "titre": "Gemini 3 Pro arrive en accès payant", "lead": "Google ouvre l'API. Test prof : excellent en synthèses, faible en quiz.", "url": "https://blog.google" },
+    { "type": "actu",      "titre": "L'IA Act : étape clé pour l'éducation", "lead": "Bruxelles publie ses lignes directrices spécifiques pour le secteur éducatif.", "url": "https://digital-strategy.ec.europa.eu" },
+    { "type": "outil",     "titre": "Albert (DINUM) ouvert aux enseignants du sup", "lead": "L'IA souveraine française accessible gratuitement avec un compte académique.", "url": "https://albert.api.etalab.gouv.fr" },
+    { "type": "terrain",   "titre": "Agent correcteur : 130 copies en 4 min", "lead": "Lire le retour d'expérience complet sur le blog." },
+    { "type": "lecture",   "titre": "L'IA générative au lycée — état des lieux 2026 (Cnesco)", "lead": "Rapport de 80 pages — l'essentiel résumé en 5 points.", "url": "https://www.cnesco.fr" }
+  ]
+}
