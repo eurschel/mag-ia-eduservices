@@ -1,0 +1,77 @@
+{
+  "articles": [
+    {
+      "slug": "claude-46-rentree",
+      "titre": "Claude 4.6 pour la rentrée : ce qui change vraiment pour préparer ses cours",
+      "lead": "Le nouveau modèle d'Anthropic est sorti la semaine dernière. Comparatif honnête avec GPT-5 et Gemini 3 sur 3 tâches de prof.",
+      "auteur": "E. Urschel",
+      "date": "2026-06-15",
+      "duree": "7 min",
+      "type": "Analyse",
+      "themes": ["llm"],
+      "tags": ["llm", "creation"],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1620712943543-bcc4688e7485%3Fw%3D1200&w=1200&output=webp",
+      "featured": true
+    },
+    {
+      "slug": "cas-pratique-bts-ndrc-8min",
+      "titre": "Générer un cas pratique BTS NDRC en 8 minutes",
+      "lead": "Tutoriel pas-à-pas : du brief au cas livrable, avec sa correction et son barème. Reproductible.",
+      "auteur": "E. Urschel",
+      "date": "2026-06-12",
+      "duree": "12 min",
+      "type": "Tuto",
+      "themes": ["creation"],
+      "tags": ["creation", "workflow"],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1551836022-d5d88e9218df%3Fw%3D1200&w=1200&output=webp"
+    },
+    {
+      "slug": "agent-correction-controles",
+      "titre": "J'ai construit un agent qui corrige mes contrôles. Résultats sur 130 copies.",
+      "lead": "Retour d'expérience : 12 h de gagnées, 91 % de cohérence avec ma notation manuelle, où l'agent a échoué.",
+      "auteur": "E. Urschel",
+      "date": "2026-06-09",
+      "duree": "9 min",
+      "type": "Retour terrain",
+      "themes": ["agents"],
+      "tags": ["agents", "workflow"],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1581091226825-a6a2a5aee158%3Fw%3D1200&w=1200&output=webp"
+    },
+    {
+      "slug": "notebooklm-resume-30-pdf",
+      "titre": "NotebookLM pour résumer 30 PDF de pédagogie en une matinée",
+      "lead": "L'outil de curation Google qui rivalise sérieusement avec Claude Projects. Comparatif honnête.",
+      "auteur": "E. Urschel",
+      "date": "2026-06-05",
+      "duree": "6 min",
+      "type": "Outil",
+      "themes": ["curation"],
+      "tags": ["curation", "llm"],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1456513080510-7bf3a84b82f8%3Fw%3D1200&w=1200&output=webp"
+    },
+    {
+      "slug": "rgpd-prompts-eleves",
+      "titre": "RGPD : peut-on mettre des prompts qui contiennent des données d'élèves ?",
+      "lead": "Le sujet qui fâche, traité droit dans les yeux. Avec les bonnes pratiques par outil (Claude, ChatGPT, Mistral, Albert).",
+      "auteur": "E. Urschel",
+      "date": "2026-06-02",
+      "duree": "10 min",
+      "type": "Éthique",
+      "themes": ["ethique"],
+      "tags": ["ethique", "workflow"],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1563013544-824ae1b704d3%3Fw%3D1200&w=1200&output=webp"
+    },
+    {
+      "slug": "claude-code-pour-prof",
+      "titre": "Claude Code pour un prof : du quiz interactif au site complet, sans coder",
+      "lead": "L'outil CLI d'Anthropic, longtemps réservé aux devs, devient utilisable côté enseignant. Voici comment.",
+      "auteur": "E. Urschel",
+      "date": "2026-05-28",
+      "duree": "11 min",
+      "type": "Tuto",
+      "themes": ["workflow", "agents"],
+      "tags": ["workflow", "agents", "creation"],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1542831371-29b0f74f9713%3Fw%3D1200&w=1200&output=webp"
+    }
+  ]
+}
