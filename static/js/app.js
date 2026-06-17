@@ -231,12 +231,19 @@ async function renderModule(niveau, num) {
     </section>
     <section class="section" style="max-width:880px;">
       ${m.sections.map(s => `
-        <div style="margin:0 0 40px;padding:28px 30px;background:var(--bg2);border:0.5px solid var(--line);border-radius:14px;">
-          <div style="font-size:11px;color:${f.color};letter-spacing:0.14em;text-transform:uppercase;margin-bottom:8px;">${esc(s.type)}</div>
-          <h3 style="font-family:Fraunces,serif;font-size:22px;font-weight:500;margin:0 0 10px;">${esc(s.titre)}</h3>
-          ${s.lead ? `<p style="color:var(--ink2);line-height:1.6;">${esc(s.lead)}</p>` : ''}
-          <div style="margin-top:18px;font-size:13px;color:var(--ink3);">Contenu à intégrer depuis le ${s.type === 'slides' ? 'PPTX' : 'Livret/Exercice'}.</div>
-        </div>
+        <details ${s.type === 'cours' ? 'open' : ''} style="margin:0 0 18px;background:var(--bg2);border:0.5px solid var(--line);border-radius:14px;overflow:hidden;">
+          <summary style="padding:22px 26px;cursor:pointer;list-style:none;display:flex;justify-content:space-between;align-items:center;">
+            <div>
+              <div style="font-size:11px;color:${f.color};letter-spacing:0.14em;text-transform:uppercase;margin-bottom:6px;">${esc(s.type)}</div>
+              <h3 style="font-family:Fraunces,serif;font-size:21px;font-weight:500;margin:0;">${esc(s.titre)}</h3>
+              ${s.lead ? `<p style="color:var(--ink2);font-size:13px;line-height:1.55;margin-top:6px;">${esc(s.lead)}</p>` : ''}
+            </div>
+            <span style="color:var(--ink3);font-size:18px;">▾</span>
+          </summary>
+          <div class="content" style="padding:0 28px 26px;color:var(--ink);line-height:1.7;font-size:15px;">
+            ${s.html || `<p style="color:var(--ink3);">Contenu à intégrer.</p>`}
+          </div>
+        </details>
       `).join('')}
       ${m.linked_actus && m.linked_actus.length ? `
         <div style="margin-top:50px;padding:24px;background:linear-gradient(135deg,rgba(217,164,65,0.12),rgba(217,164,65,0.04));border:0.5px solid rgba(217,164,65,0.30);border-radius:14px;">
