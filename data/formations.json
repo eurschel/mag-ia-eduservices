@@ -1,0 +1,134 @@
+{
+  "n1": {
+    "slug": "n1",
+    "label": "Niveau 1",
+    "tagline": "Les bases. Préparer ses cours avec l'IA.",
+    "long": "Niveau 1 — Les bases : prompt, outils, utilité pédagogique. Vous apprenez à utiliser l'IA générative pour produire concrètement vos exercices, vos slides, votre contenu de cours et vos quizz. Pas de prérequis technique.",
+    "color": "#9fe0d5",
+    "hero_img": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1518770660439-4636190af475%3Fw%3D1600&w=1600&output=webp",
+    "modules": [
+      {
+        "num": 1,
+        "slug": "bases",
+        "title": "Bases — comprendre l'IA générative",
+        "duree": "45 min",
+        "tagline": "Qu'est-ce qu'un modèle de langage ? Pourquoi il « hallucine » ? Comment il a appris ?",
+        "tags": ["llm", "ethique"],
+        "img": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1677442136019-21780ecad995%3Fw%3D1200&w=1200&output=webp",
+        "sections": [
+          { "type": "cours",    "titre": "Cours — Les fondations", "lead": "Une fiche claire pour comprendre les modèles de langage, sans maths." },
+          { "type": "slides",   "titre": "Slides intégrées", "lead": "10 diapositives à projeter en classe ou à réviser seul." },
+          { "type": "exercice", "titre": "Exercice 1 — Tester un modèle", "lead": "On met les mains dans Claude, en 15 min." },
+          { "type": "corrige",  "titre": "Corrigés (dépliable)", "lead": "Les réponses commentées." },
+          { "type": "quizz",    "titre": "Quizz éclair", "lead": "5 questions pour ancrer." }
+        ]
+      },
+      {
+        "num": 2,
+        "slug": "prompt",
+        "title": "Prompt — l'art de demander",
+        "duree": "1 h",
+        "tagline": "Structurer une requête. Donner du contexte, un format, une contrainte. C'est 80 % du résultat.",
+        "tags": ["llm", "creation"],
+        "img": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1611162617213-7d7a39e9b1d7%3Fw%3D1200&w=1200&output=webp",
+        "sections": [
+          { "type": "cours",    "titre": "Cours — Anatomie d'un bon prompt", "lead": "Rôle, contexte, format, contrainte, exemple." },
+          { "type": "slides",   "titre": "Slides — 8 patterns essentiels", "lead": "Du « rôle » au « few-shot »." },
+          { "type": "exercice", "titre": "Exercice — réécrire 5 prompts faibles", "lead": "Avant / après, comparaison guidée." },
+          { "type": "corrige",  "titre": "Corrigés", "lead": "" },
+          { "type": "quizz",    "titre": "Quizz éclair", "lead": "" }
+        ]
+      },
+      {
+        "num": 3,
+        "slug": "outils",
+        "title": "Outils — la boîte à outils du prof",
+        "duree": "1 h",
+        "tagline": "Claude, ChatGPT, Gemini, Mistral, NotebookLM, Perplexity. Lequel pour quoi.",
+        "tags": ["llm", "creation", "workflow"],
+        "img": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1593642632559-0c6d3fc62b89%3Fw%3D1200&w=1200&output=webp",
+        "sections": [
+          { "type": "cours",    "titre": "Cours — Comparatif des 6 outils clés", "lead": "Forces, faiblesses, prix, RGPD." },
+          { "type": "slides",   "titre": "Slides — tableau de décision", "lead": "Quel outil pour quelle tâche." },
+          { "type": "exercice", "titre": "Exercice — choisir le bon outil pour 4 cas", "lead": "" },
+          { "type": "corrige",  "titre": "Corrigés", "lead": "" },
+          { "type": "quizz",    "titre": "Quizz éclair", "lead": "" }
+        ]
+      },
+      {
+        "num": 4,
+        "slug": "pedagogie",
+        "title": "Pédagogie de base — produire ses supports",
+        "duree": "1 h 30",
+        "tagline": "Exercices, slides, contenu de cours, quizz. L'atelier productif.",
+        "tags": ["creation", "curation"],
+        "img": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1523240795612-9a054b0db644%3Fw%3D1200&w=1200&output=webp",
+        "sections": [
+          { "type": "cours",    "titre": "Cours — Méthodes & garde-fous", "lead": "Validité, droits d'auteur, vérification." },
+          { "type": "slides",   "titre": "Slides — Templates prêts", "lead": "8 cas concrets BTS, Bachelor, Master." },
+          { "type": "exercice", "titre": "Atelier — produisez votre prochain cours", "lead": "45 min pour repartir avec un livrable." },
+          { "type": "corrige",  "titre": "Exemples de productions", "lead": "" },
+          { "type": "quizz",    "titre": "Quizz final N1", "lead": "Valide votre Niveau 1." }
+        ]
+      }
+    ]
+  },
+  "n2": {
+    "slug": "n2",
+    "label": "Niveau 2",
+    "tagline": "L'optimisation. Transformer son métier.",
+    "long": "Niveau 2 — L'optimisation : on dépasse l'usage individuel pour repenser son organisation de travail. Workflow interne automatisé, sites web pédagogiques, agents IA qui exécutent à votre place. Prérequis : le Niveau 1.",
+    "color": "#e2613b",
+    "hero_img": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1551434678-e076c223a692%3Fw%3D1600&w=1600&output=webp",
+    "modules": [
+      {
+        "num": 1,
+        "slug": "workflow",
+        "title": "Workflow — optimiser son organisation de travail",
+        "duree": "1 h 30",
+        "tagline": "Chaînes de prompts, modèles personnalisés, raccourcis. Gagner 2 h par semaine, mesurable.",
+        "tags": ["workflow", "llm"],
+        "img": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1556761175-5973dc0f32e7%3Fw%3D1200&w=1200&output=webp",
+        "sections": [
+          { "type": "cours",    "titre": "Cours — Architecture d'un workflow IA", "lead": "Penser en pipelines, pas en requêtes isolées." },
+          { "type": "slides",   "titre": "Slides — 6 workflows clés du prof", "lead": "Prép cours, correction, rétro élèves, bulletin, mail parents, veille." },
+          { "type": "exercice", "titre": "Atelier — construisez votre workflow", "lead": "Un workflow concret, le vôtre, livré à la fin de l'atelier." },
+          { "type": "corrige",  "titre": "Exemples commentés", "lead": "" },
+          { "type": "quizz",    "titre": "Quizz éclair", "lead": "" }
+        ]
+      },
+      {
+        "num": 2,
+        "slug": "sites-web",
+        "title": "Sites web — créer ses ressources en ligne",
+        "duree": "2 h",
+        "tagline": "Faire un site, un quiz interactif, une fiche enrichie — sans coder. Avec l'IA comme co-développeur.",
+        "tags": ["creation", "workflow"],
+        "img": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1467232004584-a241de8bcf5d%3Fw%3D1200&w=1200&output=webp",
+        "sections": [
+          { "type": "cours",    "titre": "Cours — Du brief au site live", "lead": "Outils no-code IA, hébergement gratuit, partage." },
+          { "type": "slides",   "titre": "Slides — Carte des outils", "lead": "Bolt, V0, Lovable, Claude Artifacts, Replit." },
+          { "type": "exercice", "titre": "Atelier — votre première mini-page", "lead": "Quiz interactif pour votre prochaine séance." },
+          { "type": "corrige",  "titre": "Exemples", "lead": "" },
+          { "type": "quizz",    "titre": "Quizz éclair", "lead": "" }
+        ]
+      },
+      {
+        "num": 3,
+        "slug": "agents",
+        "title": "Agents IA — déléguer des chaînes d'actions",
+        "duree": "2 h",
+        "tagline": "Un agent qui corrige les copies. Un agent qui veille pour vous. Un agent qui prépare les bulletins. C'est aujourd'hui.",
+        "tags": ["agents", "workflow", "ethique"],
+        "img": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1485827404703-89b55fcc595e%3Fw%3D1200&w=1200&output=webp",
+        "sections": [
+          { "type": "cours",    "titre": "Cours — Comprendre un agent", "lead": "Boucle penser → agir → observer. MCP, Claude Code, ChatGPT Tasks." },
+          { "type": "slides",   "titre": "Slides — 5 agents du prof", "lead": "Cas d'usage concrets, limites, garde-fous." },
+          { "type": "exercice", "titre": "Atelier intégration", "lead": "Vous construisez et déployez votre 1er agent." },
+          { "type": "corrige",  "titre": "Templates d'agents", "lead": "" },
+          { "type": "quizz",    "titre": "Quizz final N2", "lead": "Valide votre Niveau 2." }
+        ]
+      }
+    ]
+  }
+}
