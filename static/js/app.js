@@ -232,7 +232,7 @@ async function renderModule(niveau, num) {
         <p class="hero-lead">${esc(m.tagline)}</p>
       </div>
     </section>
-    <section class="section" style="max-width:880px;">
+    <section class="section section-full">
       ${m.sections.map(s => `
         <details ${s.type === 'cours' ? 'open' : ''} style="margin:0 0 18px;background:var(--bg2);border:0.5px solid var(--line);border-radius:14px;overflow:hidden;">
           <summary style="padding:22px 26px;cursor:pointer;list-style:none;display:flex;justify-content:space-between;align-items:center;">
@@ -301,7 +301,7 @@ function renderRecap() {
         </div>
       </div>
     </section>
-    <section class="section" style="max-width:880px;">
+    <section class="section section-full">
       ${r.items.map(it => `
         <a href="${it.url || '#'}" target="_blank" style="display:block;padding:22px 24px;background:var(--bg2);border:0.5px solid var(--line);border-radius:12px;margin-bottom:14px;">
           <div style="font-size:11px;color:var(--gold);letter-spacing:0.12em;text-transform:uppercase;margin-bottom:6px;">${esc(it.type)}</div>
