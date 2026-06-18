@@ -452,3 +452,9 @@ details[open] summary span{ transform:rotate(180deg); transition:0.2s; display:i
 .article-source{ position:absolute; right:14px; bottom:14px; padding:4px 10px; border-radius:6px;
   font-size:10px; font-weight:500; color:var(--ink); background:rgba(14,26,20,0.88); backdrop-filter:blur(8px);
   letter-spacing:0.04em; }
+
+
+/* ============ Section plein écran (modules, récap) ============ */
+.section-full{ max-width:none !important; padding:32px 4vw !important; }
+.section-full > .content,
+.section-full .content{ max-width:none; }
