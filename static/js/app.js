@@ -30,6 +30,7 @@ function router() {
   if (h === 'blog') return renderBlog('all');
   if (h.startsWith('blog/')) return renderBlog(h.split('/')[1]);
   if (h === 'recap') return renderRecap();
+  if (h === 'newsletter') return renderNewsletter();
   if (h === 'bibliotheque') return renderBibliotheque();
   renderHome();
 }
@@ -407,26 +408,129 @@ function renderBlog(theme) {
 
 function renderRecap() {
   const r = STATE.data.recap;
+  const dateLabel = r.annee ? `Semaine ${r.semaine} · ${r.annee}` : `Semaine ${r.semaine}`;
   APP.innerHTML = `
-    <section class="hero" style="--hero-img: url('https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1495020689067-958852a7765e%3Fw%3D2000&w=2000&output=webp'); padding:60px 32px;">
+    <section class="hero" style="padding:80px 32px 50px;">
       <div class="hero-inner">
-        <span class="hero-eyebrow">Le Récap · semaine ${r.semaine}</span>
+        <div class="hero-eyebrow"><span class="dot"></span>Le Récap hebdo · ${esc(dateLabel)}</div>
         <h1>${esc(r.titre)}</h1>
         <p class="hero-lead">${esc(r.lead)}</p>
-        ${r.pdf ? `<div class="hero-actions"><a class="btn btn-primary" href="${r.pdf}">↓ Télécharger le PDF</a></div>` : ''}
+        <div class="hero-actions">
+          <a class="btn btn-primary" href="#newsletter">S'abonner au Récap →</a>
+          ${r.pdf ? `<a class="btn btn-ghost" href="${r.pdf}">↓ Télécharger en PDF</a>` : ''}
+        </div>
       </div>
     </section>
-    <section class="section section-full">
-      ${r.items.map(it => `
-        <a href="${it.url || '#'}" target="_blank" style="display:block;padding:22px 24px;background:var(--bg2);border:0.5px solid var(--line);border-radius:12px;margin-bottom:14px;">
-          <div style="font-size:11px;color:var(--gold);letter-spacing:0.12em;text-transform:uppercase;margin-bottom:6px;">${esc(it.type)}</div>
-          <h3 style="font-family:Fraunces,serif;font-size:19px;font-weight:500;margin:0 0 6px;">${esc(it.titre)}</h3>
-          <p style="color:var(--ink2);line-height:1.5;font-size:14px;">${esc(it.lead)}</p>
-        </a>
-      `).join('')}
+    <section class="section">
+      <div class="section-head">
+        <div>
+          <div class="section-eyebrow">Cette semaine</div>
+          <h2>${r.items.length} ressource${r.items.length>1?'s':''} sélectionnée${r.items.length>1?'s':''}.</h2>
+        </div>
+      </div>
+      <div class="recap-grid">
+        ${r.items.map((it,i) => `
+          <a class="recap-card" href="${it.url || '#'}" ${it.url ? 'target="_blank" rel="noopener"' : ''}>
+            <div class="recap-card-num">${String(i+1).padStart(2,'0')}</div>
+            <div class="recap-card-type">${esc(recapTypeLabel(it.type))}</div>
+            <h3 class="recap-card-title">${esc(it.titre)}</h3>
+            <p class="recap-card-lead">${esc(it.lead)}</p>
+            ${it.url ? `<div class="recap-card-cta">Consulter ↗</div>` : ''}
+          </a>
+        `).join('')}
+      </div>
+    </section>
+    <section class="newsletter-banner">
+      <div class="nlb-inner">
+        <div class="nlb-icon">✉️</div>
+        <div class="nlb-text">
+          <h3>Recevez le Récap chaque dimanche</h3>
+          <p>Une sélection IA &amp; pédagogie qui nourrit vos cours, directement dans votre boîte mail. Désinscription en 1 clic.</p>
+        </div>
+        <a class="btn btn-primary" href="#newsletter">S'inscrire gratuitement →</a>
+      </div>
     </section>
   `;
 }
+
+function recapTypeLabel(t) {
+  const m = {cadre:'Cadre réglementaire',etude:'Étude / rapport',veille:'Veille produit',actu:'Actualité',outil:'Outil',terrain:'Retour terrain',lecture:'Lecture longue',video:'Vidéo'};
+  return m[t] || t || 'Ressource';
+}
+
+function renderNewsletter() {
+  APP.innerHTML = `
+    <section class="hero" style="padding:80px 32px 60px;">
+      <div class="hero-inner">
+        <div class="hero-eyebrow"><span class="dot"></span>Newsletter</div>
+        <h1>Le Récap arrive <em>chaque dimanche</em>.</h1>
+        <p class="hero-lead">Une sélection curée des essentiels IA &amp; pédagogie de la semaine. Conçue pour les enseignants du supérieur tertiaire. Trois minutes de lecture, douze mois d'avance.</p>
+      </div>
+    </section>
+    <section class="section">
+      <div class="newsletter-grid">
+        <div class="nl-form-box">
+          <h2>S'abonner au Récap</h2>
+          <p class="nl-form-lead">Votre adresse. Pas de spam, pas de partage à des tiers. Désinscription en 1 clic. Conforme RGPD.</p>
+          <form class="nl-form" onsubmit="return submitNewsletter(event)">
+            <label for="nl-email" class="nl-label">Adresse e-mail</label>
+            <input type="email" id="nl-email" name="EMAIL" required placeholder="prenom.nom@eduservices.fr" autocomplete="email">
+            <label class="nl-consent">
+              <input type="checkbox" id="nl-consent" required>
+              <span>J'accepte de recevoir Le Récap hebdo et la politique de <a href="#confidentialite">confidentialité</a>.</span>
+            </label>
+            <button type="submit" class="btn btn-primary">M'abonner →</button>
+            <div id="nl-status" class="nl-status"></div>
+          </form>
+        </div>
+        <div class="nl-promise-box">
+          <h3>Ce que vous recevrez</h3>
+          <ul class="nl-promise">
+            <li><strong>3 ressources curées</strong> · cadre, étude, outil — toutes vérifiables.</li>
+            <li><strong>1 prompt de la semaine</strong> · à copier-coller pour vos cours.</li>
+            <li><strong>1 chaîne YouTube</strong> · pour creuser à votre rythme.</li>
+            <li><strong>1 actu Eduservices</strong> · ce qui se passe dans nos écoles.</li>
+          </ul>
+          <div class="nl-meta">
+            <div><span>✓</span> Envoi unique le dimanche soir</div>
+            <div><span>✓</span> Aucun partage à des tiers</div>
+            <div><span>✓</span> Désinscription en 1 clic</div>
+          </div>
+        </div>
+      </div>
+    </section>
+  `;
+}
+
+async function submitNewsletter(e) {
+  e.preventDefault();
+  const email = document.getElementById('nl-email').value;
+  const status = document.getElementById('nl-status');
+  status.textContent = 'Inscription en cours…';
+  status.className = 'nl-status pending';
+  // PLACEHOLDER : URL du formulaire Brevo à configurer
+  // Quand la liste Brevo "Le Mag IA — Récap hebdo" sera créée, mettre l'URL ici
+  const BREVO_FORM_URL = ''; // TODO
+  if (!BREVO_FORM_URL) {
+    status.textContent = '⚠️ Inscription bientôt disponible — Brevo en cours de configuration.';
+    status.className = 'nl-status warn';
+    return false;
+  }
+  try {
+    const fd = new FormData();
+    fd.append('EMAIL', email);
+    fd.append('locale', 'fr');
+    await fetch(BREVO_FORM_URL, {method:'POST', body:fd, mode:'no-cors'});
+    status.textContent = '✓ Inscription enregistrée — vérifiez votre boîte mail !';
+    status.className = 'nl-status ok';
+    document.getElementById('nl-email').value = '';
+  } catch (err) {
+    status.textContent = 'Erreur. Réessayez ou contactez bonjour@news.tablonoir.fr';
+    status.className = 'nl-status err';
+  }
+  return false;
+}
+window.submitNewsletter = submitNewsletter;
 
 function renderBibliotheque() {
   const livrets = [
