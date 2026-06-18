@@ -62,22 +62,6 @@
       "slug": "openai-research"
     },
     {
-      "titre": "Claude Cowork — agent de travail collaboratif",
-      "source": "Anthropic",
-      "url": "https://claude.com/product/cowork",
-      "type": "outil",
-      "duree": "variable",
-      "date": "2026-06-15",
-      "lead": "L'agent Anthropic pour les non-développeurs : automatiser ses fichiers, ses tâches, ses workflows. En preview.",
-      "themes": [
-        "workflow",
-        "agents"
-      ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1552664730-d307ca884978%3Fw%3D1200&w=1200&output=webp",
-      "auteur": "Anthropic",
-      "slug": "claude-cowork-agent-de-travail-collaboratif"
-    },
-    {
       "titre": "Numerama — actualité tech française",
       "source": "Numerama",
       "url": "https://www.numerama.com/tech/intelligence-artificielle/",
@@ -108,21 +92,6 @@
       "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1523240795612-9a054b0db644%3Fw%3D1200&w=1200&output=webp",
       "auteur": "HeyGen",
       "slug": "heygen-cr-er-des-capsules-vid-o-avec-avatar"
-    },
-    {
-      "titre": "Synthesia — vidéos avec présentateur IA",
-      "source": "Synthesia",
-      "url": "https://www.synthesia.io/",
-      "type": "outil",
-      "duree": "variable",
-      "date": "2026-06-13",
-      "lead": "Alternative à HeyGen, plus enterprise. 140+ langues, customisation avatar. Utile pour capsules courtes utilitaires.",
-      "themes": [
-        "creation"
-      ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1542831371-29b0f74f9713%3Fw%3D1200&w=1200&output=webp",
-      "auteur": "Synthesia",
-      "slug": "synthesia-vid-os-avec-pr-sentateur-ia"
     },
     {
       "titre": "Statement on the US government directive to suspend access to Fable 5 and Mythos 5",
@@ -251,38 +220,6 @@
       "slug": "claude-cr-er-un-visuel-une-slide-un-mini-site"
     },
     {
-      "titre": "Adobe Firefly — génération d'images intégrée Creative Cloud",
-      "source": "Adobe",
-      "url": "https://www.adobe.com/products/firefly.html",
-      "type": "outil",
-      "duree": "variable",
-      "date": "2026-06-08",
-      "lead": "Modèle d'image entraîné sur des données licenciées. Disponible dans Photoshop, Illustrator. Pour qui a déjà Adobe.",
-      "themes": [
-        "creation",
-        "ethique"
-      ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1611162616305-c69b3fa7fbe0%3Fw%3D1200&w=1200&output=webp",
-      "auteur": "Adobe",
-      "slug": "adobe-firefly-g-n-ration-d-images-int-gr-e-creative-cloud"
-    },
-    {
-      "titre": "Claude Skills — apprendre à un agent votre méthode",
-      "source": "Anthropic",
-      "url": "https://www.claude.com/skills",
-      "type": "outil",
-      "duree": "variable",
-      "date": "2026-06-08",
-      "lead": "Capturez une fois votre façon de faire, l'agent rejoue indéfiniment sur de nouveaux cas. Page produit officielle.",
-      "themes": [
-        "agents",
-        "workflow"
-      ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1485827404703-89b55fcc595e%3Fw%3D1200&w=1200&output=webp",
-      "auteur": "Anthropic",
-      "slug": "claude-skills-apprendre-un-agent-votre-m-thode"
-    },
-    {
       "titre": "Gamma — du plan aux slides en 2 minutes",
       "source": "Gamma",
       "url": "https://gamma.app/",
@@ -328,22 +265,6 @@
       "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1563013544-824ae1b704d3%3Fw%3D1200&w=1200&output=webp",
       "auteur": "Anthropic",
       "slug": "what-we-learned-mapping-a-year-s-worth-of-ai-enabled-cyber-t"
-    },
-    {
-      "titre": "Introducing Services Track and Partner Hub of the Claude Partner Network",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/news/services-track-partner-hub",
-      "type": "article",
-      "duree": "5 min",
-      "date": "2026-06-03",
-      "lead": "Le nouveau Partner Hub d'Anthropic — répertoire de partenaires (intégrateurs, formateurs) qui aident les organisations à déployer Claude.",
-      "themes": [
-        "agents",
-        "workflow"
-      ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1552664730-d307ca884978%3Fw%3D1200&w=1200&output=webp",
-      "auteur": "Anthropic",
-      "slug": "introducing-services-track-and-partner-hub-of-the-claude-par"
     },
     {
       "titre": "Mistral AI — modèles, plateforme, tarifs",
@@ -420,37 +341,6 @@
       "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1532012197267-da84d127e765%3Fw%3D1200&w=1200&output=webp",
       "auteur": "HAL",
       "slug": "hal-archive-ouverte-fran-aise"
-    },
-    {
-      "titre": "Anthropic — Claude Code (CLI pour développeurs)",
-      "source": "Anthropic",
-      "url": "https://claude.com/product/claude-code",
-      "type": "outil",
-      "duree": "variable",
-      "date": "2026-06-01",
-      "lead": "L'outil ligne de commande Anthropic qui devient utilisable côté prof pour créer scripts, sites, automatisations sans coder vraiment.",
-      "themes": [
-        "workflow",
-        "creation"
-      ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1542831371-29b0f74f9713%3Fw%3D1200&w=1200&output=webp",
-      "auteur": "Anthropic",
-      "slug": "anthropic-claude-code-cli-pour-d-veloppeurs"
-    },
-    {
-      "titre": "Claude Connectors — MCP intégrations",
-      "source": "Anthropic",
-      "url": "https://claude.com/connectors",
-      "type": "outil",
-      "duree": "variable",
-      "date": "2026-06-01",
-      "lead": "L'écosystème Connectors via le protocole MCP. Brancher Claude à des sources, des outils, des bases. Standard ouvert.",
-      "themes": [
-        "agents"
-      ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1581091226825-a6a2a5aee158%3Fw%3D1200&w=1200&output=webp",
-      "auteur": "Anthropic",
-      "slug": "claude-connectors-mcp-int-grations"
     },
     {
       "titre": "CNIL — Intelligence artificielle",
