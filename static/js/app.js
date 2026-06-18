@@ -68,7 +68,7 @@ function renderHome() {
           <div class="tw-title">${esc(recap.titre)}</div>
         </div>
       </div>
-      <a class="tw-pdf" href="#recap">↓ Récap PDF</a>
+      <a class="tw-pdf" href="#recap">↗ Voir le récap</a>
     </div>
 
     <section class="section">
@@ -399,9 +399,7 @@ function renderRecap() {
         <span class="hero-eyebrow">Le Récap · semaine ${r.semaine}</span>
         <h1>${esc(r.titre)}</h1>
         <p class="hero-lead">${esc(r.lead)}</p>
-        <div class="hero-actions">
-          <a class="btn btn-primary" href="${r.pdf}">↓ Télécharger le PDF</a>
-        </div>
+        ${r.pdf ? `<div class="hero-actions"><a class="btn btn-primary" href="${r.pdf}">↓ Télécharger le PDF</a></div>` : ''}
       </div>
     </section>
     <section class="section section-full">
@@ -430,4 +428,4 @@ function renderBibliotheque() {
     },
     {
       titre: "Niveau 1 — Cahier d'exercices",
-      sous_titre: "8 exercices pratiques pour ancrer la formation : 
+      sous_titre: "8 exercices pratiques pour ancrer la formation 
