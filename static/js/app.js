@@ -326,6 +326,16 @@ function renderBibliotheque() {
       color: "var(--moss)"
     },
     {
+      titre: "Niveau 1 — Cahier d'exercices",
+      sous_titre: "8 exercices pratiques pour ancrer la formation : prompts, étude de cas, QCM, RGPD…",
+      auteur: "E. Urschel",
+      pages: "≈ 20 pages",
+      size: "254 Ko",
+      type: "DOCX",
+      url: "/static/livrets/Niveau1_Exercices.docx",
+      color: "var(--moss)"
+    },
+    {
       titre: "Niveau 2 — Manuel de formation",
       sous_titre: "Concevoir avec l'IA · idéation, prompting avancé, agents, évaluation",
       auteur: "E. Urschel",
@@ -336,14 +346,14 @@ function renderBibliotheque() {
       color: "var(--coral)"
     },
     {
-      titre: "L'Intelligence Artificielle Générative — Guide complet 2026",
-      sous_titre: "Ouvrage de référence rédigé par un collègue, à recommander largement",
-      auteur: "Eduservices",
-      pages: "PDF illustré",
-      size: "5,8 Mo",
-      type: "PDF",
-      url: "/static/livrets/Guide_IA_Generative_2026.pdf",
-      color: "var(--gold)"
+      titre: "Niveau 2 — Cahier d'exercices",
+      sous_titre: "8 exercices avancés : challenger une IA, créer une Skill, repenser l'évaluation…",
+      auteur: "E. Urschel",
+      pages: "≈ 18 pages",
+      size: "172 Ko",
+      type: "DOCX",
+      url: "/static/livrets/Niveau2_Exercices.docx",
+      color: "var(--coral)"
     }
   ];
   APP.innerHTML = `
