@@ -272,7 +272,7 @@
           "creation",
           "workflow"
         ],
-        "img": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1452830978618-d6feae7d0ffa%3Fw%3D1200&w=1200&output=webp",
+        "img": "/static/img/gemini/dashboard-innovation.jpg",
         "sections": [
           {
             "type": "cours",
@@ -393,7 +393,7 @@
           "creation",
           "curation"
         ],
-        "img": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1455894127589-22f75500213a%3Fw%3D1200&w=1200&output=webp",
+        "img": "/static/img/gemini/mosaique-profs-etudiants.jpg",
         "sections": [
           {
             "type": "cours",
@@ -525,7 +525,7 @@
           "workflow",
           "llm"
         ],
-        "img": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1456406644174-8ddd4cd52a06%3Fw%3D1200&w=1200&output=webp",
+        "img": "/static/img/gemini/mosaique-tableaux-fr.jpg",
         "sections": [
           {
             "type": "cours",
@@ -646,7 +646,7 @@
           "creation",
           "workflow"
         ],
-        "img": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1456513080510-7bf3a84b82f8%3Fw%3D1200&w=1200&output=webp",
+        "img": "/static/img/gemini/dashboard-performance.jpg",
         "sections": [
           {
             "type": "cours",
@@ -769,7 +769,7 @@
           "workflow",
           "ethique"
         ],
-        "img": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1457369804613-52c61a468e7d%3Fw%3D1200&w=1200&output=webp",
+        "img": "/static/img/gemini/robot-industriel.jpg",
         "sections": [
           {
             "type": "cours",
