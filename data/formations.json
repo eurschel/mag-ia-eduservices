@@ -81,7 +81,108 @@
             "lead": "5 questions.",
             "html": "<div class=\"quizz-q\" data-feedback=\"Donner un exemple vaut dix adjectifs. C'est la brique la plus puissante et la plus rare.\"><h4>Parmi ces 6 briques, laquelle est souvent oubliée ?</h4><span class=\"quizz-opt\" data-correct=\"0\" onclick=\"this.classList.add(this.dataset.correct=='1' ? 'correct':'wrong'); this.parentElement.querySelector('.quizz-feedback').textContent=this.dataset.correct=='1' ? '✓ Bonne réponse — '+this.parentElement.dataset.feedback : '✗ Pas tout à fait. '+this.parentElement.dataset.feedback;\">Le contexte</span><span class=\"quizz-opt\" data-correct=\"0\" onclick=\"this.classList.add(this.dataset.correct=='1' ? 'correct':'wrong'); this.parentElement.querySelector('.quizz-feedback').textContent=this.dataset.correct=='1' ? '✓ Bonne réponse — '+this.parentElement.dataset.feedback : '✗ Pas tout à fait. '+this.parentElement.dataset.feedback;\">L'objectif</span><span class=\"quizz-opt\" data-correct=\"1\" onclick=\"this.classList.add(this.dataset.correct=='1' ? 'correct':'wrong'); this.parentElement.querySelector('.quizz-feedback').textContent=this.dataset.correct=='1' ? '✓ Bonne réponse — '+this.parentElement.dataset.feedback : '✗ Pas tout à fait. '+this.parentElement.dataset.feedback;\">L'exemple</span><span class=\"quizz-opt\" data-correct=\"0\" onclick=\"this.classList.add(this.dataset.correct=='1' ? 'correct':'wrong'); this.parentElement.querySelector('.quizz-feedback').textContent=this.dataset.correct=='1' ? '✓ Bonne réponse — '+this.parentElement.dataset.feedback : '✗ Pas tout à fait. '+this.parentElement.dataset.feedback;\">Le format</span><div class=\"quizz-feedback\"></div></div><div class=\"quizz-q\" data-feedback=\"Itérer, c'est corriger par micro-ajustements. « Resserre », « ajoute un exemple », « change le ton ».\"><h4>Itérer, c'est :</h4><span class=\"quizz-opt\" data-correct=\"0\" onclick=\"this.classList.add(this.dataset.correct=='1' ? 'correct':'wrong'); this.parentElement.querySelector('.quizz-feedback').textContent=this.dataset.correct=='1' ? '✓ Bonne réponse — '+this.parentElement.dataset.feedback : '✗ Pas tout à fait. '+this.parentElement.dataset.feedback;\">Recommencer entièrement à chaque fois</span><span class=\"quizz-opt\" data-correct=\"1\" onclick=\"this.classList.add(this.dataset.correct=='1' ? 'correct':'wrong'); this.parentElement.querySelector('.quizz-feedback').textContent=this.dataset.correct=='1' ? '✓ Bonne réponse — '+this.parentElement.dataset.feedback : '✗ Pas tout à fait. '+this.parentElement.dataset.feedback;\">Ajuster par petites touches</span><span class=\"quizz-opt\" data-correct=\"0\" onclick=\"this.classList.add(this.dataset.correct=='1' ? 'correct':'wrong'); this.parentElement.querySelector('.quizz-feedback').textContent=this.dataset.correct=='1' ? '✓ Bonne réponse — '+this.parentElement.dataset.feedback : '✗ Pas tout à fait. '+this.parentElement.dataset.feedback;\">Demander 3 fois la même chose</span><span class=\"quizz-opt\" data-correct=\"0\" onclick=\"this.classList.add(this.dataset.correct=='1' ? 'correct':'wrong'); this.parentElement.querySelector('.quizz-feedback').textContent=this.dataset.correct=='1' ? '✓ Bonne réponse — '+this.parentElement.dataset.feedback : '✗ Pas tout à fait. '+this.parentElement.dataset.feedback;\">Changer d'outil</span><div class=\"quizz-feedback\"></div></div><div class=\"quizz-q\" data-feedback=\"Les frameworks étaient utiles quand les modèles étaient moins bons. Aujourd'hui, un prompt clair en français suffit.\"><h4>Pourquoi éviter les frameworks à rallonge type CO-STAR ?</h4><span class=\"quizz-opt\" data-correct=\"0\" onclick=\"this.classList.add(this.dataset.correct=='1' ? 'correct':'wrong'); this.parentElement.querySelector('.quizz-feedback').textContent=this.dataset.correct=='1' ? '✓ Bonne réponse — '+this.parentElement.dataset.feedback : '✗ Pas tout à fait. '+this.parentElement.dataset.feedback;\">Ils ne marchent pas</span><span class=\"quizz-opt\" data-correct=\"1\" onclick=\"this.classList.add(this.dataset.correct=='1' ? 'correct':'wrong'); this.parentElement.querySelector('.quizz-feedback').textContent=this.dataset.correct=='1' ? '✓ Bonne réponse — '+this.parentElement.dataset.feedback : '✗ Pas tout à fait. '+this.parentElement.dataset.feedback;\">Les modèles récents comprennent un français clair sans formule</span><span class=\"quizz-opt\" data-correct=\"0\" onclick=\"this.classList.add(this.dataset.correct=='1' ? 'correct':'wrong'); this.parentElement.querySelector('.quizz-feedback').textContent=this.dataset.correct=='1' ? '✓ Bonne réponse — '+this.parentElement.dataset.feedback : '✗ Pas tout à fait. '+this.parentElement.dataset.feedback;\">C'est trop long</span><span class=\"quizz-opt\" data-correct=\"0\" onclick=\"this.classList.add(this.dataset.correct=='1' ? 'correct':'wrong'); this.parentElement.querySelector('.quizz-feedback').textContent=this.dataset.correct=='1' ? '✓ Bonne réponse — '+this.parentElement.dataset.feedback : '✗ Pas tout à fait. '+this.parentElement.dataset.feedback;\">C'est interdit</span><div class=\"quizz-feedback\"></div></div>"
           }
-        ]
+        ],
+        "vignettes": [
+          {
+            "type": "video",
+            "icon": "🎥",
+            "label": "Vidéo · 1 h",
+            "titre": "Intro to Large Language Models",
+            "lead": "La conférence d'Andrej Karpathy (ex-OpenAI / Tesla) qui démythifie ce qu'est un LLM en 1 heure. Référence absolue pour comprendre ce qui se passe sous le capot.",
+            "source": "Andrej Karpathy",
+            "duree": "59 min · EN sous-titré FR",
+            "url": "https://www.youtube.com/watch?v=zjkBMFhNj_g",
+            "thumb": "https://i.ytimg.com/vi/zjkBMFhNj_g/hqdefault.jpg"
+          },
+          {
+            "type": "video",
+            "icon": "🎥",
+            "label": "Vidéo · 27 min",
+            "titre": "Transformers — la tech derrière les LLM",
+            "lead": "3Blue1Brown explique visuellement le mécanisme d'attention qui fait fonctionner ChatGPT et Claude. Vulgarisation de haut niveau, accessible sans maths.",
+            "source": "3Blue1Brown",
+            "duree": "27 min · EN sous-titré FR",
+            "url": "https://www.youtube.com/watch?v=wjZofJX0v4M",
+            "thumb": "https://i.ytimg.com/vi/wjZofJX0v4M/hqdefault.jpg"
+          },
+          {
+            "type": "exemple",
+            "icon": "⚡",
+            "label": "Exemples · 5 prompts",
+            "titre": "5 prompts prêts à l'emploi pour profs",
+            "lead": "Cinq prompts calibrés pour les usages les plus fréquents en pédagogie — à copier/coller et adapter à votre cas.",
+            "modal_id": "prompts-profs"
+          },
+          {
+            "type": "exemple",
+            "icon": "⚡",
+            "label": "Cas réel",
+            "titre": "Le prompt avant / après méthode RACE",
+            "lead": "Un même besoin pédagogique formulé naïvement puis selon RACE. Voyez la différence de sortie côte à côte.",
+            "modal_id": "prompt-avant-apres"
+          },
+          {
+            "type": "hallu",
+            "icon": "🛑",
+            "label": "Cas concret",
+            "titre": "3 hallucinations classiques en pédagogie",
+            "lead": "Citation inventée, date fausse, auteur attribué à tort — trois pièges fréquents avec des cas réels et les bons réflexes pour les éviter.",
+            "modal_id": "hallucinations-classiques"
+          },
+          {
+            "type": "outil",
+            "icon": "🔧",
+            "label": "Fiche pratique",
+            "titre": "Quelle IA pour quel besoin pédagogique ?",
+            "lead": "Mini-comparatif ChatGPT, Claude, Gemini, Mistral — pour chaque cas d'usage (rédaction, correction, recherche, RGPD), quel outil dégaine plus vite.",
+            "modal_id": "ia-par-besoin"
+          },
+          {
+            "type": "approfondir",
+            "icon": "💡",
+            "label": "Aller plus loin",
+            "titre": "Pourquoi l'IA répond mal aux questions vagues",
+            "lead": "Comprendre la mécanique probabiliste qui rend les LLM si dépendants de la précision de la demande — et pourquoi le contexte change tout.",
+            "modal_id": "vague-vs-precis"
+          },
+          {
+            "type": "chiffre",
+            "icon": "📊",
+            "label": "Chiffre clé",
+            "titre": "80 %",
+            "lead": "C'est la part de qualité de la sortie qui dépend directement de la qualité du prompt. Source : étude Anthropic 2024 sur le prompt engineering en environnement professionnel."
+          },
+          {
+            "type": "citation",
+            "icon": "💬",
+            "label": "Citation",
+            "titre": "« Un bon prompt = un brief professionnel »",
+            "lead": "Si vous aviez à briefer un alternant, vous ne diriez pas « fais-moi un truc ». L'IA mérite le même niveau de précision — et vous obtiendrez le même niveau de qualité.",
+            "source": "Christophe Bruneau, Guide complet 2026"
+          }
+        ],
+        "modals": {
+          "prompts-profs": {
+            "titre": "5 prompts prêts à l'emploi pour profs",
+            "html": "<p>Cinq prompts éprouvés pour vos besoins les plus fréquents. Copiez-collez dans ChatGPT, Claude, Gemini ou Mistral, ajustez le contexte entre crochets, lancez.</p><h4>1. Générer un quiz QCM calibré</h4><pre>Tu es formateur en [niveau, ex: BTS MCO 2e année]. Génère un quiz de 10 QCM sur [sujet, ex: les 4P du marketing-mix]. Pour chaque question : 4 propositions, 1 bonne réponse, 1 justification pédagogique de 2 lignes. Format : tableau Markdown.</pre><h4>2. Rédiger une consigne d'exercice claire</h4><pre>Reformule cette consigne pour qu'elle soit comprise sans ambiguïté par un étudiant de [niveau]. Précise : ce qui est attendu, le format de rendu, la durée estimée, les critères de réussite. Consigne brute : [coller ici].</pre><h4>3. Vulgariser un concept abstrait</h4><pre>Explique le concept de [concept, ex: élasticité-prix] à un étudiant de [niveau]. Utilise une analogie de la vie quotidienne, donne 1 exemple concret du secteur [secteur], puis 1 mini-exercice de vérification de la compréhension.</pre><h4>4. Corriger une copie avec ta grille</h4><pre>Voici la grille de notation : [coller la grille]. Voici la copie : [coller la copie]. Évalue critère par critère, attribue les points, justifie chaque attribution en 2 lignes. Donne enfin 3 conseils personnalisés à l'élève. Ne tiens pas compte des fautes d'orthographe sauf si elles nuisent à la compréhension.</pre><h4>5. Générer une étude de cas crédible</h4><pre>Crée une étude de cas pour [filière]. Contexte : PME française fictive du secteur [secteur], chiffres réalistes. Situation : un dilemme à 2 options défendables. Format : (1) contexte 200 mots, (2) 3 personnages avec rôles, (3) le déclencheur, (4) 4 questions d'analyse, (5) 1 question de prospective. À la fin, donne-moi les pistes de réponse en encadré séparé.</pre><p class='tip'>💡 <strong>Astuce</strong> : sauvegardez ces prompts dans un fichier Notion / OneNote / .md à part. Au bout de 3 mois, vous aurez votre bibliothèque personnelle de prompts éprouvés — votre vrai capital pédagogique IA.</p>"
+          },
+          "prompt-avant-apres": {
+            "titre": "Le prompt avant / après méthode RACE",
+            "html": "<p>Même besoin pédagogique, deux formulations radicalement différentes. La même IA, le même jour, deux résultats opposés.</p><h4>❌ Version naïve</h4><pre>Donne-moi un cours sur le marketing digital.</pre><p><strong>Sortie obtenue</strong> : un plan générique en 5 parties, avec des notions de base, sans niveau précisé, sans contexte. Inexploitable tel quel — il faut tout réécrire.</p><h4>✅ Version RACE</h4><pre>Tu es formateur en BTS MCO 2e année, spécialiste du marketing digital appliqué au retail [R].\n\nRédige un plan de séance de 2h [A] pour introduire les fondamentaux du SEO en e-commerce.\n\nContexte : 24 étudiants en alternance, qui découvrent le SEO mais maîtrisent déjà les bases du marketing-mix. Tu disposes d'un vidéoprojecteur et chaque étudiant a un ordinateur portable [C].\n\nFormat de sortie : plan détaillé minute par minute, avec : (1) accroche 10 min, (2) apport théorique 30 min (3 concepts clés), (3) activité pratique 50 min, (4) institutionnalisation 15 min, (5) évaluation formative 15 min. Pour chaque activité : objectif, modalité, livrable attendu [E].</pre><p><strong>Sortie obtenue</strong> : un plan opérationnel, directement utilisable, avec les bons réflexes pédagogiques (alternance théorie / pratique, évaluation formative, durées réalistes). Gain de temps : 1h30 de préparation devient 5 minutes de relecture.</p><p class='tip'>👉 La différence n'est pas dans l'IA. Elle est dans <strong>votre demande</strong>.</p>"
+          },
+          "hallucinations-classiques": {
+            "titre": "3 hallucinations classiques en pédagogie",
+            "html": "<p>Une <strong>hallucination</strong>, c'est une réponse plausible mais fausse, produite avec aplomb. Trois cas réels rencontrés en formation enseignant.</p><h4>🔴 Cas 1 — La citation inventée</h4><p>Vous demandez : « Donne-moi une citation de Peter Drucker sur le management par objectifs. » L'IA renvoie : « Ce qui se mesure se gère. — Peter Drucker. » Cette citation est <strong>partout sur internet</strong>… et Drucker ne l'a jamais écrite. C'est une attribution erronée propagée depuis des années.</p><p><strong>Bon réflexe</strong> : pour toute citation, demander la <em>source précise</em> (ouvrage, page, année). Si l'IA ne peut pas la donner, traiter la citation comme suspecte.</p><h4>🔴 Cas 2 — La date qui dérive</h4><p>« En quelle année Mistral AI a-t-elle été fondée ? » L'IA répond : « 2022 ». La vraie réponse : avril 2023. Pour les événements récents (2023+), la date de coupure des modèles peut être un piège.</p><p><strong>Bon réflexe</strong> : pour toute date postérieure à 2023, vérifier à la source (site officiel, Wikipédia). Ou utiliser <em>Perplexity</em> qui sourcera la réponse.</p><h4>🔴 Cas 3 — L'auteur attribué à tort</h4><p>« Qui a écrit Le Cygne Noir ? » L'IA répond correctement : Nassim Nicholas Taleb. Mais sur des auteurs moins connus, elle peut inventer un titre plausible ou attribuer un livre au mauvais auteur. Particulièrement vrai sur le marché francophone, sous-représenté dans les corpus.</p><p><strong>Bon réflexe</strong> : pour les références bibliographiques en bibliographie de cours, <strong>toujours vérifier</strong>. Une citation fausse en bibliographie ruine la crédibilité du support.</p><p class='tip'>⚡ <strong>La règle d'or</strong> : tout chiffre, toute date, toute citation, tout auteur cité dans un support pédagogique mérite une vérification. L'IA est un assistant rédactionnel, pas une encyclopédie sourcée.</p>"
+          },
+          "ia-par-besoin": {
+            "titre": "Quelle IA pour quel besoin pédagogique ?",
+            "html": "<p>Pas de réponse unique. Mais des affinités. Voici les cas d'usage les plus fréquents en pédagogie supérieure tertiaire, avec l'IA qui dégaine le plus vite.</p><table class='compare-table'><thead><tr><th>Besoin</th><th>IA recommandée</th><th>Pourquoi</th></tr></thead><tbody><tr><td><strong>Rédiger un cours long</strong> (>1500 mots, cohérent)</td><td>Claude (Anthropic)</td><td>Tient mieux la cohérence sur la longueur. Ton naturel, moins scolaire.</td></tr><tr><td><strong>Corriger des copies avec grille</strong></td><td>Claude ou Mistral</td><td>Claude pour la finesse d'analyse. Mistral pour le RGPD (hébergement FR).</td></tr><tr><td><strong>Recherche documentaire sourcée</strong></td><td>Perplexity</td><td>Le seul à donner systématiquement les sources cliquables. Indispensable pour vérifier un fait.</td></tr><tr><td><strong>Brainstormer 10 angles</strong></td><td>ChatGPT</td><td>Plus créatif et rapide sur la divergence d'idées. Moins bon sur la convergence finale.</td></tr><tr><td><strong>Travailler dans Google Docs / Slides</strong></td><td>Gemini</td><td>Intégration native dans Workspace. Pas besoin de copier-coller entre apps.</td></tr><tr><td><strong>Données d'apprenants (RGPD)</strong></td><td>Mistral (Le Chat)</td><td>Hébergement Paris, conforme RGPD natif. Indispensable pour notes et copies réelles.</td></tr><tr><td><strong>Interroger vos PDF</strong></td><td>NotebookLM (Google)</td><td>Crée un assistant qui ne répond <em>que</em> sur les documents que vous lui donnez. Zéro hallucination sur les faits du PDF.</td></tr></tbody></table><p class='tip'>💡 Pour démarrer : <strong>Claude</strong> (rédaction) + <strong>Mistral</strong> (RGPD) + <strong>Perplexity</strong> (recherche). Trois outils, 95 % des besoins couverts.</p>"
+          },
+          "vague-vs-precis": {
+            "titre": "Pourquoi l'IA répond mal aux questions vagues",
+            "html": "<p>Pour comprendre pourquoi <em>« fais-moi un cours sur le marketing »</em> donne toujours quelque chose de moyen, il faut entrer dans la mécanique probabiliste des LLM.</p><h4>L'IA cherche la suite la plus probable</h4><p>Un modèle de langage ne « pense » pas votre demande. Il prend votre prompt comme un début de texte et calcule, mot par mot, la suite la plus probable étant donné tous les textes sur lesquels il a été entraîné.</p><p>Quand votre prompt est vague, la « suite la plus probable » est elle aussi vague — c'est statistiquement la moyenne des cours sur le marketing qui existent dans son entraînement. Donc un cours moyen, scolaire, sans angle.</p><h4>Plus de contexte = espace probabiliste plus étroit</h4><p>Quand vous précisez « pour BTS MCO 2e année, séance de 2h, alternance, avec une activité pratique sur Shopify », vous restreignez drastiquement l'espace des suites possibles. Le modèle est forcé de produire quelque chose qui colle <em>à ce cas précis</em>. C'est exactement ce qu'on veut.</p><h4>L'analogie du collègue stagiaire</h4><p>Imaginez que vous demandez à un alternant : « Fais-moi un cours sur le marketing. » Il vous regardera bizarrement. Avec quoi ? Pour qui ? Quel niveau ? Combien de temps ?</p><p>L'IA, à la différence du stagiaire, ne demandera <strong>pas</strong> de clarification. Elle produira quelque chose. Ce sera mauvais. Mais elle le fera quand même — avec assurance. C'est exactement le mécanisme qui crée les hallucinations : produire <em>quelque chose</em> plutôt que d'avouer qu'il manque des informations.</p><p class='tip'>🔑 <strong>Le réflexe à acquérir</strong> : avant d'envoyer votre prompt, relisez-le et demandez-vous « est-ce que cette demande, je pourrais la donner à un alternant et il saurait quoi faire ? ». Si non, ajoutez les éléments manquants.</p>"
+          }
+        }
       },
       {
         "num": 3,
