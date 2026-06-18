@@ -277,7 +277,6 @@ function renderVignette(v, idx) {
   const isVideo = t === 'video';
   const isExternal = isVideo && v.url;
   const isModal = v.modal_id != null;
-  const isStatic = !isExternal && !isModal;
 
   const tag = isExternal
     ? `<a class="vignette vignette-${t}" href="${esc(v.url)}" target="_blank" rel="noopener" data-vignette="${idx}">`
@@ -328,8 +327,7 @@ function bindVignetteClicks() {
   document.querySelectorAll('[data-modal]').forEach(el => {
     el.addEventListener('click', (e) => {
       e.preventDefault();
-      const id = el.getAttribute('data-modal');
-      openModal(id);
+      openModal(el.getAttribute('data-modal'));
     });
   });
 }
@@ -428,4 +426,62 @@ function renderBibliotheque() {
     },
     {
       titre: "Niveau 1 — Cahier d'exercices",
-      sous_titre: "8 exercices pratiques pour ancrer la formation 
+      sous_titre: "8 exercices pratiques pour ancrer la formation : prompts, étude de cas, QCM, RGPD…",
+      auteur: "E. Urschel",
+      pages: "≈ 20 pages",
+      size: "254 Ko",
+      type: "DOCX",
+      url: "/static/livrets/Niveau1_Exercices.docx",
+      color: "var(--moss)"
+    },
+    {
+      titre: "Niveau 2 — Manuel de formation",
+      sous_titre: "Concevoir avec l'IA · idéation, prompting avancé, agents, évaluation",
+      auteur: "E. Urschel",
+      pages: "≈ 28 pages",
+      size: "182 Ko",
+      type: "DOCX",
+      url: "/static/livrets/Niveau2_Livret.docx",
+      color: "var(--coral)"
+    },
+    {
+      titre: "Niveau 2 — Cahier d'exercices",
+      sous_titre: "8 exercices avancés : challenger une IA, créer une Skill, repenser l'évaluation…",
+      auteur: "E. Urschel",
+      pages: "≈ 18 pages",
+      size: "172 Ko",
+      type: "DOCX",
+      url: "/static/livrets/Niveau2_Exercices.docx",
+      color: "var(--coral)"
+    }
+  ];
+  APP.innerHTML = `
+    <section class="section" style="padding-top:60px;">
+      <div class="section-eyebrow">Bibliothèque</div>
+      <h2 style="font-family:Fraunces,serif;font-size:42px;font-weight:500;line-height:1.05;margin:8px 0 14px;">Les livrets.</h2>
+      <p style="color:var(--ink2);max-width:680px;font-size:16px;line-height:1.6;margin-bottom:36px;">Les trois manuels de référence à télécharger. Les modules en ligne (Formations) reprennent ces contenus en version interactive ; les livrets restent utiles à imprimer ou à garder hors ligne.</p>
+      <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(320px,1fr));gap:18px;">
+        ${livrets.map(l => `
+          <a class="livret-card" href="${esc(l.url)}" download style="display:flex;flex-direction:column;padding:26px 28px 24px;background:var(--bg2);border:0.5px solid var(--line2);border-radius:14px;transition:0.18s;text-decoration:none;color:var(--ink);">
+            <div style="display:flex;align-items:center;gap:14px;margin-bottom:18px;">
+              <div style="width:48px;height:56px;border-radius:6px;background:${l.color};color:var(--bg);display:flex;align-items:center;justify-content:center;font-family:'JetBrains Mono',monospace;font-size:11px;font-weight:600;letter-spacing:0.04em;flex:none;">${esc(l.type)}</div>
+              <div>
+                <div style="font-size:11px;color:${l.color};letter-spacing:0.14em;text-transform:uppercase;">Livret</div>
+                <div style="font-size:12px;color:var(--ink3);margin-top:2px;">${esc(l.pages)} · ${esc(l.size)}</div>
+              </div>
+            </div>
+            <h3 style="font-family:Fraunces,serif;font-size:20px;font-weight:500;line-height:1.25;margin:0 0 10px;">${esc(l.titre)}</h3>
+            <p style="font-size:13.5px;color:var(--ink2);line-height:1.55;margin:0 0 18px;flex:1;">${esc(l.sous_titre)}</p>
+            <div style="display:flex;justify-content:space-between;align-items:center;padding-top:14px;border-top:0.5px solid var(--line);">
+              <span style="font-size:11px;color:var(--ink3);">${esc(l.auteur)}</span>
+              <span style="font-size:12px;color:${l.color};font-weight:500;">↓ Télécharger</span>
+            </div>
+          </a>
+        `).join('')}
+      </div>
+      <p style="color:var(--ink3);margin-top:36px;font-size:13px;font-style:italic;">Les exercices, corrigés et présentations sont accessibles depuis chaque module en ligne (rubrique Formations).</p>
+    </section>
+  `;
+}
+
+boot();
