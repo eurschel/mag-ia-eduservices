@@ -78,90 +78,6 @@
       "slug": "claude-cowork-agent-de-travail-collaboratif"
     },
     {
-      "titre": "ScienceEtonnante — vulgarisation rigoureuse",
-      "source": "YouTube",
-      "url": "https://www.youtube.com/@ScienceEtonnante",
-      "type": "video",
-      "duree": "variable",
-      "date": "2026-06-15",
-      "lead": "David Louapre vulgarise l'IA avec une rigueur scientifique exemplaire. Plusieurs vidéos longues sur les LLM, l'apprentissage profond, les enjeux éthiques. À recommander largement.",
-      "themes": [
-        "llm",
-        "ethique",
-        "creation"
-      ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1611162616305-c69b3fa7fbe0%3Fw%3D1200&w=1200&output=webp",
-      "auteur": "ScienceEtonnante",
-      "slug": "scienceetonnante-vulgarisation-rigoureuse"
-    },
-    {
-      "titre": "Underscore_ — tech, IA, démos",
-      "source": "YouTube",
-      "url": "https://www.youtube.com/@Underscore_",
-      "type": "video",
-      "duree": "variable",
-      "date": "2026-06-15",
-      "lead": "Micode et son équipe : actualité tech IA, démos prompts, comparatifs outils. Ton accessible mais sérieux. La référence FR sur les outils IA grand public.",
-      "themes": [
-        "llm",
-        "creation",
-        "workflow"
-      ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1593642632559-0c6d3fc62b89%3Fw%3D1200&w=1200&output=webp",
-      "auteur": "Underscore_",
-      "slug": "underscore-tech-ia-d-mos"
-    },
-    {
-      "titre": "Defend Intelligence — l'IA décryptée",
-      "source": "YouTube",
-      "url": "https://www.youtube.com/@DefendIntelligence-tech",
-      "type": "video",
-      "duree": "variable",
-      "date": "2026-06-15",
-      "lead": "Stanislas Niox-Chateau et son équipe : analyses techniques mais accessibles sur les modèles, l'IA en entreprise, l'éducation. Plusieurs interviews exclusives.",
-      "themes": [
-        "llm",
-        "workflow",
-        "ethique"
-      ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1535378917042-10a22c95931a%3Fw%3D1200&w=1200&output=webp",
-      "auteur": "Defend Intelligence",
-      "slug": "defend-intelligence-l-ia-d-crypt-e"
-    },
-    {
-      "titre": "Anthropic on YouTube",
-      "source": "YouTube",
-      "url": "https://www.youtube.com/@anthropic-ai",
-      "type": "video",
-      "duree": "variable",
-      "date": "2026-06-15",
-      "lead": "La chaîne officielle Anthropic : démonstrations Claude, talks recherche, tutoriels prompting. En anglais mais souvent sous-titres FR. Source primaire.",
-      "themes": [
-        "llm",
-        "agents",
-        "creation"
-      ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1620712943543-bcc4688e7485%3Fw%3D1200&w=1200&output=webp",
-      "auteur": "Anthropic",
-      "slug": "anthropic-on-youtube"
-    },
-    {
-      "titre": "3Blue1Brown — comprendre l'IA visuellement",
-      "source": "YouTube",
-      "url": "https://www.youtube.com/@3blue1brown",
-      "type": "video",
-      "duree": "variable",
-      "date": "2026-06-15",
-      "lead": "Grant Sanderson : explications visuelles d'exception sur les réseaux de neurones, les transformers, l'attention. En anglais, sous-titrable.",
-      "themes": [
-        "llm",
-        "creation"
-      ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1581091226825-a6a2a5aee158%3Fw%3D1200&w=1200&output=webp",
-      "auteur": "3Blue1Brown",
-      "slug": "3blue1brown-comprendre-l-ia-visuellement"
-    },
-    {
       "titre": "Numerama — actualité tech française",
       "source": "Numerama",
       "url": "https://www.numerama.com/tech/intelligence-artificielle/",
@@ -444,22 +360,6 @@
       "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1532375810709-75b1da00537c%3Fw%3D1200&w=1200&output=webp",
       "auteur": "Mistral AI",
       "slug": "mistral-ai-mod-les-plateforme-tarifs"
-    },
-    {
-      "titre": "Anthropic Learn — courses gratuits",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/learn",
-      "type": "video",
-      "duree": "variable",
-      "date": "2026-06-01",
-      "lead": "Cours gratuits Anthropic pour apprendre à utiliser Claude : prompting, agents, intégrations. À recommander aux étudiants.",
-      "themes": [
-        "creation",
-        "workflow"
-      ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1524178232363-1fb2b075b655%3Fw%3D1200&w=1200&output=webp",
-      "auteur": "Anthropic",
-      "slug": "anthropic-learn-courses-gratuits"
     },
     {
       "titre": "Perplexity — la recherche qui cite",
