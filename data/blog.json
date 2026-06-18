@@ -1,655 +1,648 @@
 {
   "articles": [
     {
-      "slug": "anthropic-seoul-coree-asie",
+      "titre": "Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem",
+      "type": "article",
+      "duree": "5 min",
       "date": "2026-06-17",
-      "titre": "Anthropic ouvre un bureau à Séoul : la Corée devient hub IA Asie-Pacifique",
-      "lead": "Le 17 juin 2026, Anthropic annonce l'ouverture d'un bureau à Séoul. Un indicateur fort de la course mondiale à l'IA.",
-      "type": "Actu",
+      "lead": "Ouverture du bureau Séoul, partenariats avec l'écosystème coréen. Indicateur de la stratégie Asie-Pacifique d'Anthropic.",
       "themes": [
         "llm"
       ],
-      "tags": [
-        "llm",
-        "workflow"
-      ],
-      "duree": "5 min",
-      "url_source": "https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem",
-      "auteur": "E. Urschel · d'après Anthropic",
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1485827404703-89b55fcc595e%3Fw%3D1200&w=1200&output=webp"
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1538485399081-7191377e8241%3Fw%3D1200&w=1200&output=webp",
+      "auteur": "Anthropic",
+      "slug": "anthropic-opens-seoul-office-and-announces-new-partnerships"
     },
     {
-      "slug": "integration-ia-entreprise-vrai-differentiel",
-      "date": "2026-06-16",
       "titre": "« Le vrai différentiel, c'est la qualité de l'intégration » — IA en entreprise",
-      "lead": "Décryptage Maddyness : le succès des projets IA ne dépend plus du choix du modèle, mais de l'intégration dans les processus. Transposable à l'enseignement.",
-      "type": "Décryptage",
+      "source": "Maddyness",
+      "url": "https://www.maddyness.com/2026/06/16/ia-en-entreprise-le-vrai-differentiel-cest-la-qualite-de-lintegration/",
+      "type": "article",
+      "duree": "6 min",
+      "date": "2026-06-16",
+      "lead": "Décryptage Maddyness : le succès des projets IA en entreprise dépend de l'intégration dans les processus, pas du choix du modèle. Transposable à l'enseignement.",
       "themes": [
         "workflow"
       ],
-      "tags": [
-        "workflow",
-        "llm"
-      ],
-      "duree": "6 min",
-      "url_source": "https://www.maddyness.com/2026/06/16/ia-en-entreprise-le-vrai-differentiel-cest-la-qualite-de-lintegration/",
-      "auteur": "E. Urschel · d'après Maddyness",
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1542831371-29b0f74f9713%3Fw%3D1200&w=1200&output=webp"
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1542744173-8e7e53415bb0%3Fw%3D1200&w=1200&output=webp",
+      "auteur": "Maddyness",
+      "slug": "le-vrai-diff-rentiel-c-est-la-qualit-de-l-int-gration-ia-en"
     },
     {
-      "slug": "generer-etude-de-cas-bts",
-      "date": "2026-06-14",
-      "titre": "Générer une étude de cas BTS en 8 minutes : la méthode complète",
-      "lead": "Tutoriel pas-à-pas, du brief au cas livrable avec correction et barème. Reproductible n'importe quel jour, n'importe quelle discipline tertiaire.",
-      "type": "Tuto",
+      "titre": "Google Gemini — actualité produit",
+      "source": "Google Blog",
+      "url": "https://blog.google/products/gemini/",
+      "type": "article",
+      "duree": "variable",
+      "date": "2026-06-15",
+      "lead": "Le fil officiel des annonces Gemini : modèles, intégration Workspace, NotebookLM, IA Studio. Source primaire à suivre.",
       "themes": [
+        "llm",
+        "curation"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1554224155-6726b3ff858f%3Fw%3D1200&w=1200&output=webp",
+      "auteur": "Google Blog",
+      "slug": "google-gemini-actualit-produit"
+    },
+    {
+      "titre": "OpenAI — Research",
+      "source": "OpenAI",
+      "url": "https://openai.com/research/",
+      "type": "article",
+      "duree": "variable",
+      "date": "2026-06-15",
+      "lead": "Publications scientifiques d'OpenAI : papers techniques, comparatifs, axes de recherche en cours. Lecture obligée pour suivre.",
+      "themes": [
+        "llm"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1620712943543-bcc4688e7485%3Fw%3D1200&w=1200&output=webp",
+      "auteur": "OpenAI",
+      "slug": "openai-research"
+    },
+    {
+      "titre": "Claude Cowork — agent de travail collaboratif",
+      "source": "Anthropic",
+      "url": "https://claude.com/product/cowork",
+      "type": "outil",
+      "duree": "variable",
+      "date": "2026-06-15",
+      "lead": "L'agent Anthropic pour les non-développeurs : automatiser ses fichiers, ses tâches, ses workflows. En preview.",
+      "themes": [
+        "workflow",
+        "agents"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1552664730-d307ca884978%3Fw%3D1200&w=1200&output=webp",
+      "auteur": "Anthropic",
+      "slug": "claude-cowork-agent-de-travail-collaboratif"
+    },
+    {
+      "titre": "ScienceEtonnante — vulgarisation rigoureuse",
+      "source": "YouTube",
+      "url": "https://www.youtube.com/@ScienceEtonnante",
+      "type": "video",
+      "duree": "variable",
+      "date": "2026-06-15",
+      "lead": "David Louapre vulgarise l'IA avec une rigueur scientifique exemplaire. Plusieurs vidéos longues sur les LLM, l'apprentissage profond, les enjeux éthiques. À recommander largement.",
+      "themes": [
+        "llm",
+        "ethique",
         "creation"
       ],
-      "tags": [
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1611162616305-c69b3fa7fbe0%3Fw%3D1200&w=1200&output=webp",
+      "auteur": "ScienceEtonnante",
+      "slug": "scienceetonnante-vulgarisation-rigoureuse"
+    },
+    {
+      "titre": "Underscore_ — tech, IA, démos",
+      "source": "YouTube",
+      "url": "https://www.youtube.com/@Underscore_",
+      "type": "video",
+      "duree": "variable",
+      "date": "2026-06-15",
+      "lead": "Micode et son équipe : actualité tech IA, démos prompts, comparatifs outils. Ton accessible mais sérieux. La référence FR sur les outils IA grand public.",
+      "themes": [
+        "llm",
         "creation",
         "workflow"
       ],
-      "duree": "12 min",
-      "url_source": "https://claude.ai/",
-      "auteur": "E. Urschel",
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1551836022-d5d88e9218df%3Fw%3D1200&w=1200&output=webp"
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1593642632559-0c6d3fc62b89%3Fw%3D1200&w=1200&output=webp",
+      "auteur": "Underscore_",
+      "slug": "underscore-tech-ia-d-mos"
     },
     {
-      "slug": "heygen-capsules-video-cours",
+      "titre": "Defend Intelligence — l'IA décryptée",
+      "source": "YouTube",
+      "url": "https://www.youtube.com/@DefendIntelligence-tech",
+      "type": "video",
+      "duree": "variable",
+      "date": "2026-06-15",
+      "lead": "Stanislas Niox-Chateau et son équipe : analyses techniques mais accessibles sur les modèles, l'IA en entreprise, l'éducation. Plusieurs interviews exclusives.",
+      "themes": [
+        "llm",
+        "workflow",
+        "ethique"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1535378917042-10a22c95931a%3Fw%3D1200&w=1200&output=webp",
+      "auteur": "Defend Intelligence",
+      "slug": "defend-intelligence-l-ia-d-crypt-e"
+    },
+    {
+      "titre": "Anthropic on YouTube",
+      "source": "YouTube",
+      "url": "https://www.youtube.com/@anthropic-ai",
+      "type": "video",
+      "duree": "variable",
+      "date": "2026-06-15",
+      "lead": "La chaîne officielle Anthropic : démonstrations Claude, talks recherche, tutoriels prompting. En anglais mais souvent sous-titres FR. Source primaire.",
+      "themes": [
+        "llm",
+        "agents",
+        "creation"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1620712943543-bcc4688e7485%3Fw%3D1200&w=1200&output=webp",
+      "auteur": "Anthropic",
+      "slug": "anthropic-on-youtube"
+    },
+    {
+      "titre": "3Blue1Brown — comprendre l'IA visuellement",
+      "source": "YouTube",
+      "url": "https://www.youtube.com/@3blue1brown",
+      "type": "video",
+      "duree": "variable",
+      "date": "2026-06-15",
+      "lead": "Grant Sanderson : explications visuelles d'exception sur les réseaux de neurones, les transformers, l'attention. En anglais, sous-titrable.",
+      "themes": [
+        "llm",
+        "creation"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1581091226825-a6a2a5aee158%3Fw%3D1200&w=1200&output=webp",
+      "auteur": "3Blue1Brown",
+      "slug": "3blue1brown-comprendre-l-ia-visuellement"
+    },
+    {
+      "titre": "Numerama — actualité tech française",
+      "source": "Numerama",
+      "url": "https://www.numerama.com/tech/intelligence-artificielle/",
+      "type": "article",
+      "duree": "variable",
+      "date": "2026-06-15",
+      "lead": "Le hub IA de Numerama. Actualité quotidienne sourcée et critique, en français. À mettre dans la bookmark bar.",
+      "themes": [
+        "llm",
+        "ethique",
+        "workflow"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1554224155-6726b3ff858f%3Fw%3D1200&w=1200&output=webp",
+      "auteur": "Numerama",
+      "slug": "numerama-actualit-tech-fran-aise"
+    },
+    {
+      "titre": "HeyGen — créer des capsules vidéo avec avatar",
+      "source": "HeyGen",
+      "url": "https://www.heygen.com/",
+      "type": "outil",
+      "duree": "variable",
       "date": "2026-06-13",
-      "titre": "HeyGen et Synthesia : faire des capsules vidéo de cours avec un avatar",
-      "lead": "Quand l'avatar marche, quand il sonne faux. Cas concrets dans le tertiaire et limites éthiques à poser.",
-      "type": "Outil",
+      "lead": "Faire parler un avatar à partir d'un script. Plusieurs langues, voix, formats. Freemium avec quota gratuit limité.",
       "themes": [
         "creation"
       ],
-      "tags": [
-        "creation",
-        "ethique"
-      ],
-      "duree": "7 min",
-      "url_source": "https://www.heygen.com/",
-      "auteur": "E. Urschel",
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1551836022-d5d88e9218df%3Fw%3D1200&w=1200&output=webp"
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1523240795612-9a054b0db644%3Fw%3D1200&w=1200&output=webp",
+      "auteur": "HeyGen",
+      "slug": "heygen-cr-er-des-capsules-vid-o-avec-avatar"
     },
     {
-      "slug": "claude-fable-5-mythos-5-sortie",
+      "titre": "Synthesia — vidéos avec présentateur IA",
+      "source": "Synthesia",
+      "url": "https://www.synthesia.io/",
+      "type": "outil",
+      "duree": "variable",
+      "date": "2026-06-13",
+      "lead": "Alternative à HeyGen, plus enterprise. 140+ langues, customisation avatar. Utile pour capsules courtes utilitaires.",
+      "themes": [
+        "creation"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1542831371-29b0f74f9713%3Fw%3D1200&w=1200&output=webp",
+      "auteur": "Synthesia",
+      "slug": "synthesia-vid-os-avec-pr-sentateur-ia"
+    },
+    {
+      "titre": "Statement on the US government directive to suspend access to Fable 5 and Mythos 5",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/fable-mythos-access",
+      "type": "article",
+      "duree": "5 min",
       "date": "2026-06-12",
-      "titre": "Claude Fable 5 et Mythos 5 : la nouvelle génération arrive (et bouge déjà)",
-      "lead": "Anthropic publie le 9 juin deux nouveaux modèles haut de gamme. Trois jours plus tard, le gouvernement américain ordonne d'en suspendre l'accès. Ce qui se joue.",
-      "type": "Analyse",
+      "lead": "Communiqué officiel d'Anthropic après l'ordre d'export control américain suspendant l'accès aux deux nouveaux modèles publiés le 9 juin.",
       "themes": [
-        "llm"
-      ],
-      "tags": [
         "llm",
         "ethique"
       ],
-      "duree": "8 min",
-      "url_source": "https://www.anthropic.com/news/fable-mythos-access",
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1620712943543-bcc4688e7485%3Fw%3D1200&w=1200&output=webp",
       "featured": true,
-      "auteur": "E. Urschel · d'après Anthropic",
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1620712943543-bcc4688e7485%3Fw%3D1200&w=1200&output=webp"
+      "auteur": "Anthropic",
+      "slug": "statement-on-the-us-government-directive-to-suspend-access-t"
     },
     {
-      "slug": "hauts-de-france-softbank-vallee-ia",
-      "date": "2026-06-11",
-      "titre": "Les Hauts-de-France visent une « vallée de l'IA » après l'investissement XXL de SoftBank",
-      "lead": "Cas d'école pour CEJM, management territorial, géopolitique. À ramener en cours.",
-      "type": "Décryptage",
+      "titre": "Levées de fonds startups françaises — 254 M€",
+      "source": "Maddyness",
+      "url": "https://www.maddyness.com/2026/06/12/les-startups-francaises-ont-leve-254-millions-deuros-cette-semaine/",
+      "type": "article",
+      "duree": "4 min",
+      "date": "2026-06-12",
+      "lead": "Le hebdo des levées de fonds tech FR. Beaucoup de dossiers IA. À recommander aux étudiants qui suivent la French Tech.",
       "themes": [
         "workflow"
       ],
-      "tags": [
-        "workflow",
-        "ethique"
-      ],
-      "duree": "7 min",
-      "url_source": "https://www.maddyness.com/2026/06/10/comment-la-region-hauts-de-france-reve-de-devenir-une-vallee-de-lia-apres-linvestissement-xxl-promis-par-softbank/",
-      "auteur": "E. Urschel · d'après Maddyness",
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1551434678-e076c223a692%3Fw%3D1200&w=1200&output=webp"
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1556761175-5973dc0f32e7%3Fw%3D1200&w=1200&output=webp",
+      "auteur": "Maddyness",
+      "slug": "lev-es-de-fonds-startups-fran-aises-254-m"
     },
     {
-      "slug": "claude-corps-fellowship-democratiser-ia",
-      "date": "2026-06-11",
-      "titre": "Claude Corps : un programme pour démocratiser l'IA dans les communautés",
-      "lead": "Anthropic lance un fellowship national pour de jeunes professionnels. Un modèle dont s'inspirer côté éducation ?",
-      "type": "Retour terrain",
-      "themes": [
-        "agents",
-        "ethique"
-      ],
-      "tags": [
-        "ethique",
-        "agents"
-      ],
+      "titre": "Claude Corps — fellowship national",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/claude-corps",
+      "type": "article",
       "duree": "5 min",
-      "url_source": "https://www.anthropic.com/news/claude-corps",
-      "auteur": "E. Urschel · d'après Anthropic",
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1485827404703-89b55fcc595e%3Fw%3D1200&w=1200&output=webp"
-    },
-    {
-      "slug": "policy-on-the-ai-exponential-anthropic",
-      "date": "2026-06-10",
-      "titre": "« Policy on the AI Exponential » : gouverner une IA qui accélère",
-      "lead": "Anthropic publie un cadre pour les institutions face à une IA qui progresse exponentiellement. À lire si vous enseignez politique publique, droit ou CEJM.",
-      "type": "Politique publique",
-      "themes": [
-        "ethique"
-      ],
-      "tags": [
-        "ethique",
-        "llm",
-        "agents"
-      ],
-      "duree": "11 min",
-      "url_source": "https://www.anthropic.com/policy-on-the-ai-exponential",
-      "auteur": "E. Urschel · d'après Anthropic",
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1532375810709-75b1da00537c%3Fw%3D1200&w=1200&output=webp"
-    },
-    {
-      "slug": "ia-act-deuxieme-vague-education",
-      "date": "2026-06-10",
-      "titre": "AI Act : la deuxième vague de lignes directrices pour l'éducation",
-      "lead": "Bruxelles publie ses lignes spécifiques pour le secteur éducatif. Ce qui devient obligatoire, ce qui reste à clarifier.",
-      "type": "Réglementation",
-      "themes": [
-        "ethique"
-      ],
-      "tags": [
-        "ethique",
-        "workflow"
-      ],
-      "duree": "10 min",
-      "url_source": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai",
-      "auteur": "E. Urschel · d'après UE",
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1532375810709-75b1da00537c%3Fw%3D1200&w=1200&output=webp"
-    },
-    {
-      "slug": "claude-artifacts-quiz-interactif",
-      "date": "2026-06-09",
-      "titre": "Claude Artifacts pour créer un quiz interactif en 5 minutes",
-      "lead": "Sans coder, vous obtenez un quiz utilisable et partageable. Démo intégrale, prompts copiables, limites à connaître.",
-      "type": "Tuto",
-      "themes": [
-        "creation",
-        "workflow"
-      ],
-      "tags": [
-        "creation",
-        "workflow"
-      ],
-      "duree": "8 min",
-      "url_source": "https://claude.com/product/overview",
-      "auteur": "E. Urschel",
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1551836022-d5d88e9218df%3Fw%3D1200&w=1200&output=webp"
-    },
-    {
-      "slug": "agent-correction-controles-130-copies",
-      "date": "2026-06-09",
-      "titre": "J'ai construit un agent qui pré-remplit mes feedbacks. Retour à 130 copies.",
-      "lead": "Retour d'expérience : le temps gagné, le taux de cohérence avec ma notation manuelle, et où l'agent a échoué (à lire absolument).",
-      "type": "Retour terrain",
+      "date": "2026-06-11",
+      "lead": "Lancement du programme fellowship pour porter l'IA dans les communautés. Inspiration pour ce qui pourrait exister en France.",
       "themes": [
         "agents",
-        "workflow"
+        "ethique"
       ],
-      "tags": [
-        "agents",
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1523240795612-9a054b0db644%3Fw%3D1200&w=1200&output=webp",
+      "auteur": "Anthropic",
+      "slug": "claude-corps-fellowship-national"
+    },
+    {
+      "titre": "Hauts-de-France & SoftBank : la « vallée de l'IA »",
+      "source": "Maddyness",
+      "url": "https://www.maddyness.com/2026/06/10/comment-la-region-hauts-de-france-reve-de-devenir-une-vallee-de-lia-apres-linvestissement-xxl-promis-par-softbank/",
+      "type": "article",
+      "duree": "7 min",
+      "date": "2026-06-10",
+      "lead": "Analyse de l'effet attendu de l'investissement SoftBank sur la région. Cas d'école pour CEJM, management territorial, géopolitique.",
+      "themes": [
         "workflow",
         "ethique"
       ],
-      "duree": "9 min",
-      "url_source": "https://claude.com/product/overview",
-      "auteur": "E. Urschel",
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1518770660439-4636190af475%3Fw%3D1200&w=1200&output=webp"
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1518770660439-4636190af475%3Fw%3D1200&w=1200&output=webp",
+      "auteur": "Maddyness",
+      "slug": "hauts-de-france-softbank-la-vall-e-de-l-ia"
     },
     {
-      "slug": "comparatif-modeles-fr-2026",
-      "date": "2026-06-08",
-      "titre": "Comparatif des modèles utilisables en classe en juin 2026",
-      "lead": "Claude (Fable, Mythos, Opus), GPT, Gemini, Mistral, Albert : pour quoi, à quel prix, avec quels garde-fous RGPD ? Le tableau de bord à jour.",
-      "type": "Comparatif",
+      "titre": "Anthropic — Building agents with Claude",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/engineering",
+      "type": "article",
+      "duree": "variable",
+      "date": "2026-06-10",
+      "lead": "Le blog d'ingénierie Anthropic : patterns d'agents, retours techniques, bonnes pratiques. Lecture longue.",
+      "themes": [
+        "workflow",
+        "agents"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1535378917042-10a22c95931a%3Fw%3D1200&w=1200&output=webp",
+      "auteur": "Anthropic",
+      "slug": "anthropic-building-agents-with-claude"
+    },
+    {
+      "titre": "Policy on the AI Exponential",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/policy-on-the-ai-exponential",
+      "type": "livre-blanc",
+      "duree": "25 min",
+      "date": "2026-06-10",
+      "lead": "Texte fondateur d'Anthropic sur la gouvernance d'une IA exponentielle. Propositions concrètes pour les institutions.",
+      "themes": [
+        "ethique"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1532375810709-75b1da00537c%3Fw%3D1200&w=1200&output=webp",
+      "auteur": "Anthropic",
+      "slug": "policy-on-the-ai-exponential"
+    },
+    {
+      "titre": "Introducing Claude Fable 5 and Mythos 5",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+      "type": "article",
+      "duree": "7 min",
+      "date": "2026-06-09",
+      "lead": "Présentation officielle des deux nouveaux modèles haut de gamme : performance, contexte étendu, agentic tasks, et la consistance pour le travail long.",
       "themes": [
         "llm"
       ],
-      "tags": [
-        "llm",
-        "ethique"
-      ],
-      "duree": "12 min",
-      "url_source": "https://claude.com/pricing",
-      "auteur": "E. Urschel",
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1677442136019-21780ecad995%3Fw%3D1200&w=1200&output=webp"
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1677442136019-21780ecad995%3Fw%3D1200&w=1200&output=webp",
+      "auteur": "Anthropic",
+      "slug": "introducing-claude-fable-5-and-mythos-5"
     },
     {
-      "slug": "claude-skills-construire-en-3-temps",
+      "titre": "Claude — créer un visuel, une slide, un mini-site",
+      "source": "Anthropic",
+      "url": "https://claude.ai/",
+      "type": "outil",
+      "duree": "variable",
+      "date": "2026-06-09",
+      "lead": "Avec Claude Design / Artifacts, on décrit ce qu'on veut, on regarde, on affine. Inclus dans l'abonnement Claude.",
+      "themes": [
+        "creation",
+        "workflow"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1593642632559-0c6d3fc62b89%3Fw%3D1200&w=1200&output=webp",
+      "auteur": "Anthropic",
+      "slug": "claude-cr-er-un-visuel-une-slide-un-mini-site"
+    },
+    {
+      "titre": "Adobe Firefly — génération d'images intégrée Creative Cloud",
+      "source": "Adobe",
+      "url": "https://www.adobe.com/products/firefly.html",
+      "type": "outil",
+      "duree": "variable",
       "date": "2026-06-08",
-      "titre": "Claude Skills : construire votre première Skill en 3 temps",
-      "lead": "Identifier la tâche, la décrire avec exemple, la faire rejouer. Cas concret : pré-remplissage d'un feedback selon votre grille.",
-      "type": "Tuto",
+      "lead": "Modèle d'image entraîné sur des données licenciées. Disponible dans Photoshop, Illustrator. Pour qui a déjà Adobe.",
+      "themes": [
+        "creation",
+        "ethique"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1611162616305-c69b3fa7fbe0%3Fw%3D1200&w=1200&output=webp",
+      "auteur": "Adobe",
+      "slug": "adobe-firefly-g-n-ration-d-images-int-gr-e-creative-cloud"
+    },
+    {
+      "titre": "Claude Skills — apprendre à un agent votre méthode",
+      "source": "Anthropic",
+      "url": "https://www.claude.com/skills",
+      "type": "outil",
+      "duree": "variable",
+      "date": "2026-06-08",
+      "lead": "Capturez une fois votre façon de faire, l'agent rejoue indéfiniment sur de nouveaux cas. Page produit officielle.",
       "themes": [
         "agents",
         "workflow"
       ],
-      "tags": [
-        "agents",
-        "workflow"
-      ],
-      "duree": "8 min",
-      "url_source": "https://www.claude.com/skills",
-      "auteur": "E. Urschel",
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1620712943543-bcc4688e7485%3Fw%3D1200&w=1200&output=webp"
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1485827404703-89b55fcc595e%3Fw%3D1200&w=1200&output=webp",
+      "auteur": "Anthropic",
+      "slug": "claude-skills-apprendre-un-agent-votre-m-thode"
     },
     {
-      "slug": "gamma-app-slides-prof",
+      "titre": "Gamma — du plan aux slides en 2 minutes",
+      "source": "Gamma",
+      "url": "https://gamma.app/",
+      "type": "outil",
+      "duree": "5 min",
       "date": "2026-06-07",
-      "titre": "Gamma : du plan à la présentation projetable en 2 minutes",
-      "lead": "L'outil qui transforme votre plan en slides illustrées. Quand l'utiliser, quand préférer Claude Design, quand garder votre vieux PowerPoint.",
-      "type": "Outil",
+      "lead": "Outil no-code qui transforme un plan en présentation projetable et illustrée. Freemium. Idéal pour démarrer.",
       "themes": [
         "creation"
       ],
-      "tags": [
-        "creation",
-        "workflow"
-      ],
-      "duree": "6 min",
-      "url_source": "https://gamma.app/",
-      "auteur": "E. Urschel",
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1593642632559-0c6d3fc62b89%3Fw%3D1200&w=1200&output=webp"
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1551836022-d5d88e9218df%3Fw%3D1200&w=1200&output=webp",
+      "auteur": "Gamma",
+      "slug": "gamma-du-plan-aux-slides-en-2-minutes"
     },
     {
-      "slug": "workflow-correction-copies-1h-au-lieu-de-3",
-      "date": "2026-06-06",
-      "titre": "Workflow correction de copies : passer de 3 h à 1 h, méthode + garde-fous",
-      "lead": "Pipeline en 4 étapes (anonymisation, grille, pré-correction, validation humaine). Ce qui marche, ce qu'il ne faut pas faire.",
-      "type": "Retour terrain",
-      "themes": [
-        "workflow"
-      ],
-      "tags": [
-        "workflow",
-        "ethique"
-      ],
-      "duree": "9 min",
-      "url_source": "https://www.anthropic.com/learn",
-      "auteur": "E. Urschel · d'après Anthropic",
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1542831371-29b0f74f9713%3Fw%3D1200&w=1200&output=webp"
-    },
-    {
-      "slug": "albert-dinum-ia-souveraine-enseignants",
-      "date": "2026-06-06",
-      "titre": "Albert (DINUM) : l'IA souveraine française accessible aux enseignants",
-      "lead": "Pour qui veut éviter les solutions étrangères, l'État français propose Albert. Accès, limites, et pour quels usages c'est pertinent — ou pas.",
-      "type": "Outil",
-      "themes": [
-        "llm",
-        "ethique"
-      ],
-      "tags": [
-        "llm",
-        "ethique",
-        "curation"
-      ],
-      "duree": "8 min",
-      "url_source": "https://albert.api.etalab.gouv.fr/",
-      "auteur": "E. Urschel · d'après DINUM",
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1532375810709-75b1da00537c%3Fw%3D1200&w=1200&output=webp"
-    },
-    {
-      "slug": "notebooklm-resume-30-pdf",
-      "date": "2026-06-05",
-      "titre": "NotebookLM : résumer 30 PDF de pédagogie en une matinée",
-      "lead": "L'outil de curation Google rivalise sérieusement avec Claude Projects. Méthode pour traiter une bibliographie entière sans s'épuiser.",
-      "type": "Outil",
-      "themes": [
-        "curation"
-      ],
-      "tags": [
-        "curation",
-        "llm"
-      ],
-      "duree": "6 min",
-      "url_source": "https://notebooklm.google/",
-      "auteur": "E. Urschel · d'après Google",
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1456513080510-7bf3a84b82f8%3Fw%3D1200&w=1200&output=webp"
-    },
-    {
-      "slug": "anthropic-mapping-menaces-cyber-mitre",
-      "date": "2026-06-05",
-      "titre": "Cyber-menaces dopées à l'IA : ce qu'Anthropic a appris en un an",
-      "lead": "Mapping sur le référentiel MITRE ATT&CK. Lecture critique pour qui forme à la cybersécurité ou au RGPD éducatif.",
-      "type": "Analyse",
-      "themes": [
-        "agents",
-        "ethique"
-      ],
-      "tags": [
-        "ethique",
-        "agents",
-        "workflow"
-      ],
-      "duree": "9 min",
-      "url_source": "https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack",
-      "auteur": "E. Urschel · d'après Anthropic",
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1485827404703-89b55fcc595e%3Fw%3D1200&w=1200&output=webp"
-    },
-    {
-      "slug": "claude-opus-4-8-pour-prof",
-      "date": "2026-06-04",
-      "titre": "Claude Opus 4.8 : ce qui change concrètement pour préparer ses cours",
-      "lead": "Coding, agents et travail professionnel sur la durée. Trois usages pédagogiques qui en bénéficient directement.",
-      "type": "Outil",
-      "themes": [
-        "llm",
-        "workflow"
-      ],
-      "tags": [
-        "llm",
-        "creation",
-        "workflow"
-      ],
-      "duree": "7 min",
-      "url_source": "https://www.anthropic.com/news/claude-opus-4-8",
-      "auteur": "E. Urschel · d'après Anthropic",
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1620712943543-bcc4688e7485%3Fw%3D1200&w=1200&output=webp"
-    },
-    {
-      "slug": "mistral-large-3-pour-prof",
-      "date": "2026-06-04",
-      "titre": "Mistral Large 3 vs Claude Opus 4.8 : le match pour un usage prof",
-      "lead": "On compare sur 5 tâches concrètes : étude de cas, QCM, corrigé, mail parents, veille hebdo. Verdict honnête.",
-      "type": "Comparatif",
-      "themes": [
-        "llm"
-      ],
-      "tags": [
-        "llm",
-        "creation"
-      ],
-      "duree": "10 min",
-      "url_source": "https://mistral.ai/",
-      "auteur": "E. Urschel · d'après Mistral",
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1485827404703-89b55fcc595e%3Fw%3D1200&w=1200&output=webp"
-    },
-    {
-      "slug": "veille-ia-hebdo-automatisee",
-      "date": "2026-06-03",
-      "titre": "Construire sa veille IA automatisée hebdomadaire en 1 h",
-      "lead": "Méthode complète : sources fiables, agrégation, résumé IA, publication. Le récap dominical du Mag, démonté.",
-      "type": "Tuto",
-      "themes": [
-        "curation",
-        "workflow"
-      ],
-      "tags": [
-        "curation",
-        "workflow",
-        "agents"
-      ],
-      "duree": "10 min",
-      "url_source": "https://www.anthropic.com/news",
-      "auteur": "E. Urschel · d'après Anthropic",
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1456513080510-7bf3a84b82f8%3Fw%3D1200&w=1200&output=webp"
-    },
-    {
-      "slug": "mistral-large-3-souverainete",
-      "date": "2026-06-02",
-      "titre": "Mistral Large 3 : la souveraineté française dans la course aux modèles",
-      "lead": "Mistral pousse sa troisième génération. Performances, accès, intégrations européennes. Que vaut-il face aux modèles américains ?",
-      "type": "Analyse",
-      "themes": [
-        "llm"
-      ],
-      "tags": [
-        "llm",
-        "ethique"
-      ],
-      "duree": "8 min",
-      "url_source": "https://mistral.ai/",
-      "auteur": "E. Urschel · d'après Mistral",
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1677442136019-21780ecad995%3Fw%3D1200&w=1200&output=webp"
-    },
-    {
-      "slug": "rgpd-prompts-eleves",
-      "date": "2026-06-02",
-      "titre": "RGPD : peut-on mettre des prompts qui contiennent des données d'élèves ?",
-      "lead": "Le sujet qui fâche, traité droit dans les yeux. Avec les bonnes pratiques par outil (Claude, ChatGPT, Mistral, Albert).",
-      "type": "Éthique",
-      "themes": [
-        "ethique"
-      ],
-      "tags": [
-        "ethique",
-        "workflow"
-      ],
-      "duree": "10 min",
-      "url_source": "https://www.cnil.fr/fr/intelligence-artificielle",
-      "auteur": "E. Urschel · d'après CNIL",
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1563013544-824ae1b704d3%3Fw%3D1200&w=1200&output=webp"
-    },
-    {
-      "slug": "perplexity-actu-sources-pour-prof",
-      "date": "2026-06-01",
-      "titre": "Perplexity : la recherche qui cite, pour préparer un cours d'actualité",
-      "lead": "Quand vous voulez des sources cliquables et récentes. Méthode, comparaison avec les modes web Claude/ChatGPT, pièges à éviter.",
-      "type": "Outil",
-      "themes": [
-        "curation"
-      ],
-      "tags": [
-        "curation",
-        "llm"
-      ],
+      "titre": "NotebookLM — Google",
+      "source": "Google",
+      "url": "https://notebooklm.google/",
+      "type": "outil",
       "duree": "5 min",
-      "url_source": "https://www.perplexity.ai/",
-      "auteur": "E. Urschel",
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1554224155-6726b3ff858f%3Fw%3D1200&w=1200&output=webp"
-    },
-    {
-      "slug": "generation-image-prof-personas",
-      "date": "2026-05-31",
-      "titre": "Générer images, personas et univers visuels d'entreprise fictive",
-      "lead": "Pour vos cas pratiques, vos brand identities, vos sets de personas clients. Méthode, prompts modèles, garde-fous (visages réels, marques).",
-      "type": "Tuto",
+      "date": "2026-06-05",
+      "lead": "L'outil Google qui transforme vos sources (PDF, texte, lien, vidéo) en podcast, quiz, carte mentale. Gratuit, intégré Classroom.",
       "themes": [
+        "curation",
         "creation"
       ],
-      "tags": [
-        "creation",
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1456513080510-7bf3a84b82f8%3Fw%3D1200&w=1200&output=webp",
+      "auteur": "Google",
+      "slug": "notebooklm-google"
+    },
+    {
+      "titre": "What we learned mapping a year's worth of AI-enabled cyber threats",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack",
+      "type": "livre-blanc",
+      "duree": "30 min",
+      "date": "2026-06-03",
+      "lead": "Rapport Anthropic — typologie des menaces cyber alimentées par l'IA, mappées sur MITRE ATT&CK. Lecture longue, indispensable côté sécurité.",
+      "themes": [
+        "agents",
         "ethique"
       ],
-      "duree": "9 min",
-      "url_source": "https://www.anthropic.com/claude/sonnet",
-      "auteur": "E. Urschel · d'après Anthropic",
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1551836022-d5d88e9218df%3Fw%3D1200&w=1200&output=webp"
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1563013544-824ae1b704d3%3Fw%3D1200&w=1200&output=webp",
+      "auteur": "Anthropic",
+      "slug": "what-we-learned-mapping-a-year-s-worth-of-ai-enabled-cyber-t"
     },
     {
-      "slug": "gemini-3-pro-rentree",
-      "date": "2026-05-30",
-      "titre": "Gemini 3 Pro : ce que Google déploie pour la rentrée",
-      "lead": "Modèle multimodal, intégrations Google Workspace, NotebookLM repensé. L'effet d'écosystème joue à fond.",
-      "type": "Outil",
+      "titre": "Introducing Services Track and Partner Hub of the Claude Partner Network",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/services-track-partner-hub",
+      "type": "article",
+      "duree": "5 min",
+      "date": "2026-06-03",
+      "lead": "Le nouveau Partner Hub d'Anthropic — répertoire de partenaires (intégrateurs, formateurs) qui aident les organisations à déployer Claude.",
       "themes": [
-        "llm",
-        "curation"
-      ],
-      "tags": [
-        "llm",
-        "curation"
-      ],
-      "duree": "7 min",
-      "url_source": "https://blog.google/products/gemini/",
-      "auteur": "E. Urschel · d'après Google",
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1677442136019-21780ecad995%3Fw%3D1200&w=1200&output=webp"
-    },
-    {
-      "slug": "cnesco-rapport-ia-superieur-2026",
-      "date": "2026-05-30",
-      "titre": "Cnesco : l'état des lieux 2026 de l'IA dans le supérieur",
-      "lead": "Rapport synthèse à la rentrée 2026. Chiffres, témoignages d'enseignants, recommandations. L'essentiel en 5 points.",
-      "type": "Étude",
-      "themes": [
-        "ethique",
-        "curation"
-      ],
-      "tags": [
-        "ethique",
-        "curation"
-      ],
-      "duree": "12 min",
-      "url_source": "https://www.cnesco.fr/",
-      "auteur": "E. Urschel · d'après Cnesco",
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1532375810709-75b1da00537c%3Fw%3D1200&w=1200&output=webp"
-    },
-    {
-      "slug": "chaine-conception-sequence-pedagogique",
-      "date": "2026-05-29",
-      "titre": "La chaîne de conception d'une séquence pédagogique avec l'IA",
-      "lead": "5 étapes : cadrer l'intention, brainstormer, structurer, générer, critiquer-améliorer. Méthode Niveau 2 mise à plat.",
-      "type": "Méthodo",
-      "themes": [
+        "agents",
         "workflow"
       ],
-      "tags": [
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1552664730-d307ca884978%3Fw%3D1200&w=1200&output=webp",
+      "auteur": "Anthropic",
+      "slug": "introducing-services-track-and-partner-hub-of-the-claude-par"
+    },
+    {
+      "titre": "Mistral AI — modèles, plateforme, tarifs",
+      "source": "Mistral AI",
+      "url": "https://mistral.ai/",
+      "type": "outil",
+      "duree": "5 min",
+      "date": "2026-06-01",
+      "lead": "Le champion français des modèles open et propriétaires. Documentation, accès API, garanties européennes et RGPD.",
+      "themes": [
+        "llm",
+        "ethique"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1532375810709-75b1da00537c%3Fw%3D1200&w=1200&output=webp",
+      "auteur": "Mistral AI",
+      "slug": "mistral-ai-mod-les-plateforme-tarifs"
+    },
+    {
+      "titre": "Anthropic Learn — courses gratuits",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/learn",
+      "type": "video",
+      "duree": "variable",
+      "date": "2026-06-01",
+      "lead": "Cours gratuits Anthropic pour apprendre à utiliser Claude : prompting, agents, intégrations. À recommander aux étudiants.",
+      "themes": [
+        "creation",
+        "workflow"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1524178232363-1fb2b075b655%3Fw%3D1200&w=1200&output=webp",
+      "auteur": "Anthropic",
+      "slug": "anthropic-learn-courses-gratuits"
+    },
+    {
+      "titre": "Perplexity — la recherche qui cite",
+      "source": "Perplexity",
+      "url": "https://www.perplexity.ai/",
+      "type": "outil",
+      "duree": "3 min",
+      "date": "2026-06-01",
+      "lead": "Moteur de réponse avec sources cliquables. Idéal pour préparer un cours d'actualité. Freemium.",
+      "themes": [
+        "curation"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1518770660439-4636190af475%3Fw%3D1200&w=1200&output=webp",
+      "auteur": "Perplexity",
+      "slug": "perplexity-la-recherche-qui-cite"
+    },
+    {
+      "titre": "Cairn.info — sciences humaines et sociales",
+      "source": "Cairn",
+      "url": "https://www.cairn.info/",
+      "type": "article",
+      "duree": "variable",
+      "date": "2026-06-01",
+      "lead": "La référence francophone pour les revues SHS. Beaucoup d'accès libre, parfois embargo. À croiser avec une IA pour digérer.",
+      "themes": [
+        "curation"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1457369804613-52c61a468e7d%3Fw%3D1200&w=1200&output=webp",
+      "auteur": "Cairn",
+      "slug": "cairn-info-sciences-humaines-et-sociales"
+    },
+    {
+      "titre": "OpenEdition — plateforme académique",
+      "source": "OpenEdition",
+      "url": "https://www.openedition.org/",
+      "type": "article",
+      "duree": "variable",
+      "date": "2026-06-01",
+      "lead": "Livres, revues, carnets de recherche en libre accès. Source précieuse pour étoffer un cours avec des références sérieuses.",
+      "themes": [
+        "curation"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1524995997946-a1c2e315a42f%3Fw%3D1200&w=1200&output=webp",
+      "auteur": "OpenEdition",
+      "slug": "openedition-plateforme-acad-mique"
+    },
+    {
+      "titre": "HAL — archive ouverte française",
+      "source": "HAL",
+      "url": "https://hal.science/",
+      "type": "article",
+      "duree": "variable",
+      "date": "2026-06-01",
+      "lead": "Le dépôt national en accès libre des publications scientifiques françaises. 1,3 million de documents.",
+      "themes": [
+        "curation"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1532012197267-da84d127e765%3Fw%3D1200&w=1200&output=webp",
+      "auteur": "HAL",
+      "slug": "hal-archive-ouverte-fran-aise"
+    },
+    {
+      "titre": "Anthropic — Claude Code (CLI pour développeurs)",
+      "source": "Anthropic",
+      "url": "https://claude.com/product/claude-code",
+      "type": "outil",
+      "duree": "variable",
+      "date": "2026-06-01",
+      "lead": "L'outil ligne de commande Anthropic qui devient utilisable côté prof pour créer scripts, sites, automatisations sans coder vraiment.",
+      "themes": [
         "workflow",
         "creation"
       ],
-      "duree": "11 min",
-      "url_source": "https://www.anthropic.com/learn",
-      "auteur": "E. Urschel · d'après Anthropic",
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1551836022-d5d88e9218df%3Fw%3D1200&w=1200&output=webp"
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1542831371-29b0f74f9713%3Fw%3D1200&w=1200&output=webp",
+      "auteur": "Anthropic",
+      "slug": "anthropic-claude-code-cli-pour-d-veloppeurs"
     },
     {
-      "slug": "encyclique-pape-leo-magnifica-humanitas-ia",
-      "date": "2026-05-28",
-      "titre": "« Magnifica humanitas » : le Pape Léon XIV publie son encyclique sur l'IA",
-      "lead": "Un texte qui dépasse le cadre religieux. Chris Olah (Anthropic) en commente la portée pour l'industrie.",
-      "type": "Éthique",
-      "themes": [
-        "ethique"
-      ],
-      "tags": [
-        "ethique"
-      ],
-      "duree": "10 min",
-      "url_source": "https://www.anthropic.com/news/chris-olah-pope-leo-encyclical",
-      "auteur": "E. Urschel · d'après Anthropic",
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1473177104440-ffee2f376098%3Fw%3D1200&w=1200&output=webp"
-    },
-    {
-      "slug": "mcp-protocole-agents-pratique",
-      "date": "2026-05-27",
-      "titre": "MCP (Model Context Protocol) : ce que le standard change pour les agents",
-      "lead": "Anthropic, OpenAI, Google : tous l'adoptent. Ce que ça veut dire concrètement quand on construit un agent IA aujourd'hui.",
-      "type": "Technique",
+      "titre": "Claude Connectors — MCP intégrations",
+      "source": "Anthropic",
+      "url": "https://claude.com/connectors",
+      "type": "outil",
+      "duree": "variable",
+      "date": "2026-06-01",
+      "lead": "L'écosystème Connectors via le protocole MCP. Brancher Claude à des sources, des outils, des bases. Standard ouvert.",
       "themes": [
         "agents"
       ],
-      "tags": [
-        "agents",
-        "llm"
-      ],
-      "duree": "7 min",
-      "url_source": "https://claude.com/connectors",
-      "auteur": "E. Urschel",
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1620712943543-bcc4688e7485%3Fw%3D1200&w=1200&output=webp"
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1581091226825-a6a2a5aee158%3Fw%3D1200&w=1200&output=webp",
+      "auteur": "Anthropic",
+      "slug": "claude-connectors-mcp-int-grations"
     },
     {
-      "slug": "claude-projects-bibliotheque-prof",
-      "date": "2026-05-26",
-      "titre": "Claude Projects : se construire une bibliothèque pédagogique vivante",
-      "lead": "Vos PDF, vos références, vos prompts standards — tout regroupé dans un projet Claude. Setup, exemples concrets, partages avec collègues.",
-      "type": "Tuto",
+      "titre": "CNIL — Intelligence artificielle",
+      "source": "CNIL",
+      "url": "https://www.cnil.fr/fr/intelligence-artificielle",
+      "type": "article",
+      "duree": "variable",
+      "date": "2026-06-01",
+      "lead": "Le hub de référence CNIL sur l'IA et le RGPD : fiches pratiques, recommandations, lignes directrices. La base pour un usage éducatif conforme.",
       "themes": [
-        "curation",
-        "workflow"
-      ],
-      "tags": [
-        "curation",
-        "workflow"
-      ],
-      "duree": "8 min",
-      "url_source": "https://claude.com/product/overview",
-      "auteur": "E. Urschel",
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1554224155-6726b3ff858f%3Fw%3D1200&w=1200&output=webp"
-    },
-    {
-      "slug": "biais-ia-pedagogie-reperer",
-      "date": "2026-05-25",
-      "titre": "Repérer les biais d'une IA dans une production pédagogique",
-      "lead": "Genre, âge, origine, niveau social : l'IA reproduit les biais de ses données. 5 garde-fous concrets pour le prof.",
-      "type": "Méthodo",
-      "themes": [
-        "ethique",
-        "curation"
-      ],
-      "tags": [
-        "ethique",
-        "creation",
-        "curation"
-      ],
-      "duree": "8 min",
-      "url_source": "https://www.cnil.fr/fr/intelligence-artificielle",
-      "auteur": "E. Urschel · d'après CNIL",
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1563013544-824ae1b704d3%3Fw%3D1200&w=1200&output=webp"
-    },
-    {
-      "slug": "prompt-bibliotheque-personnelle",
-      "date": "2026-05-24",
-      "titre": "Construire sa promptothèque personnelle : 10 prompts qui resservent toute l'année",
-      "lead": "Templates testés et retestés. Cas d'usage, prompts copiables, variations selon BTS / Bachelor / Master.",
-      "type": "Méthodo",
-      "themes": [
-        "workflow",
-        "creation"
-      ],
-      "tags": [
-        "workflow",
-        "creation"
-      ],
-      "duree": "10 min",
-      "url_source": "https://www.anthropic.com/learn",
-      "auteur": "E. Urschel · d'après Anthropic",
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1542744173-8e7e53415bb0%3Fw%3D1200&w=1200&output=webp"
-    },
-    {
-      "slug": "eduscol-ia-cadre-officiel",
-      "date": "2026-05-23",
-      "titre": "Éduscol publie son cadre officiel pour l'IA en classe",
-      "lead": "Le ministère pose enfin un référentiel. Ce qu'il dit, ce qu'il oublie, et ce que ça change pour vos pratiques au quotidien.",
-      "type": "Éthique",
-      "themes": [
-        "ethique",
-        "workflow"
-      ],
-      "tags": [
-        "ethique",
-        "workflow"
-      ],
-      "duree": "9 min",
-      "url_source": "https://eduscol.education.fr/",
-      "auteur": "E. Urschel · d'après Éduscol",
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1563013544-824ae1b704d3%3Fw%3D1200&w=1200&output=webp"
-    },
-    {
-      "slug": "cairn-openedition-recherche-academique",
-      "date": "2026-05-22",
-      "titre": "Cairn, OpenEdition, HAL : croiser l'IA avec la recherche académique francophone",
-      "lead": "Comment utiliser une IA comme assistant de lecture pour des articles Cairn ou OpenEdition. Limites, RGPD, qualité de la synthèse.",
-      "type": "Méthodo",
-      "themes": [
-        "curation"
-      ],
-      "tags": [
-        "curation",
         "ethique"
       ],
-      "duree": "9 min",
-      "url_source": "https://www.cairn.info/",
-      "auteur": "E. Urschel",
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1554224155-6726b3ff858f%3Fw%3D1200&w=1200&output=webp"
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1496861083958-175bb1bd5702%3Fw%3D1200&w=1200&output=webp",
+      "auteur": "CNIL",
+      "slug": "cnil-intelligence-artificielle"
+    },
+    {
+      "titre": "Cnesco — Conseil national d'évaluation du système scolaire",
+      "source": "Cnesco",
+      "url": "https://www.cnesco.fr/",
+      "type": "etude",
+      "duree": "variable",
+      "date": "2026-06-01",
+      "lead": "Le hub des rapports Cnesco. Études récentes sur l'IA et l'éducation, l'évaluation, les pratiques pédagogiques.",
+      "themes": [
+        "ethique",
+        "curation"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1497633762265-9d179a990aa6%3Fw%3D1200&w=1200&output=webp",
+      "auteur": "Cnesco",
+      "slug": "cnesco-conseil-national-d-valuation-du-syst-me-scolaire"
+    },
+    {
+      "titre": "Éduscol — IA et école",
+      "source": "Éduscol",
+      "url": "https://eduscol.education.fr/",
+      "type": "article",
+      "duree": "variable",
+      "date": "2026-06-01",
+      "lead": "Le portail officiel du ministère pour les enseignants. À consulter régulièrement pour le cadre réglementaire en évolution.",
+      "themes": [
+        "ethique"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1497633762265-9d179a990aa6%3Fw%3D1200&w=1200&output=webp",
+      "auteur": "Éduscol",
+      "slug": "duscol-ia-et-cole"
+    },
+    {
+      "titre": "AI Act — cadre réglementaire européen",
+      "source": "Commission européenne",
+      "url": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai",
+      "type": "livre-blanc",
+      "duree": "45 min",
+      "date": "2026-06-01",
+      "lead": "Le règlement européen sur l'IA. Page officielle de la Commission, avec FAQ, lignes directrices, calendrier d'application.",
+      "themes": [
+        "ethique"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1517245386807-bb43f82c33c4%3Fw%3D1200&w=1200&output=webp",
+      "auteur": "Commission européenne",
+      "slug": "ai-act-cadre-r-glementaire-europ-en"
+    },
+    {
+      "titre": "Introducing Claude Opus 4.8",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/claude-opus-4-8",
+      "type": "article",
+      "duree": "6 min",
+      "date": "2026-05-28",
+      "lead": "Upgrade de la classe Opus, avec performances renforcées sur le coding, les tâches d'agents et le travail professionnel sur la durée.",
+      "themes": [
+        "llm",
+        "workflow"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1551434678-e076c223a692%3Fw%3D1200&w=1200&output=webp",
+      "auteur": "Anthropic",
+      "slug": "introducing-claude-opus-4-8"
+    },
+    {
+      "titre": "Anthropic co-founder Chris Olah on Pope Leo XIV's encyclical « Magnifica humanitas »",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/chris-olah-pope-leo-encyclical",
+      "type": "article",
+      "duree": "10 min",
+      "date": "2026-05-25",
+      "lead": "Texte intégral des remarques de Chris Olah (co-fondateur Anthropic) sur l'encyclique papale consacrée à l'IA. Lecture de fond.",
+      "themes": [
+        "ethique"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1473177104440-ffee2f376098%3Fw%3D1200&w=1200&output=webp",
+      "auteur": "Anthropic",
+      "slug": "anthropic-co-founder-chris-olah-on-pope-leo-xiv-s-encyclical"
     }
   ]
 }
