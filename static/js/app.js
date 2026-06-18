@@ -124,23 +124,25 @@ function renderHome() {
         ${themes.map(t => `<span class="chip" data-theme="${t.slug}" style="--c:${t.color};">${esc(t.label)}</span>`).join('')}
       </div>
       <div class="blog-grid">
-        <a class="article-card featured" href="#blog/${esc(featured.themes[0])}">
+        <a class="article-card featured" href="${esc(featured.url)}" target="_blank" rel="noopener">
           <div class="article-img" style="background:#000 url('${featured.image}') center/cover no-repeat;">
-            <span class="article-badge" style="color:${getThemeColor(featured.themes[0])};">${esc(featured.themes[0].toUpperCase())}</span>
+            <span class="article-badge type-${esc(featured.type)}">${esc(typeLabel(featured.type))}</span>
+            <span class="article-source">${esc(featured.source)}</span>
           </div>
           <div class="article-body">
-            <div class="article-meta">${esc(featured.type)} · ${esc(featured.duree)} · ${fmtDate(featured.date)}</div>
+            <div class="article-meta">${esc(typeLabel(featured.type))} · ${esc(featured.duree)} · ${fmtDate(featured.date)}</div>
             <h4>${esc(featured.titre)}</h4>
             <p class="article-lead">${esc(featured.lead)}</p>
           </div>
         </a>
         ${others.map(a => `
-          <a class="article-card" href="#blog/${esc(a.themes[0])}">
+          <a class="article-card" href="${esc(a.url)}" target="_blank" rel="noopener">
             <div class="article-img" style="background:#000 url('${a.image}') center/cover no-repeat;">
-              <span class="article-badge" style="color:${getThemeColor(a.themes[0])};">${esc(a.themes[0].toUpperCase())}</span>
+              <span class="article-badge type-${esc(a.type)}">${esc(typeLabel(a.type))}</span>
+              <span class="article-source">${esc(a.source)}</span>
             </div>
             <div class="article-body">
-              <div class="article-meta">${esc(a.type)} · ${esc(a.duree)}</div>
+              <div class="article-meta">${esc(a.themes[0].toUpperCase())} · ${esc(a.duree)}</div>
               <h4>${esc(a.titre)}</h4>
             </div>
           </a>
@@ -155,6 +157,7 @@ function renderHome() {
   `;
 }
 
+function typeLabel(t){ const m={'article':'Article','video':'Vidéo','podcast':'Podcast','livre-blanc':'Livre blanc','etude':'Étude','outil':'Outil','tuto':'Tuto'}; return m[t]||t; }
 function getThemeColor(slug) {
   const t = STATE.data.themes.themes.find(x => x.slug === slug);
   return t ? t.color : '#d9a441';
@@ -268,12 +271,13 @@ function renderBlog(theme) {
       </div>
       <div class="blog-grid" style="grid-template-columns:repeat(3,1fr);">
         ${filtered.map(a => `
-          <a class="article-card" href="#article/${esc(a.slug)}">
+          <a class="article-card" href="${esc(a.url)}" target="_blank" rel="noopener">
             <div class="article-img" style="background:#000 url('${a.image}') center/cover no-repeat;">
-              <span class="article-badge" style="color:${getThemeColor(a.themes[0])};">${esc(a.themes[0].toUpperCase())}</span>
+              <span class="article-badge type-${esc(a.type)}">${esc(typeLabel(a.type))}</span>
+              <span class="article-source">${esc(a.source)}</span>
             </div>
             <div class="article-body">
-              <div class="article-meta">${esc(a.type)} · ${esc(a.duree)}</div>
+              <div class="article-meta">${esc(a.themes[0].toUpperCase())} · ${esc(a.duree)} · ${fmtDate(a.date)}</div>
               <h4>${esc(a.titre)}</h4>
               <p class="article-lead">${esc(a.lead)}</p>
             </div>
