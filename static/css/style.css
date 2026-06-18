@@ -551,3 +551,17 @@ button.vignette{border-width:1px}
 @media (max-width:780px){
   .hero-video{min-height:auto;padding:60px 24px 50px}
 }
+
+/* ============ FORMATION CARDS — vidéo en arrière-plan ============ */
+.formation-card-video .formation-img{
+  position:relative;height:220px;background:#0a0a13;overflow:hidden;padding:0;
+}
+.formation-card-video .formation-img video{
+  position:absolute;top:0;left:0;width:100%;height:100%;
+  object-fit:cover;display:block;
+}
+.formation-card-video .formation-img::after{
+  content:"";position:absolute;inset:0;
+  background:linear-gradient(180deg, rgba(0,0,0,.10) 0%, rgba(0,0,0,.55) 100%);
+  pointer-events:none;
+}
