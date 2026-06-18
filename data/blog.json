@@ -1,228 +1,6 @@
 {
   "articles": [
     {
-      "slug": "scienceetonnante",
-      "titre": "ScienceEtonnante — chaîne YouTube",
-      "lead": "Vulgarisation scientifique d'exception. Plusieurs vidéos longues sur les LLM, l'apprentissage profond, les biais cognitifs. À recommander en premier — ton accessible, fond rigoureux.",
-      "source": "YouTube",
-      "auteur": "David Louapre",
-      "url": "https://www.youtube.com/@ScienceEtonnante",
-      "type": "video",
-      "duree": "variable",
-      "date": "2026-06-18",
-      "themes": [
-        "llm",
-        "ethique",
-        "creation"
-      ],
-      "tags": [
-        "llm",
-        "ethique",
-        "creation"
-      ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1611162616305-c69b3fa7fbe0%3Fw%3D1200&w=1200&output=webp"
-    },
-    {
-      "slug": "underscore",
-      "titre": "Underscore_ — chaîne YouTube",
-      "lead": "Actualité tech IA en français, démos prompts, comparatifs d'outils. La référence FR sur les outils IA grand public. Format dynamique, ton accessible.",
-      "source": "YouTube",
-      "auteur": "Micode",
-      "url": "https://www.youtube.com/@Underscore_",
-      "type": "video",
-      "duree": "variable",
-      "date": "2026-06-18",
-      "themes": [
-        "llm",
-        "creation",
-        "workflow"
-      ],
-      "tags": [
-        "llm",
-        "creation",
-        "workflow"
-      ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1593642632559-0c6d3fc62b89%3Fw%3D1200&w=1200&output=webp"
-    },
-    {
-      "slug": "machine-learnia",
-      "titre": "Machine Learnia — chaîne YouTube",
-      "lead": "Le meilleur cours de Machine Learning gratuit en français. Théorie + pratique Python. Idéal pour étudiants curieux et profs qui veulent monter en compétence.",
-      "source": "YouTube",
-      "auteur": "Guillaume Saint-Cirgue",
-      "url": "https://www.youtube.com/@MachineLearnia",
-      "type": "video",
-      "duree": "variable",
-      "date": "2026-06-18",
-      "themes": [
-        "llm",
-        "creation"
-      ],
-      "tags": [
-        "llm",
-        "creation"
-      ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1555066931-4365d14bab8c%3Fw%3D1200&w=1200&output=webp"
-    },
-    {
-      "slug": "le-meta",
-      "titre": "Le Meta — chaîne YouTube",
-      "lead": "Analyse critique des transformations du numérique et de l'IA. Approche réflexive utile pour les profs qui veulent prendre du recul.",
-      "source": "YouTube",
-      "auteur": "Le Meta",
-      "url": "https://www.youtube.com/@LeMeta",
-      "type": "video",
-      "duree": "variable",
-      "date": "2026-06-18",
-      "themes": [
-        "ethique",
-        "workflow"
-      ],
-      "tags": [
-        "ethique",
-        "workflow"
-      ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1532375810709-75b1da00537c%3Fw%3D1200&w=1200&output=webp"
-    },
-    {
-      "slug": "hygi-ne-mentale",
-      "titre": "Hygiène Mentale — chaîne YouTube",
-      "lead": "Esprit critique appliqué à l'information, aux biais, et aux promesses de l'IA. Indispensable pour cadrer le discours en classe.",
-      "source": "YouTube",
-      "auteur": "Christophe Michel",
-      "url": "https://www.youtube.com/@HygieneMentale",
-      "type": "video",
-      "duree": "variable",
-      "date": "2026-06-18",
-      "themes": [
-        "ethique"
-      ],
-      "tags": [
-        "ethique"
-      ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1496861083958-175bb1bd5702%3Fw%3D1200&w=1200&output=webp"
-    },
-    {
-      "slug": "cocadmin",
-      "titre": "cocadmin — chaîne YouTube",
-      "lead": "Sysadmin, sécurité, et tech avec rigueur. Plusieurs vidéos sur les agents IA, les workflows automatisés, le code assisté.",
-      "source": "YouTube",
-      "auteur": "cocadmin",
-      "url": "https://www.youtube.com/@cocadmin",
-      "type": "video",
-      "duree": "variable",
-      "date": "2026-06-18",
-      "themes": [
-        "agents",
-        "workflow"
-      ],
-      "tags": [
-        "agents",
-        "workflow"
-      ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1542831371-29b0f74f9713%3Fw%3D1200&w=1200&output=webp"
-    },
-    {
-      "slug": "numerama",
-      "titre": "Numerama — chaîne YouTube",
-      "lead": "La chaîne du média Numerama. Décryptage actu IA en français, interviews, formats courts. Compagnon des articles écrits.",
-      "source": "YouTube",
-      "auteur": "Numerama",
-      "url": "https://www.youtube.com/@Numerama",
-      "type": "video",
-      "duree": "variable",
-      "date": "2026-06-18",
-      "themes": [
-        "llm",
-        "ethique"
-      ],
-      "tags": [
-        "llm",
-        "ethique"
-      ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1554224155-6726b3ff858f%3Fw%3D1200&w=1200&output=webp"
-    },
-    {
-      "slug": "3blue1brown",
-      "titre": "3Blue1Brown — chaîne YouTube",
-      "lead": "Animations exceptionnelles pour comprendre l'algèbre linéaire, les réseaux de neurones, les transformers. EN sous-titrable. Pédagogie maths-IA absolue.",
-      "source": "YouTube",
-      "auteur": "Grant Sanderson",
-      "url": "https://www.youtube.com/@3blue1brown",
-      "type": "video",
-      "duree": "variable",
-      "date": "2026-06-18",
-      "themes": [
-        "llm",
-        "creation"
-      ],
-      "tags": [
-        "llm",
-        "creation"
-      ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1581091226825-a6a2a5aee158%3Fw%3D1200&w=1200&output=webp"
-    },
-    {
-      "slug": "two-minute-papers",
-      "titre": "Two Minute Papers — chaîne YouTube",
-      "lead": "Une publication scientifique IA résumée en 5-10 min. Idéal pour suivre la recherche sans lire les papers. EN, sous-titrable.",
-      "source": "YouTube",
-      "auteur": "Károly Zsolnai-Fehér",
-      "url": "https://www.youtube.com/@TwoMinutePapers",
-      "type": "video",
-      "duree": "variable",
-      "date": "2026-06-18",
-      "themes": [
-        "llm",
-        "agents"
-      ],
-      "tags": [
-        "llm",
-        "agents"
-      ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1620712943543-bcc4688e7485%3Fw%3D1200&w=1200&output=webp"
-    },
-    {
-      "slug": "andrej-karpathy",
-      "titre": "Andrej Karpathy — chaîne YouTube",
-      "lead": "Ex-OpenAI, ex-Tesla. Ses cours « Neural Networks: Zero to Hero » sont la référence mondiale pour comprendre comment fonctionnent les LLM. Long format.",
-      "source": "YouTube",
-      "auteur": "Andrej Karpathy",
-      "url": "https://www.youtube.com/@AndrejKarpathy",
-      "type": "video",
-      "duree": "variable",
-      "date": "2026-06-18",
-      "themes": [
-        "llm"
-      ],
-      "tags": [
-        "llm"
-      ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1485827404703-89b55fcc595e%3Fw%3D1200&w=1200&output=webp"
-    },
-    {
-      "slug": "anthropic",
-      "titre": "Anthropic — chaîne YouTube",
-      "lead": "Chaîne officielle d'Anthropic : démos Claude, talks recherche, tutoriels prompting. EN, sous-titrable.",
-      "source": "YouTube",
-      "auteur": "Anthropic",
-      "url": "https://www.youtube.com/@anthropic-ai",
-      "type": "video",
-      "duree": "variable",
-      "date": "2026-06-18",
-      "themes": [
-        "llm",
-        "agents",
-        "creation"
-      ],
-      "tags": [
-        "llm",
-        "agents",
-        "creation"
-      ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1620712943543-bcc4688e7485%3Fw%3D1200&w=1200&output=webp"
-    },
-    {
       "titre": "Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem",
       "source": "Anthropic",
       "url": "https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem",
@@ -655,6 +433,396 @@
       "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1473177104440-ffee2f376098%3Fw%3D1200&w=1200&output=webp",
       "auteur": "Anthropic",
       "slug": "anthropic-co-founder-chris-olah-on-pope-leo-xiv-s-encyclical"
+    },
+    {
+      "slug": "scienceetonnante",
+      "titre": "ScienceEtonnante — chaîne YouTube",
+      "lead": "Vulgarisation scientifique d'exception. Plusieurs vidéos longues sur les LLM, l'apprentissage profond, les biais cognitifs. À recommander en premier — ton accessible, fond rigoureux.",
+      "source": "YouTube",
+      "auteur": "David Louapre",
+      "url": "https://www.youtube.com/@ScienceEtonnante",
+      "type": "video",
+      "duree": "variable",
+      "date": "2026-06-18",
+      "themes": [
+        "llm",
+        "ethique",
+        "creation"
+      ],
+      "tags": [
+        "llm",
+        "ethique",
+        "creation"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1611162616305-c69b3fa7fbe0%3Fw%3D1200&w=1200&output=webp"
+    },
+    {
+      "slug": "underscore",
+      "titre": "Underscore_ — chaîne YouTube",
+      "lead": "Actualité tech IA en français, démos prompts, comparatifs d'outils. La référence FR sur les outils IA grand public. Format dynamique, ton accessible.",
+      "source": "YouTube",
+      "auteur": "Micode",
+      "url": "https://www.youtube.com/@Underscore_",
+      "type": "video",
+      "duree": "variable",
+      "date": "2026-06-18",
+      "themes": [
+        "llm",
+        "creation",
+        "workflow"
+      ],
+      "tags": [
+        "llm",
+        "creation",
+        "workflow"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1593642632559-0c6d3fc62b89%3Fw%3D1200&w=1200&output=webp"
+    },
+    {
+      "slug": "machine-learnia",
+      "titre": "Machine Learnia — chaîne YouTube",
+      "lead": "Le meilleur cours de Machine Learning gratuit en français. Théorie + pratique Python. Idéal pour étudiants curieux et profs qui veulent monter en compétence.",
+      "source": "YouTube",
+      "auteur": "Guillaume Saint-Cirgue",
+      "url": "https://www.youtube.com/@MachineLearnia",
+      "type": "video",
+      "duree": "variable",
+      "date": "2026-06-18",
+      "themes": [
+        "llm",
+        "creation"
+      ],
+      "tags": [
+        "llm",
+        "creation"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1555066931-4365d14bab8c%3Fw%3D1200&w=1200&output=webp"
+    },
+    {
+      "slug": "le-meta",
+      "titre": "Le Meta — chaîne YouTube",
+      "lead": "Analyse critique des transformations du numérique et de l'IA. Approche réflexive utile pour les profs qui veulent prendre du recul.",
+      "source": "YouTube",
+      "auteur": "Le Meta",
+      "url": "https://www.youtube.com/@LeMeta",
+      "type": "video",
+      "duree": "variable",
+      "date": "2026-06-18",
+      "themes": [
+        "ethique",
+        "workflow"
+      ],
+      "tags": [
+        "ethique",
+        "workflow"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1532375810709-75b1da00537c%3Fw%3D1200&w=1200&output=webp"
+    },
+    {
+      "slug": "hygi-ne-mentale",
+      "titre": "Hygiène Mentale — chaîne YouTube",
+      "lead": "Esprit critique appliqué à l'information, aux biais, et aux promesses de l'IA. Indispensable pour cadrer le discours en classe.",
+      "source": "YouTube",
+      "auteur": "Christophe Michel",
+      "url": "https://www.youtube.com/@HygieneMentale",
+      "type": "video",
+      "duree": "variable",
+      "date": "2026-06-18",
+      "themes": [
+        "ethique"
+      ],
+      "tags": [
+        "ethique"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1496861083958-175bb1bd5702%3Fw%3D1200&w=1200&output=webp"
+    },
+    {
+      "slug": "cocadmin",
+      "titre": "cocadmin — chaîne YouTube",
+      "lead": "Sysadmin, sécurité, et tech avec rigueur. Plusieurs vidéos sur les agents IA, les workflows automatisés, le code assisté.",
+      "source": "YouTube",
+      "auteur": "cocadmin",
+      "url": "https://www.youtube.com/@cocadmin",
+      "type": "video",
+      "duree": "variable",
+      "date": "2026-06-18",
+      "themes": [
+        "agents",
+        "workflow"
+      ],
+      "tags": [
+        "agents",
+        "workflow"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1542831371-29b0f74f9713%3Fw%3D1200&w=1200&output=webp"
+    },
+    {
+      "slug": "numerama",
+      "titre": "Numerama — chaîne YouTube",
+      "lead": "La chaîne du média Numerama. Décryptage actu IA en français, interviews, formats courts. Compagnon des articles écrits.",
+      "source": "YouTube",
+      "auteur": "Numerama",
+      "url": "https://www.youtube.com/@Numerama",
+      "type": "video",
+      "duree": "variable",
+      "date": "2026-06-18",
+      "themes": [
+        "llm",
+        "ethique"
+      ],
+      "tags": [
+        "llm",
+        "ethique"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1554224155-6726b3ff858f%3Fw%3D1200&w=1200&output=webp"
+    },
+    {
+      "slug": "3blue1brown",
+      "titre": "3Blue1Brown — chaîne YouTube",
+      "lead": "Animations exceptionnelles pour comprendre l'algèbre linéaire, les réseaux de neurones, les transformers. EN sous-titrable. Pédagogie maths-IA absolue.",
+      "source": "YouTube",
+      "auteur": "Grant Sanderson",
+      "url": "https://www.youtube.com/@3blue1brown",
+      "type": "video",
+      "duree": "variable",
+      "date": "2026-06-18",
+      "themes": [
+        "llm",
+        "creation"
+      ],
+      "tags": [
+        "llm",
+        "creation"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1581091226825-a6a2a5aee158%3Fw%3D1200&w=1200&output=webp"
+    },
+    {
+      "slug": "two-minute-papers",
+      "titre": "Two Minute Papers — chaîne YouTube",
+      "lead": "Une publication scientifique IA résumée en 5-10 min. Idéal pour suivre la recherche sans lire les papers. EN, sous-titrable.",
+      "source": "YouTube",
+      "auteur": "Károly Zsolnai-Fehér",
+      "url": "https://www.youtube.com/@TwoMinutePapers",
+      "type": "video",
+      "duree": "variable",
+      "date": "2026-06-18",
+      "themes": [
+        "llm",
+        "agents"
+      ],
+      "tags": [
+        "llm",
+        "agents"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1620712943543-bcc4688e7485%3Fw%3D1200&w=1200&output=webp"
+    },
+    {
+      "slug": "andrej-karpathy",
+      "titre": "Andrej Karpathy — chaîne YouTube",
+      "lead": "Ex-OpenAI, ex-Tesla. Ses cours « Neural Networks: Zero to Hero » sont la référence mondiale pour comprendre comment fonctionnent les LLM. Long format.",
+      "source": "YouTube",
+      "auteur": "Andrej Karpathy",
+      "url": "https://www.youtube.com/@AndrejKarpathy",
+      "type": "video",
+      "duree": "variable",
+      "date": "2026-06-18",
+      "themes": [
+        "llm"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1485827404703-89b55fcc595e%3Fw%3D1200&w=1200&output=webp"
+    },
+    {
+      "slug": "anthropic",
+      "titre": "Anthropic — chaîne YouTube",
+      "lead": "Chaîne officielle d'Anthropic : démos Claude, talks recherche, tutoriels prompting. EN, sous-titrable.",
+      "source": "YouTube",
+      "auteur": "Anthropic",
+      "url": "https://www.youtube.com/@anthropic-ai",
+      "type": "video",
+      "duree": "variable",
+      "date": "2026-06-18",
+      "themes": [
+        "llm",
+        "agents",
+        "creation"
+      ],
+      "tags": [
+        "llm",
+        "agents",
+        "creation"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1620712943543-bcc4688e7485%3Fw%3D1200&w=1200&output=webp"
+    },
+    {
+      "slug": "ludo-salenne",
+      "titre": "Ludo Salenne — chaîne YouTube",
+      "lead": "Le youtubeur tech français qui couvre l'IA, les outils, la productivité. Démos pratiques, ton accessible, indispensable.",
+      "source": "YouTube",
+      "auteur": "Ludovic Salenne",
+      "url": "https://www.youtube.com/@LudovicSalenne",
+      "type": "video",
+      "duree": "variable",
+      "date": "2026-06-18",
+      "themes": [
+        "llm",
+        "workflow",
+        "creation"
+      ],
+      "tags": [
+        "llm",
+        "workflow",
+        "creation"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1593642632559-0c6d3fc62b89%3Fw%3D1200&w=1200&output=webp"
+    },
+    {
+      "slug": "ludo-ia",
+      "titre": "Ludo IA² — chaîne YouTube",
+      "lead": "Le deuxième canal de Ludo Salenne, 100 % IA. Tutoriels, comparatifs d'outils, workflows pour pro. Une mine.",
+      "source": "YouTube",
+      "auteur": "Ludovic Salenne",
+      "url": "https://www.youtube.com/@LudoAuCarre",
+      "type": "video",
+      "duree": "variable",
+      "date": "2026-06-18",
+      "themes": [
+        "llm",
+        "creation",
+        "workflow"
+      ],
+      "tags": [
+        "llm",
+        "creation",
+        "workflow"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1551434678-e076c223a692%3Fw%3D1200&w=1200&output=webp"
+    },
+    {
+      "slug": "korben",
+      "titre": "Korben — chaîne YouTube",
+      "lead": "L'institution tech française. Decouvertes d'outils, tutos, IA, cybersécurité. Ton libre, format efficace.",
+      "source": "YouTube",
+      "auteur": "Korben",
+      "url": "https://www.youtube.com/@Korben",
+      "type": "video",
+      "duree": "variable",
+      "date": "2026-06-18",
+      "themes": [
+        "llm",
+        "workflow",
+        "ethique"
+      ],
+      "tags": [
+        "llm",
+        "workflow",
+        "ethique"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1556761175-5973dc0f32e7%3Fw%3D1200&w=1200&output=webp"
+    },
+    {
+      "slug": "elliott-pierret",
+      "titre": "Elliott Pierret — chaîne YouTube",
+      "lead": "Spécialiste de la productivité avec l'IA. Workflows concrets, gain de temps mesurable, outils variés.",
+      "source": "YouTube",
+      "auteur": "Elliott Pierret",
+      "url": "https://www.youtube.com/@elliottpierret",
+      "type": "video",
+      "duree": "variable",
+      "date": "2026-06-18",
+      "themes": [
+        "workflow",
+        "creation"
+      ],
+      "tags": [
+        "workflow",
+        "creation"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1552664730-d307ca884978%3Fw%3D1200&w=1200&output=webp"
+    },
+    {
+      "slug": "micode",
+      "titre": "Micode — chaîne YouTube",
+      "lead": "La chaîne perso de Micode (Underscore_). Récits longs, enquêtes tech, formats narratifs. À voir pour le ton et la mise en récit.",
+      "source": "YouTube",
+      "auteur": "Micode",
+      "url": "https://www.youtube.com/@Micode",
+      "type": "video",
+      "duree": "variable",
+      "date": "2026-06-18",
+      "themes": [
+        "llm",
+        "ethique"
+      ],
+      "tags": [
+        "llm",
+        "ethique"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1581091226825-a6a2a5aee158%3Fw%3D1200&w=1200&output=webp"
+    },
+    {
+      "slug": "google-gemini",
+      "titre": "Google Gemini — chaîne YouTube",
+      "lead": "La chaîne officielle Gemini. Démos NotebookLM, IA Studio, Google Workspace. EN sous-titrable.",
+      "source": "YouTube",
+      "auteur": "Google",
+      "url": "https://www.youtube.com/@GoogleGemini",
+      "type": "video",
+      "duree": "variable",
+      "date": "2026-06-18",
+      "themes": [
+        "llm",
+        "curation",
+        "creation"
+      ],
+      "tags": [
+        "llm",
+        "curation",
+        "creation"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1554224155-6726b3ff858f%3Fw%3D1200&w=1200&output=webp"
+    },
+    {
+      "slug": "openai",
+      "titre": "OpenAI — chaîne YouTube",
+      "lead": "La chaîne officielle OpenAI : annonces produits, démos GPT, talks recherche. EN sous-titrable.",
+      "source": "YouTube",
+      "auteur": "OpenAI",
+      "url": "https://www.youtube.com/@OpenAI",
+      "type": "video",
+      "duree": "variable",
+      "date": "2026-06-18",
+      "themes": [
+        "llm",
+        "creation",
+        "agents"
+      ],
+      "tags": [
+        "llm",
+        "creation",
+        "agents"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1620712943543-bcc4688e7485%3Fw%3D1200&w=1200&output=webp"
+    },
+    {
+      "slug": "canva",
+      "titre": "Canva — chaîne YouTube",
+      "lead": "Tutoriels visuels Canva, dont la suite IA intégrée. Utile pour produire vite des supports visuels propres.",
+      "source": "YouTube",
+      "auteur": "Canva",
+      "url": "https://www.youtube.com/@canva",
+      "type": "video",
+      "duree": "variable",
+      "date": "2026-06-18",
+      "themes": [
+        "creation"
+      ],
+      "tags": [
+        "creation"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1551836022-d5d88e9218df%3Fw%3D1200&w=1200&output=webp"
     }
   ]
 }
