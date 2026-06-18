@@ -434,3 +434,64 @@ button.vignette{border-width:1px}
   border-radius:8px;margin:0;max-width:none;line-height:1.6;
 }
 .content .dev-insert .dev-tip strong{color:var(--cyan);font-style:normal;font-weight:600}
+
+/* ============ COURSE-INSERT — vignette intra-cours (photo + contenu cliquable) ============ */
+.content .course-insert{
+  display:flex;gap:0;max-width:780px;margin:36px auto;
+  background:linear-gradient(180deg,var(--ink),var(--ink-2));
+  border:1px solid var(--line);border-radius:var(--radius);overflow:hidden;
+  text-align:left;cursor:pointer;color:var(--text);font-family:inherit;
+  text-decoration:none;transition:all .25s;width:100%;padding:0;
+  position:relative;
+}
+.content .course-insert::before{
+  content:"";position:absolute;top:0;left:0;right:0;height:1px;
+  background:linear-gradient(90deg,transparent,var(--cyan),transparent);opacity:.6;
+}
+.content .course-insert:hover{border-color:var(--cyan);transform:translateY(-1px);box-shadow:var(--glow-soft)}
+.content .course-insert:hover .ci-thumb img{transform:scale(1.05)}
+.content .course-insert:hover .ci-cta{color:var(--cyan)}
+.content .course-insert .ci-thumb{
+  position:relative;flex-shrink:0;width:200px;background:#0a0a13;overflow:hidden;
+}
+.content .course-insert .ci-thumb img{
+  width:100%;height:100%;object-fit:cover;transition:transform .35s;
+  filter:saturate(1.05) contrast(1.02);display:block;
+}
+.content .course-insert .ci-thumb::after{
+  content:"";position:absolute;inset:0;
+  background:linear-gradient(90deg,transparent 60%,rgba(0,0,0,.55));
+  pointer-events:none;
+}
+.content .course-insert .ci-play, .content .course-insert .ci-pic{
+  position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);
+  background:rgba(0,191,255,.95);color:#001924;border-radius:50%;
+  width:44px;height:44px;display:flex;align-items:center;justify-content:center;
+  font-size:18px;font-weight:700;
+  box-shadow:0 0 24px rgba(0,191,255,.55);z-index:2;
+}
+.content .course-insert .ci-play{padding-left:3px}
+.content .course-insert .ci-body{
+  flex:1;padding:20px 24px;display:flex;flex-direction:column;justify-content:center;min-width:0;
+}
+.content .course-insert .ci-tag{
+  font-size:11px;color:var(--cyan);text-transform:none;letter-spacing:.02em;
+  display:flex;align-items:center;gap:8px;font-weight:600;margin-bottom:8px;
+}
+.content .course-insert .ci-tag .ci-icon{font-size:14px}
+.content .course-insert h4.ci-title{
+  font-family:'Host Grotesk',sans-serif;font-size:18px;font-weight:600;
+  color:var(--text);letter-spacing:-0.01em;line-height:1.25;
+  margin:0 0 8px;max-width:none;text-transform:none;
+}
+.content .course-insert .ci-lead{
+  font-size:14px;color:#cfd1d8;line-height:1.55;margin:0 0 10px;max-width:none;
+}
+.content .course-insert .ci-cta{
+  font-size:12px;color:var(--ink2);font-weight:600;letter-spacing:.02em;
+  margin-top:auto;transition:color .15s;text-transform:none;
+}
+@media (max-width:720px){
+  .content .course-insert{flex-direction:column}
+  .content .course-insert .ci-thumb{width:100%;height:160px}
+}
