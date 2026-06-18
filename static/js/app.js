@@ -324,11 +324,13 @@ function renderVignette(v, idx) {
 }
 
 function bindVignetteClicks() {
-  document.querySelectorAll('[data-modal]').forEach(el => {
-    el.addEventListener('click', (e) => {
-      e.preventDefault();
-      openModal(el.getAttribute('data-modal'));
-    });
+  if (window._modalDelegationBound) return;
+  window._modalDelegationBound = true;
+  document.addEventListener('click', (e) => {
+    const trigger = e.target.closest('[data-modal]');
+    if (!trigger) return;
+    e.preventDefault();
+    openModal(trigger.getAttribute('data-modal'));
   });
 }
 
