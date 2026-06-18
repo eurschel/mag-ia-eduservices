@@ -421,25 +421,6 @@ function renderRecap() {
         </div>
       </div>
     </section>
-    <section class="section">
-      <div class="section-head">
-        <div>
-          <div class="section-eyebrow">Cette semaine</div>
-          <h2>${r.items.length} ressource${r.items.length>1?'s':''} sélectionnée${r.items.length>1?'s':''}.</h2>
-        </div>
-      </div>
-      <div class="recap-grid">
-        ${r.items.map((it,i) => `
-          <a class="recap-card" href="${it.url || '#'}" ${it.url ? 'target="_blank" rel="noopener"' : ''}>
-            <div class="recap-card-num">${String(i+1).padStart(2,'0')}</div>
-            <div class="recap-card-type">${esc(recapTypeLabel(it.type))}</div>
-            <h3 class="recap-card-title">${esc(it.titre)}</h3>
-            <p class="recap-card-lead">${esc(it.lead)}</p>
-            ${it.url ? `<div class="recap-card-cta">Consulter ↗</div>` : ''}
-          </a>
-        `).join('')}
-      </div>
-    </section>
     <section class="newsletter-banner">
       <div class="nlb-inner">
         <div class="nlb-icon">✉️</div>
