@@ -224,38 +224,141 @@ async function renderModule(niveau, num) {
   const r = await fetch(`/api/formation/${niveau}/module/${num}`);
   const m = await r.json();
   const f = STATE.data.formations[niveau];
+  STATE.currentModule = m;
+  const hasVignettes = Array.isArray(m.vignettes) && m.vignettes.length > 0;
+
   APP.innerHTML = `
     <section class="hero" style="--hero-img: url('${m.img}'); padding:60px 32px 50px;">
       <div class="hero-inner">
-        <span class="hero-eyebrow" style="color:${f.color};">${esc(f.label)} · Module ${m.num} · ${esc(m.duree)}</span>
+        <span class="hero-eyebrow">${esc(f.label)} · Module ${m.num} · ${esc(m.duree)}</span>
         <h1>${esc(m.title)}</h1>
         <p class="hero-lead">${esc(m.tagline)}</p>
       </div>
     </section>
     <section class="section section-full">
-      ${m.sections.map(s => `
-        <details ${s.type === 'cours' ? 'open' : ''} style="margin:0 0 18px;background:var(--bg2);border:0.5px solid var(--line);border-radius:14px;overflow:hidden;">
-          <summary style="padding:22px 26px;cursor:pointer;list-style:none;display:flex;justify-content:space-between;align-items:center;">
-            <div>
-              <div style="font-size:11px;color:${f.color};letter-spacing:0.14em;text-transform:uppercase;margin-bottom:6px;">${esc(s.type)}</div>
-              <h3 style="font-family:Fraunces,serif;font-size:21px;font-weight:500;margin:0;">${esc(s.titre)}</h3>
-              ${s.lead ? `<p style="color:var(--ink2);font-size:13px;line-height:1.55;margin-top:6px;">${esc(s.lead)}</p>` : ''}
-            </div>
-            <span style="color:var(--ink3);font-size:18px;">▾</span>
-          </summary>
-          <div class="content" style="padding:0 28px 26px;color:var(--ink);line-height:1.7;font-size:15px;">
-            ${s.html || `<p style="color:var(--ink3);">Contenu à intégrer.</p>`}
-          </div>
-        </details>
-      `).join('')}
-      ${m.linked_actus && m.linked_actus.length ? `
-        <div style="margin-top:50px;padding:24px;background:linear-gradient(135deg,rgba(217,164,65,0.12),rgba(217,164,65,0.04));border:0.5px solid rgba(217,164,65,0.30);border-radius:14px;">
-          <div style="font-size:11px;color:var(--gold);letter-spacing:0.14em;text-transform:uppercase;margin-bottom:10px;">⚡ Actus liées à ce module</div>
-          ${m.linked_actus.map(a => `<a href="#blog/${esc(a.themes[0])}" style="display:block;padding:10px 0;border-top:0.5px solid var(--line);"><div style="font-size:11px;color:var(--ink3);">${esc(a.type)} · ${fmtDate(a.date)}</div><div style="font-family:Fraunces,serif;font-size:16px;">${esc(a.titre)}</div></a>`).join('')}
-        </div>` : ''}
+      <div class="module-layout ${hasVignettes ? 'has-sidebar' : ''}">
+        <div class="module-main">
+          ${m.sections.map(s => `
+            <details ${s.type === 'cours' ? 'open' : ''} class="section-block">
+              <summary>
+                <div>
+                  <div class="section-block-type">${esc(s.type)}</div>
+                  <h3>${esc(s.titre)}</h3>
+                  ${s.lead ? `<p class="section-block-lead">${esc(s.lead)}</p>` : ''}
+                </div>
+                <span class="section-block-chev">▾</span>
+              </summary>
+              <div class="content">
+                ${s.html || `<p style="color:var(--ink3);">Contenu à intégrer.</p>`}
+              </div>
+            </details>
+          `).join('')}
+          ${m.linked_actus && m.linked_actus.length ? `
+            <div class="linked-actus">
+              <div class="linked-actus-eye">⚡ Actus liées à ce module</div>
+              ${m.linked_actus.map(a => `<a href="#blog/${esc(a.themes[0])}" class="linked-actu-item"><div class="meta">${esc(a.type)} · ${fmtDate(a.date)}</div><div class="t">${esc(a.titre)}</div></a>`).join('')}
+            </div>` : ''}
+        </div>
+        ${hasVignettes ? `
+        <aside class="module-sidebar">
+          <div class="sidebar-eye">Pour aller plus loin</div>
+          ${m.vignettes.map((v, i) => renderVignette(v, i)).join('')}
+        </aside>
+        ` : ''}
+      </div>
     </section>
+    <div id="modal-root"></div>
   `;
+  bindVignetteClicks();
 }
+
+function renderVignette(v, idx) {
+  const t = v.type || 'approfondir';
+  const isVideo = t === 'video';
+  const isExternal = isVideo && v.url;
+  const isModal = v.modal_id != null;
+  const isStatic = !isExternal && !isModal;
+
+  const tag = isExternal
+    ? `<a class="vignette vignette-${t}" href="${esc(v.url)}" target="_blank" rel="noopener" data-vignette="${idx}">`
+    : isModal
+      ? `<button class="vignette vignette-${t}" type="button" data-modal="${esc(v.modal_id)}" data-vignette="${idx}">`
+      : `<div class="vignette vignette-${t}" data-vignette="${idx}">`;
+  const closetag = isExternal ? '</a>' : isModal ? '</button>' : '</div>';
+
+  let body = '';
+  if (isVideo && v.thumb) {
+    body = `
+      <div class="vignette-thumb"><img src="${esc(v.thumb)}" alt=""><span class="vignette-play">▶</span></div>
+      <div class="vignette-body">
+        <div class="vignette-label"><span class="vignette-icon">${v.icon || ''}</span>${esc(v.label || '')}</div>
+        <div class="vignette-title">${esc(v.titre)}</div>
+        <p class="vignette-lead">${esc(v.lead)}</p>
+        ${v.source ? `<div class="vignette-meta">${esc(v.source)}${v.duree ? ' · ' + esc(v.duree) : ''}</div>` : ''}
+      </div>`;
+  } else if (t === 'chiffre') {
+    body = `
+      <div class="vignette-body">
+        <div class="vignette-label"><span class="vignette-icon">${v.icon || '📊'}</span>${esc(v.label || 'Chiffre clé')}</div>
+        <div class="vignette-bignum">${esc(v.titre)}</div>
+        <p class="vignette-lead">${esc(v.lead)}</p>
+      </div>`;
+  } else if (t === 'citation') {
+    body = `
+      <div class="vignette-body">
+        <div class="vignette-label"><span class="vignette-icon">${v.icon || '💬'}</span>${esc(v.label || 'Citation')}</div>
+        <blockquote class="vignette-quote">${esc(v.titre)}</blockquote>
+        <p class="vignette-lead">${esc(v.lead)}</p>
+        ${v.source ? `<div class="vignette-meta">— ${esc(v.source)}</div>` : ''}
+      </div>`;
+  } else {
+    body = `
+      <div class="vignette-body">
+        <div class="vignette-label"><span class="vignette-icon">${v.icon || '💡'}</span>${esc(v.label || '')}</div>
+        <div class="vignette-title">${esc(v.titre)}</div>
+        <p class="vignette-lead">${esc(v.lead)}</p>
+        ${isModal ? `<div class="vignette-cta">Voir la fiche →</div>` : ''}
+        ${isExternal && !v.thumb ? `<div class="vignette-cta">Ouvrir la vidéo ↗</div>` : ''}
+      </div>`;
+  }
+  return tag + body + closetag;
+}
+
+function bindVignetteClicks() {
+  document.querySelectorAll('[data-modal]').forEach(el => {
+    el.addEventListener('click', (e) => {
+      e.preventDefault();
+      const id = el.getAttribute('data-modal');
+      openModal(id);
+    });
+  });
+}
+
+function openModal(id) {
+  const m = STATE.currentModule;
+  if (!m || !m.modals || !m.modals[id]) return;
+  const data = m.modals[id];
+  const root = document.getElementById('modal-root');
+  if (!root) return;
+  root.innerHTML = `
+    <div class="modal-backdrop" onclick="closeModal()"></div>
+    <div class="modal-window" role="dialog" aria-modal="true">
+      <button class="modal-close" onclick="closeModal()" aria-label="Fermer">✕</button>
+      <div class="modal-head"><h2>${esc(data.titre)}</h2></div>
+      <div class="modal-body">${data.html || ''}</div>
+    </div>
+  `;
+  document.body.style.overflow = 'hidden';
+  document.addEventListener('keydown', escClose);
+}
+function closeModal() {
+  const root = document.getElementById('modal-root');
+  if (root) root.innerHTML = '';
+  document.body.style.overflow = '';
+  document.removeEventListener('keydown', escClose);
+}
+function escClose(e) { if (e.key === 'Escape') closeModal(); }
+window.closeModal = closeModal;
 
 function renderBlog(theme) {
   const arts = STATE.data.blog.articles;
@@ -327,62 +430,4 @@ function renderBibliotheque() {
     },
     {
       titre: "Niveau 1 — Cahier d'exercices",
-      sous_titre: "8 exercices pratiques pour ancrer la formation : prompts, étude de cas, QCM, RGPD…",
-      auteur: "E. Urschel",
-      pages: "≈ 20 pages",
-      size: "254 Ko",
-      type: "DOCX",
-      url: "/static/livrets/Niveau1_Exercices.docx",
-      color: "var(--moss)"
-    },
-    {
-      titre: "Niveau 2 — Manuel de formation",
-      sous_titre: "Concevoir avec l'IA · idéation, prompting avancé, agents, évaluation",
-      auteur: "E. Urschel",
-      pages: "≈ 28 pages",
-      size: "182 Ko",
-      type: "DOCX",
-      url: "/static/livrets/Niveau2_Livret.docx",
-      color: "var(--coral)"
-    },
-    {
-      titre: "Niveau 2 — Cahier d'exercices",
-      sous_titre: "8 exercices avancés : challenger une IA, créer une Skill, repenser l'évaluation…",
-      auteur: "E. Urschel",
-      pages: "≈ 18 pages",
-      size: "172 Ko",
-      type: "DOCX",
-      url: "/static/livrets/Niveau2_Exercices.docx",
-      color: "var(--coral)"
-    }
-  ];
-  APP.innerHTML = `
-    <section class="section" style="padding-top:60px;">
-      <div class="section-eyebrow">Bibliothèque</div>
-      <h2 style="font-family:Fraunces,serif;font-size:42px;font-weight:500;line-height:1.05;margin:8px 0 14px;">Les livrets.</h2>
-      <p style="color:var(--ink2);max-width:680px;font-size:16px;line-height:1.6;margin-bottom:36px;">Les trois manuels de référence à télécharger. Les modules en ligne (Formations) reprennent ces contenus en version interactive ; les livrets restent utiles à imprimer ou à garder hors ligne.</p>
-      <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(320px,1fr));gap:18px;">
-        ${livrets.map(l => `
-          <a class="livret-card" href="${esc(l.url)}" download style="display:flex;flex-direction:column;padding:26px 28px 24px;background:var(--bg2);border:0.5px solid var(--line2);border-radius:14px;transition:0.18s;text-decoration:none;color:var(--ink);">
-            <div style="display:flex;align-items:center;gap:14px;margin-bottom:18px;">
-              <div style="width:48px;height:56px;border-radius:6px;background:${l.color};color:var(--bg);display:flex;align-items:center;justify-content:center;font-family:'JetBrains Mono',monospace;font-size:11px;font-weight:600;letter-spacing:0.04em;flex:none;">${esc(l.type)}</div>
-              <div>
-                <div style="font-size:11px;color:${l.color};letter-spacing:0.14em;text-transform:uppercase;">Livret</div>
-                <div style="font-size:12px;color:var(--ink3);margin-top:2px;">${esc(l.pages)} · ${esc(l.size)}</div>
-              </div>
-            </div>
-            <h3 style="font-family:Fraunces,serif;font-size:20px;font-weight:500;line-height:1.25;margin:0 0 10px;">${esc(l.titre)}</h3>
-            <p style="font-size:13.5px;color:var(--ink2);line-height:1.55;margin:0 0 18px;flex:1;">${esc(l.sous_titre)}</p>
-            <div style="display:flex;justify-content:space-between;align-items:center;padding-top:14px;border-top:0.5px solid var(--line);">
-              <span style="font-size:11px;color:var(--ink3);">${esc(l.auteur)}</span>
-              <span style="font-size:12px;color:${l.color};font-weight:500;">↓ Télécharger</span>
-            </div>
-          </a>
-        `).join('')}
-      </div>
-      <p style="color:var(--ink3);margin-top:36px;font-size:13px;font-style:italic;">Les exercices, corrigés et présentations sont accessibles depuis chaque module en ligne (rubrique Formations).</p>
-    </section>
-  `;
-}
-
-boot();
+      sous_titre: "8 exercices pratiques pour ancrer la formation : 
