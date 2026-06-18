@@ -45,10 +45,12 @@ function renderHome() {
   const featured = articles.find(a => a.featured) || articles[0];
   const others = articles.filter(a => a.slug !== featured.slug).slice(0, 4);
 
-  const heroImg = "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1581090700227-1e37b190418e%3Fw%3D2000&w=2000&output=webp";
-
   APP.innerHTML = `
-    <section class="hero" style="--hero-img: url('${heroImg}');">
+    <section class="hero hero-video">
+      <video class="hero-bg-video" autoplay loop muted playsinline preload="auto">
+        <source src="/static/videos/hero-home.mp4" type="video/mp4">
+      </video>
+      <div class="hero-overlay"></div>
       <div class="hero-inner">
         <span class="hero-eyebrow">${esc(ed.label)}</span>
         <h1>Enseigner avec l'IA,<br><em>sans perdre son métier.</em></h1>
