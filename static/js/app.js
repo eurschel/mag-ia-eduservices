@@ -103,7 +103,7 @@ function renderHome() {
 
     <section class="quote-band">
       <div class="quote-inner">
-        <div class="quote-photo" style="background:#000 url('https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1507003211169-0a1dd7228f2d%3Fw%3D300&w=300&output=webp') center/cover no-repeat;"></div>
+        <div class="quote-photo" style="background:#000 url('/static/img/eu_portrait.jpeg') center/cover no-repeat;"></div>
         <div class="quote-body">
           <blockquote>L'IA ne remplace pas le prof. Elle remplace le prof qui n'utilise pas l'IA — par celui qui l'utilise.</blockquote>
           <div class="quote-by"><strong>E. Urschel</strong> · formateur, enseignant·relais Eduservices</div>
