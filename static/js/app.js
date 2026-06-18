@@ -410,7 +410,7 @@ function renderRecap() {
   const r = STATE.data.recap;
   const dateLabel = r.annee ? `Semaine ${r.semaine} · ${r.annee}` : `Semaine ${r.semaine}`;
   APP.innerHTML = `
-    <section class="hero" style="padding:80px 32px 50px;">
+    <section class="hero" style="padding:80px 32px 50px; --hero-img: url('/static/img/gemini/dashboard-executif.jpg');">
       <div class="hero-inner">
         <div class="hero-eyebrow"><span class="dot"></span>Le Récap hebdo · ${esc(dateLabel)}</div>
         <h1>${esc(r.titre)}</h1>
@@ -460,7 +460,7 @@ function recapTypeLabel(t) {
 
 function renderNewsletter() {
   APP.innerHTML = `
-    <section class="hero" style="padding:80px 32px 60px;">
+    <section class="hero" style="padding:80px 32px 60px; --hero-img: url('/static/img/gemini/centre-commandement.jpg');">
       <div class="hero-inner">
         <div class="hero-eyebrow"><span class="dot"></span>Newsletter</div>
         <h1>Le Récap arrive <em>chaque dimanche</em>.</h1>
