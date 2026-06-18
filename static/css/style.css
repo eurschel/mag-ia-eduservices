@@ -367,18 +367,22 @@ details[open] summary span{ transform:rotate(180deg); transition:0.2s; display:i
 
 
 /* ============ Retypographie cours — lecture confortable ============ */
-.content{ max-width:none; margin:0; padding:40px 8vw; font-size:18px; line-height:1.75; }
+.content{ max-width:none; margin:0; padding:40px 5vw; font-size:18px; line-height:1.75; }
 .content > * + *{ margin-top:0; }
-.content .prose{ max-width:920px; margin:0 auto; }
-.content h2.chap{ max-width:1100px; margin-left:auto; margin-right:auto; }
-.content h3, .content h4, .content p, .content ul, .content blockquote, .content .pullquote{
-  max-width:880px; margin-left:auto; margin-right:auto;
-}
-.content .livret-table{ max-width:1100px; margin-left:auto; margin-right:auto; }
-.content .inset-img{ max-width:1400px; margin-left:auto; margin-right:auto; }
-.content .inset-img.wide{ max-width:none; margin-left:-8vw; margin-right:-8vw; }
-.content .video-hero, .content .encadre, .content .compare, .content .video-grid{
-  max-width:1100px; margin-left:auto; margin-right:auto;
+/* PLEIN ÉCRAN : aucune limitation de largeur — colonnes multiples pour conserver la lisibilité */
+.content > p, .content > ul{ columns:2; column-gap:48px; column-rule:0.5px solid var(--line); }
+.content > p { break-inside:avoid; }
+.content > h2.chap{ columns:auto; column-count:1; }
+.content > h3, .content > h4{ columns:auto; column-count:1; }
+.content > blockquote, .content > .pullquote{ columns:auto; column-count:1; }
+.content .livret-table{ width:100%; }
+.content .inset-img{ width:100%; margin-left:0; margin-right:0; }
+.content .inset-img.wide{ width:100vw; margin-left:-5vw; margin-right:-5vw; }
+.content .encadre, .content .compare{ break-inside:avoid; }
+
+/* Sur mobile : une seule colonne */
+@media (max-width: 1100px){
+  .content > p, .content > ul{ columns:1; }
 }
 .content p{ margin:0 0 22px; }
 .content p:first-of-type::first-letter{
