@@ -364,3 +364,60 @@ details[open] summary span{ transform:rotate(180deg); transition:0.2s; display:i
 .content h2.chap{ font-family:"Fraunces",serif; font-size:32px; font-weight:500; margin:40px 0 18px;
   color:var(--gold); letter-spacing:-0.02em; border-top:1px solid var(--line); padding-top:30px; }
 .content h2.chap:first-of-type{ border-top:0; padding-top:0; margin-top:0; }
+
+
+/* ============ Retypographie cours — lecture confortable ============ */
+.content{ max-width:760px; margin:0 auto; padding:8px 0; font-size:17px; line-height:1.75; }
+.content p{ margin:0 0 22px; }
+.content p:first-of-type::first-letter{
+  font-family:"Fraunces",serif; font-size:58px; font-weight:500; float:left;
+  line-height:0.85; padding:6px 10px 0 0; color:var(--gold);
+}
+.content h2.chap{ font-family:"Fraunces",serif; font-size:38px; font-weight:500; line-height:1.1;
+  margin:60px 0 24px; color:var(--ink); letter-spacing:-0.02em;
+  padding-top:36px; border-top:1px solid var(--line); }
+.content h2.chap:first-of-type{ border-top:0; padding-top:0; margin-top:8px; }
+.content h2.chap::before{
+  content:""; display:block; width:48px; height:3px; background:var(--gold);
+  margin:0 0 18px; border-radius:2px;
+}
+.content h3{ font-family:"Fraunces",serif; font-size:26px; font-weight:500; margin:48px 0 18px;
+  color:var(--moss); letter-spacing:-0.005em; }
+.content h4{ font-family:"Inter",sans-serif; font-size:15px; font-weight:600; letter-spacing:0.04em;
+  text-transform:uppercase; margin:36px 0 14px; color:var(--gold); }
+.content ul{ margin:0 0 24px 0; padding:0 0 0 6px; list-style:none; }
+.content li{ position:relative; padding:6px 0 6px 26px; margin:0; line-height:1.65; }
+.content li::before{ content:""; position:absolute; left:4px; top:18px; width:6px; height:6px;
+  border-radius:50%; background:var(--moss); }
+.content blockquote, .content .pullquote{
+  font-family:"Fraunces",serif; font-style:italic; font-size:22px; line-height:1.45;
+  color:var(--moss); margin:32px 0; padding:8px 0 8px 28px; border-left:3px solid var(--gold);
+  max-width:680px;
+}
+.content em{ color:var(--gold); font-style:italic; }
+.content strong{ color:var(--ink); font-weight:600; }
+.content a{ color:var(--moss); text-decoration:underline; text-decoration-thickness:1px; text-underline-offset:3px; }
+.content a:hover{ color:var(--gold); }
+
+/* Photos d'illustration intercalées dans le cours */
+.content .inset-img{ margin:36px 0; }
+.content .inset-img img{ width:100%; aspect-ratio:21/9; object-fit:cover; border-radius:14px;
+  border:0.5px solid var(--line); box-shadow:0 14px 40px -16px rgba(0,0,0,0.4); }
+.content .inset-img figcaption{ font-size:12px; color:var(--ink3); margin-top:10px;
+  font-style:italic; text-align:center; }
+.content .inset-img.wide{ margin-left:-40px; margin-right:-40px; }
+.content .inset-img.wide img{ aspect-ratio:21/8; border-radius:0; }
+
+/* Tableaux du livret — version retypo */
+.content .livret-table{ margin:32px 0; }
+
+/* Module header + spacing global */
+.module-stage{ padding:24px 12px 80px; }
+.section{ padding:42px 28px; }
+
+@media (max-width: 800px){
+  .content{ font-size:16px; }
+  .content h2.chap{ font-size:30px; }
+  .content h3{ font-size:22px; }
+  .content p:first-of-type::first-letter{ font-size:46px; }
+}
