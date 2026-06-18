@@ -47,7 +47,7 @@ function renderHome() {
 
   APP.innerHTML = `
     <section class="hero hero-video">
-      <video class="hero-bg-video" autoplay loop muted playsinline preload="auto">
+      <video class="hero-bg-video" autoplay loop muted playsinline preload="auto" poster="https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1581090700227-1e37b190418e%3Fw%3D2000&w=2000&output=webp">
         <source src="/static/videos/hero-home.mp4" type="video/mp4">
       </video>
       <div class="hero-overlay"></div>
@@ -87,7 +87,7 @@ function renderHome() {
           return `
             <a class="formation-card formation-card-video" href="#formation/${n}">
               <div class="formation-img">
-                <video autoplay loop muted playsinline preload="auto">
+                <video loop muted playsinline preload="metadata" poster="${f.hero_img}" onmouseover="this.play()" onmouseout="this.pause();this.currentTime=0">
                   <source src="/static/videos/formation-${n}.mp4" type="video/mp4">
                 </video>
               </div>
@@ -201,7 +201,7 @@ function renderFormation(niveau) {
   if (!f) { APP.innerHTML = '<div style="padding:80px;text-align:center;">Niveau introuvable.</div>'; return; }
   APP.innerHTML = `
     <section class="hero hero-video" style="padding:70px 32px 50px;">
-      <video class="hero-bg-video" autoplay loop muted playsinline preload="auto">
+      <video class="hero-bg-video" autoplay loop muted playsinline preload="auto" poster="${f.hero_img}">
         <source src="/static/videos/formation-${niveau}.mp4" type="video/mp4">
       </video>
       <div class="hero-overlay"></div>
