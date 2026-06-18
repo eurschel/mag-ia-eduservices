@@ -127,8 +127,8 @@ function renderHome() {
         <a class="section-link" href="#blog">Voir tout →</a>
       </div>
       <div class="themes-chips">
-        <span class="chip active">Tout</span>
-        ${themes.map(t => `<span class="chip" data-theme="${t.slug}" style="--c:${t.color};">${esc(t.label)}</span>`).join('')}
+        <a class="chip active" href="#blog">Tout</a>
+        ${themes.map(t => `<a class="chip" href="#blog/${t.slug}" style="--c:${t.color};">${esc(t.label)}</a>`).join('')}
       </div>
       <div class="blog-grid">
         <a class="article-card featured" href="${esc(featured.url)}" target="_blank" rel="noopener">
