@@ -573,6 +573,16 @@ function renderBibliotheque() {
       type: "DOCX",
       url: "/static/livrets/Niveau2_Exercices.docx",
       color: "var(--coral)"
+    },
+    {
+      titre: "Le Guide complet — Christophe Bruneau",
+      sous_titre: "Comprendre, maîtriser et utiliser l'IA générative. 5 parties : LLM, prompts, outils, agents, bibliothèque de prompts. Le livre de référence de notre collègue.",
+      auteur: "Christophe Bruneau · 2026",
+      pages: "≈ 600 pages",
+      size: "3.7 Mo",
+      type: "PDF",
+      url: "/static/livrets/Bruneau-Guide-IA-Decouverte.pdf",
+      color: "var(--cyan)"
     }
   ];
   APP.innerHTML = `
