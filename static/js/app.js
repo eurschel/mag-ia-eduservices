@@ -10,7 +10,7 @@ const fmtDate = (s) => {
 };
 
 async function boot() {
-  const r = await fetch('/api/bootstrap');
+  const r = await fetch('/api/bootstrap', {cache: 'no-cache'});
   STATE.data = await r.json();
   router();
   window.addEventListener('hashchange', router);
@@ -221,7 +221,7 @@ function renderFormation(niveau) {
 }
 
 async function renderModule(niveau, num) {
-  const r = await fetch(`/api/formation/${niveau}/module/${num}`);
+  const r = await fetch(`/api/formation/${niveau}/module/${num}`, {cache: 'no-cache'});
   const m = await r.json();
   const f = STATE.data.formations[niveau];
   STATE.currentModule = m;
