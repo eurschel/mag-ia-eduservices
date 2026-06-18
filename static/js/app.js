@@ -85,8 +85,12 @@ function renderHome() {
         ${['n1','n2'].map(n => {
           const f = formations[n];
           return `
-            <a class="formation-card" href="#formation/${n}" style="--img: url('${f.hero_img}');">
-              <div class="formation-img" style="background:#000 var(--img) center/cover no-repeat;"></div>
+            <a class="formation-card formation-card-video" href="#formation/${n}">
+              <div class="formation-img">
+                <video autoplay loop muted playsinline preload="auto">
+                  <source src="/static/videos/formation-${n}.mp4" type="video/mp4">
+                </video>
+              </div>
               <div class="formation-bar" style="background:${f.color};"></div>
               <div class="formation-body">
                 <div class="formation-eyebrow" style="color:${f.color};">${esc(f.label)}</div>
@@ -196,7 +200,11 @@ function renderFormation(niveau) {
   const f = STATE.data.formations[niveau];
   if (!f) { APP.innerHTML = '<div style="padding:80px;text-align:center;">Niveau introuvable.</div>'; return; }
   APP.innerHTML = `
-    <section class="hero" style="--hero-img: url('${f.hero_img}'); padding:70px 32px 50px;">
+    <section class="hero hero-video" style="padding:70px 32px 50px;">
+      <video class="hero-bg-video" autoplay loop muted playsinline preload="auto">
+        <source src="/static/videos/formation-${niveau}.mp4" type="video/mp4">
+      </video>
+      <div class="hero-overlay"></div>
       <div class="hero-inner">
         <span class="hero-eyebrow" style="color:${f.color};">${esc(f.label)}</span>
         <h1>${esc(f.tagline)}</h1>
