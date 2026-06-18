@@ -12,7 +12,7 @@
         "llm",
         "ethique"
       ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1620712943543-bcc4688e7485%3Fw%3D1200&w=1200&output=webp",
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1633265486064-086b219458ec%3Fw%3D1200&w=1200&output=webp",
       "featured": true,
       "auteur": "Anthropic",
       "slug": "statement-on-the-us-government-directive-to-suspend-access-t"
@@ -37,7 +37,7 @@
         "ethique",
         "creation"
       ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1535378620166-273708d44e4c%3Fw%3D1200&w=1200&output=webp"
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1633613286848-e6f43bbafb8d%3Fw%3D1200&w=1200&output=webp"
     },
     {
       "slug": "underscore",
@@ -59,7 +59,7 @@
         "creation",
         "workflow"
       ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1573164713619-24c711fe7878%3Fw%3D1200&w=1200&output=webp"
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1639152201720-5e536d254d81%3Fw%3D1200&w=1200&output=webp"
     },
     {
       "slug": "machine-learnia",
@@ -79,7 +79,7 @@
         "llm",
         "creation"
       ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1551434678-e076c223a692%3Fw%3D1200&w=1200&output=webp"
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1432821596592-e2c18b78144f%3Fw%3D1200&w=1200&output=webp"
     },
     {
       "slug": "le-meta",
@@ -99,7 +99,7 @@
         "ethique",
         "workflow"
       ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1573496359142-b8d87734a5a2%3Fw%3D1200&w=1200&output=webp"
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1454165804606-c3d57bc86b40%3Fw%3D1200&w=1200&output=webp"
     },
     {
       "slug": "hygi-ne-mentale",
@@ -117,7 +117,7 @@
       "tags": [
         "ethique"
       ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1591115765373-5207764f72e7%3Fw%3D1200&w=1200&output=webp"
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1473496169904-658ba7c44d8a%3Fw%3D1200&w=1200&output=webp"
     },
     {
       "slug": "cocadmin",
@@ -137,7 +137,7 @@
         "agents",
         "workflow"
       ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1601933973783-43cf8a7d4c5f%3Fw%3D1200&w=1200&output=webp"
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1473773508845-188df298d2d1%3Fw%3D1200&w=1200&output=webp"
     },
     {
       "slug": "numerama",
@@ -157,7 +157,7 @@
         "llm",
         "ethique"
       ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1495020689067-958852a7765e%3Fw%3D1200&w=1200&output=webp"
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1488590528505-98d2b5aba04b%3Fw%3D1200&w=1200&output=webp"
     },
     {
       "slug": "3blue1brown",
@@ -177,7 +177,7 @@
         "llm",
         "creation"
       ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1532012197267-da84d127e765%3Fw%3D1200&w=1200&output=webp"
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1494522855154-9297ac14b55f%3Fw%3D1200&w=1200&output=webp"
     },
     {
       "slug": "two-minute-papers",
@@ -197,7 +197,7 @@
         "llm",
         "agents"
       ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1457369804613-52c61a468e7d%3Fw%3D1200&w=1200&output=webp"
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1496180727794-817822f65950%3Fw%3D1200&w=1200&output=webp"
     },
     {
       "slug": "andrej-karpathy",
@@ -215,7 +215,7 @@
       "tags": [
         "llm"
       ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1487058792275-0ad4aaf24ca7%3Fw%3D1200&w=1200&output=webp"
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1497436072909-60f360e1d4b1%3Fw%3D1200&w=1200&output=webp"
     },
     {
       "slug": "anthropic",
@@ -237,7 +237,7 @@
         "agents",
         "creation"
       ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1573164713619-24c711fe7878%3Fw%3D1200&w=1200&output=webp"
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1500530855697-b586d89ba3ee%3Fw%3D1200&w=1200&output=webp"
     },
     {
       "slug": "ludo-salenne",
@@ -259,7 +259,7 @@
         "workflow",
         "creation"
       ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1485827404703-89b55fcc595e%3Fw%3D1200&w=1200&output=webp"
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1505330622279-bf7d7fc918f4%3Fw%3D1200&w=1200&output=webp"
     },
     {
       "slug": "ludo-ia",
@@ -281,7 +281,7 @@
         "creation",
         "workflow"
       ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1573496359142-b8d87734a5a2%3Fw%3D1200&w=1200&output=webp"
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1517292987719-0369a794ec0f%3Fw%3D1200&w=1200&output=webp"
     },
     {
       "slug": "korben",
@@ -303,7 +303,7 @@
         "workflow",
         "ethique"
       ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1542435503-956c469947f6%3Fw%3D1200&w=1200&output=webp"
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1517336714731-489689fd1ca8%3Fw%3D1200&w=1200&output=webp"
     },
     {
       "slug": "elliott-pierret",
@@ -323,7 +323,7 @@
         "workflow",
         "creation"
       ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1614741118887-7a4ee193a5fa%3Fw%3D1200&w=1200&output=webp"
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1518373714866-3f1478910cc0%3Fw%3D1200&w=1200&output=webp"
     },
     {
       "slug": "micode",
@@ -343,7 +343,7 @@
         "llm",
         "ethique"
       ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1531297484001-80022131f5a1%3Fw%3D1200&w=1200&output=webp"
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1531403009284-440f080d1e12%3Fw%3D1200&w=1200&output=webp"
     },
     {
       "slug": "google-gemini",
@@ -365,7 +365,7 @@
         "curation",
         "creation"
       ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1611224923853-80b023f02d71%3Fw%3D1200&w=1200&output=webp"
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1531538606174-0f90ff5dce83%3Fw%3D1200&w=1200&output=webp"
     },
     {
       "slug": "openai",
@@ -387,7 +387,7 @@
         "creation",
         "agents"
       ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1530870110042-98b2cb110834%3Fw%3D1200&w=1200&output=webp"
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1542838132-92c53300491e%3Fw%3D1200&w=1200&output=webp"
     },
     {
       "slug": "canva",
@@ -405,7 +405,7 @@
       "tags": [
         "creation"
       ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1611162616305-c69b3fa7fbe0%3Fw%3D1200&w=1200&output=webp"
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1559136555-9303baea8ebd%3Fw%3D1200&w=1200&output=webp"
     },
     {
       "titre": "Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem",
@@ -418,7 +418,7 @@
       "themes": [
         "llm"
       ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1551434678-e076c223a692%3Fw%3D1200&w=1200&output=webp",
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1559526324-4b87b5e36e44%3Fw%3D1200&w=1200&output=webp",
       "auteur": "Anthropic",
       "slug": "anthropic-opens-seoul-office-and-announces-new-partnerships"
     },
@@ -433,7 +433,7 @@
       "themes": [
         "workflow"
       ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1593642702821-c8da6771f0c6%3Fw%3D1200&w=1200&output=webp",
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1560574188-6a6774965120%3Fw%3D1200&w=1200&output=webp",
       "auteur": "Maddyness",
       "slug": "le-vrai-diff-rentiel-c-est-la-qualit-de-l-int-gration-ia-en"
     },
@@ -449,7 +449,7 @@
         "llm",
         "curation"
       ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1611224923853-80b023f02d71%3Fw%3D1200&w=1200&output=webp",
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1565008576549-57569a49371d%3Fw%3D1200&w=1200&output=webp",
       "auteur": "Google Blog",
       "slug": "google-gemini-actualit-produit"
     },
@@ -464,7 +464,7 @@
       "themes": [
         "llm"
       ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1639152201720-5e536d254d81%3Fw%3D1200&w=1200&output=webp",
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1568992688065-536aad8a12f6%3Fw%3D1200&w=1200&output=webp",
       "auteur": "OpenAI",
       "slug": "openai-research"
     },
@@ -481,7 +481,7 @@
         "ethique",
         "workflow"
       ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1495020689067-958852a7765e%3Fw%3D1200&w=1200&output=webp",
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1573497019418-b400bb3ab074%3Fw%3D1200&w=1200&output=webp",
       "auteur": "Numerama",
       "slug": "numerama-actualit-tech-fran-aise"
     },
@@ -498,7 +498,7 @@
         "ethique",
         "agents"
       ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1556157382-97eda2d62296%3Fw%3D1200&w=1200&output=webp",
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1581090464777-f3220bbe1b8b%3Fw%3D1200&w=1200&output=webp",
       "auteur": "Inria",
       "slug": "inria-intelligence-artificielle",
       "tags": [
@@ -519,7 +519,7 @@
         "llm",
         "creation"
       ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1518770660439-4636190af475%3Fw%3D1200&w=1200&output=webp",
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1602025882379-e01cf08baa51%3Fw%3D1200&w=1200&output=webp",
       "auteur": "Hugging Face",
       "slug": "hugging-face-blog",
       "tags": [
@@ -539,7 +539,7 @@
         "llm",
         "ethique"
       ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1496861083958-175bb1bd5702%3Fw%3D1200&w=1200&output=webp",
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1611532736597-de2d4265fba3%3Fw%3D1200&w=1200&output=webp",
       "auteur": "France Info",
       "slug": "france-info-intelligence-artificielle",
       "tags": [
@@ -560,7 +560,7 @@
         "ethique",
         "workflow"
       ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1502920917128-1aa500764cbd%3Fw%3D1200&w=1200&output=webp",
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1574717024452-7faae3b6c2e2%3Fw%3D1200&w=1200&output=webp",
       "auteur": "Next.ink",
       "slug": "next-ink-sciences",
       "tags": [
