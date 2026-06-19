@@ -564,6 +564,16 @@ function renderBibliotheque() {
       type: "PDF",
       url: "/static/livrets/Bruneau-Guide-IA-Decouverte.pdf",
       color: "var(--cyan)"
+    },
+    {
+      titre: "Travailler mieux avec l'IA — Formation",
+      sous_titre: "Présentation complète version Claude Design. Le support visuel de la formation Niveau 1, à projeter en classe ou à parcourir en autonomie.",
+      auteur: "E. Urschel · 2026",
+      pages: "présentation",
+      size: "19 Mo",
+      type: "PPTX",
+      url: "/static/livrets/Travailler_mieux_avec_l_IA_Claude_Design.pptx",
+      color: "var(--cyan)"
     }
   ];
   APP.innerHTML = `
