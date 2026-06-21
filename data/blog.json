@@ -12,7 +12,7 @@
         "llm",
         "ethique"
       ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1633265486064-086b219458ec%3Fw%3D1200&w=1200&output=webp",
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1620712943543-bcc4688e7485%3Fw%3D1200&w=1200&output=webp",
       "featured": true,
       "auteur": "Anthropic",
       "slug": "statement-on-the-us-government-directive-to-suspend-access-t"
@@ -26,7 +26,7 @@
       "url": "https://www.youtube.com/@ScienceEtonnante",
       "type": "video",
       "duree": "variable",
-      "date": "2026-06-18",
+      "date": "2026-06-21",
       "themes": [
         "llm",
         "ethique",
@@ -37,7 +37,7 @@
         "ethique",
         "creation"
       ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1633613286848-e6f43bbafb8d%3Fw%3D1200&w=1200&output=webp"
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1611162616305-c69b3fa7fbe0%3Fw%3D1200&w=1200&output=webp"
     },
     {
       "slug": "underscore",
@@ -48,7 +48,7 @@
       "url": "https://www.youtube.com/@Underscore_",
       "type": "video",
       "duree": "variable",
-      "date": "2026-06-18",
+      "date": "2026-06-21",
       "themes": [
         "llm",
         "creation",
@@ -59,7 +59,7 @@
         "creation",
         "workflow"
       ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1639152201720-5e536d254d81%3Fw%3D1200&w=1200&output=webp"
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1593642632559-0c6d3fc62b89%3Fw%3D1200&w=1200&output=webp"
     },
     {
       "slug": "machine-learnia",
@@ -70,7 +70,7 @@
       "url": "https://www.youtube.com/@MachineLearnia",
       "type": "video",
       "duree": "variable",
-      "date": "2026-06-18",
+      "date": "2026-06-21",
       "themes": [
         "llm",
         "creation"
@@ -79,7 +79,7 @@
         "llm",
         "creation"
       ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1432821596592-e2c18b78144f%3Fw%3D1200&w=1200&output=webp"
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1555066931-4365d14bab8c%3Fw%3D1200&w=1200&output=webp"
     },
     {
       "slug": "le-meta",
@@ -90,7 +90,7 @@
       "url": "https://www.youtube.com/@LeMeta",
       "type": "video",
       "duree": "variable",
-      "date": "2026-06-18",
+      "date": "2026-06-21",
       "themes": [
         "ethique",
         "workflow"
@@ -99,7 +99,7 @@
         "ethique",
         "workflow"
       ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1454165804606-c3d57bc86b40%3Fw%3D1200&w=1200&output=webp"
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1532375810709-75b1da00537c%3Fw%3D1200&w=1200&output=webp"
     },
     {
       "slug": "hygi-ne-mentale",
@@ -110,14 +110,14 @@
       "url": "https://www.youtube.com/@HygieneMentale",
       "type": "video",
       "duree": "variable",
-      "date": "2026-06-18",
+      "date": "2026-06-21",
       "themes": [
         "ethique"
       ],
       "tags": [
         "ethique"
       ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1473496169904-658ba7c44d8a%3Fw%3D1200&w=1200&output=webp"
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1496861083958-175bb1bd5702%3Fw%3D1200&w=1200&output=webp"
     },
     {
       "slug": "cocadmin",
@@ -128,7 +128,7 @@
       "url": "https://www.youtube.com/@cocadmin",
       "type": "video",
       "duree": "variable",
-      "date": "2026-06-18",
+      "date": "2026-06-21",
       "themes": [
         "agents",
         "workflow"
@@ -137,7 +137,7 @@
         "agents",
         "workflow"
       ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1473773508845-188df298d2d1%3Fw%3D1200&w=1200&output=webp"
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1542831371-29b0f74f9713%3Fw%3D1200&w=1200&output=webp"
     },
     {
       "slug": "numerama",
@@ -148,7 +148,7 @@
       "url": "https://www.youtube.com/@Numerama",
       "type": "video",
       "duree": "variable",
-      "date": "2026-06-18",
+      "date": "2026-06-21",
       "themes": [
         "llm",
         "ethique"
@@ -157,7 +157,7 @@
         "llm",
         "ethique"
       ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1488590528505-98d2b5aba04b%3Fw%3D1200&w=1200&output=webp"
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1554224155-6726b3ff858f%3Fw%3D1200&w=1200&output=webp"
     },
     {
       "slug": "3blue1brown",
@@ -168,7 +168,7 @@
       "url": "https://www.youtube.com/@3blue1brown",
       "type": "video",
       "duree": "variable",
-      "date": "2026-06-18",
+      "date": "2026-06-21",
       "themes": [
         "llm",
         "creation"
@@ -177,7 +177,7 @@
         "llm",
         "creation"
       ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1494522855154-9297ac14b55f%3Fw%3D1200&w=1200&output=webp"
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1581091226825-a6a2a5aee158%3Fw%3D1200&w=1200&output=webp"
     },
     {
       "slug": "two-minute-papers",
@@ -188,7 +188,7 @@
       "url": "https://www.youtube.com/@TwoMinutePapers",
       "type": "video",
       "duree": "variable",
-      "date": "2026-06-18",
+      "date": "2026-06-21",
       "themes": [
         "llm",
         "agents"
@@ -197,7 +197,7 @@
         "llm",
         "agents"
       ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1496180727794-817822f65950%3Fw%3D1200&w=1200&output=webp"
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1620712943543-bcc4688e7485%3Fw%3D1200&w=1200&output=webp"
     },
     {
       "slug": "andrej-karpathy",
@@ -208,14 +208,14 @@
       "url": "https://www.youtube.com/@AndrejKarpathy",
       "type": "video",
       "duree": "variable",
-      "date": "2026-06-18",
+      "date": "2026-06-21",
       "themes": [
         "llm"
       ],
       "tags": [
         "llm"
       ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1497436072909-60f360e1d4b1%3Fw%3D1200&w=1200&output=webp"
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1485827404703-89b55fcc595e%3Fw%3D1200&w=1200&output=webp"
     },
     {
       "slug": "anthropic",
@@ -226,7 +226,7 @@
       "url": "https://www.youtube.com/@anthropic-ai",
       "type": "video",
       "duree": "variable",
-      "date": "2026-06-18",
+      "date": "2026-06-21",
       "themes": [
         "llm",
         "agents",
@@ -237,7 +237,7 @@
         "agents",
         "creation"
       ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1500530855697-b586d89ba3ee%3Fw%3D1200&w=1200&output=webp"
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1620712943543-bcc4688e7485%3Fw%3D1200&w=1200&output=webp"
     },
     {
       "slug": "ludo-salenne",
@@ -248,7 +248,7 @@
       "url": "https://www.youtube.com/@LudovicSalenne",
       "type": "video",
       "duree": "variable",
-      "date": "2026-06-18",
+      "date": "2026-06-21",
       "themes": [
         "llm",
         "workflow",
@@ -259,7 +259,7 @@
         "workflow",
         "creation"
       ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1505330622279-bf7d7fc918f4%3Fw%3D1200&w=1200&output=webp"
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1593642632559-0c6d3fc62b89%3Fw%3D1200&w=1200&output=webp"
     },
     {
       "slug": "ludo-ia",
@@ -270,7 +270,7 @@
       "url": "https://www.youtube.com/@LudoAuCarre",
       "type": "video",
       "duree": "variable",
-      "date": "2026-06-18",
+      "date": "2026-06-21",
       "themes": [
         "llm",
         "creation",
@@ -281,7 +281,7 @@
         "creation",
         "workflow"
       ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1517292987719-0369a794ec0f%3Fw%3D1200&w=1200&output=webp"
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1551434678-e076c223a692%3Fw%3D1200&w=1200&output=webp"
     },
     {
       "slug": "korben",
@@ -292,7 +292,7 @@
       "url": "https://www.youtube.com/@Korben",
       "type": "video",
       "duree": "variable",
-      "date": "2026-06-18",
+      "date": "2026-06-21",
       "themes": [
         "llm",
         "workflow",
@@ -303,7 +303,7 @@
         "workflow",
         "ethique"
       ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1517336714731-489689fd1ca8%3Fw%3D1200&w=1200&output=webp"
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1556761175-5973dc0f32e7%3Fw%3D1200&w=1200&output=webp"
     },
     {
       "slug": "elliott-pierret",
@@ -314,7 +314,7 @@
       "url": "https://www.youtube.com/@elliottpierret",
       "type": "video",
       "duree": "variable",
-      "date": "2026-06-18",
+      "date": "2026-06-21",
       "themes": [
         "workflow",
         "creation"
@@ -323,7 +323,7 @@
         "workflow",
         "creation"
       ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1518373714866-3f1478910cc0%3Fw%3D1200&w=1200&output=webp"
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1552664730-d307ca884978%3Fw%3D1200&w=1200&output=webp"
     },
     {
       "slug": "micode",
@@ -334,7 +334,7 @@
       "url": "https://www.youtube.com/@Micode",
       "type": "video",
       "duree": "variable",
-      "date": "2026-06-18",
+      "date": "2026-06-21",
       "themes": [
         "llm",
         "ethique"
@@ -343,7 +343,7 @@
         "llm",
         "ethique"
       ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1531403009284-440f080d1e12%3Fw%3D1200&w=1200&output=webp"
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1581091226825-a6a2a5aee158%3Fw%3D1200&w=1200&output=webp"
     },
     {
       "slug": "google-gemini",
@@ -354,7 +354,7 @@
       "url": "https://www.youtube.com/@GoogleGemini",
       "type": "video",
       "duree": "variable",
-      "date": "2026-06-18",
+      "date": "2026-06-21",
       "themes": [
         "llm",
         "curation",
@@ -365,7 +365,7 @@
         "curation",
         "creation"
       ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1531538606174-0f90ff5dce83%3Fw%3D1200&w=1200&output=webp"
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1554224155-6726b3ff858f%3Fw%3D1200&w=1200&output=webp"
     },
     {
       "slug": "openai",
@@ -376,7 +376,7 @@
       "url": "https://www.youtube.com/@OpenAI",
       "type": "video",
       "duree": "variable",
-      "date": "2026-06-18",
+      "date": "2026-06-21",
       "themes": [
         "llm",
         "creation",
@@ -387,7 +387,7 @@
         "creation",
         "agents"
       ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1542838132-92c53300491e%3Fw%3D1200&w=1200&output=webp"
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1620712943543-bcc4688e7485%3Fw%3D1200&w=1200&output=webp"
     },
     {
       "slug": "canva",
@@ -398,14 +398,14 @@
       "url": "https://www.youtube.com/@canva",
       "type": "video",
       "duree": "variable",
-      "date": "2026-06-18",
+      "date": "2026-06-21",
       "themes": [
         "creation"
       ],
       "tags": [
         "creation"
       ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1559136555-9303baea8ebd%3Fw%3D1200&w=1200&output=webp"
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1551836022-d5d88e9218df%3Fw%3D1200&w=1200&output=webp"
     },
     {
       "titre": "Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem",
@@ -418,7 +418,7 @@
       "themes": [
         "llm"
       ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1559526324-4b87b5e36e44%3Fw%3D1200&w=1200&output=webp",
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1538485399081-7191377e8241%3Fw%3D1200&w=1200&output=webp",
       "auteur": "Anthropic",
       "slug": "anthropic-opens-seoul-office-and-announces-new-partnerships"
     },
@@ -433,7 +433,7 @@
       "themes": [
         "workflow"
       ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1560574188-6a6774965120%3Fw%3D1200&w=1200&output=webp",
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1542744173-8e7e53415bb0%3Fw%3D1200&w=1200&output=webp",
       "auteur": "Maddyness",
       "slug": "le-vrai-diff-rentiel-c-est-la-qualit-de-l-int-gration-ia-en"
     },
@@ -443,13 +443,13 @@
       "url": "https://blog.google/products/gemini/",
       "type": "article",
       "duree": "variable",
-      "date": "2026-06-15",
+      "date": "2026-06-21",
       "lead": "Le fil officiel des annonces Gemini : modèles, intégration Workspace, NotebookLM, IA Studio. Source primaire à suivre.",
       "themes": [
         "llm",
         "curation"
       ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1565008576549-57569a49371d%3Fw%3D1200&w=1200&output=webp",
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1554224155-6726b3ff858f%3Fw%3D1200&w=1200&output=webp",
       "auteur": "Google Blog",
       "slug": "google-gemini-actualit-produit"
     },
@@ -459,12 +459,12 @@
       "url": "https://openai.com/research/",
       "type": "article",
       "duree": "variable",
-      "date": "2026-06-15",
+      "date": "2026-06-21",
       "lead": "Publications scientifiques d'OpenAI : papers techniques, comparatifs, axes de recherche en cours. Lecture obligée pour suivre.",
       "themes": [
         "llm"
       ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1568992688065-536aad8a12f6%3Fw%3D1200&w=1200&output=webp",
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1620712943543-bcc4688e7485%3Fw%3D1200&w=1200&output=webp",
       "auteur": "OpenAI",
       "slug": "openai-research"
     },
@@ -474,14 +474,14 @@
       "url": "https://www.numerama.com/tech/intelligence-artificielle/",
       "type": "article",
       "duree": "variable",
-      "date": "2026-06-15",
+      "date": "2026-06-21",
       "lead": "Le hub IA de Numerama. Actualité quotidienne sourcée et critique, en français. À mettre dans la bookmark bar.",
       "themes": [
         "llm",
         "ethique",
         "workflow"
       ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1573497019418-b400bb3ab074%3Fw%3D1200&w=1200&output=webp",
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1554224155-6726b3ff858f%3Fw%3D1200&w=1200&output=webp",
       "auteur": "Numerama",
       "slug": "numerama-actualit-tech-fran-aise"
     },
@@ -491,14 +491,14 @@
       "url": "https://www.inria.fr/fr/intelligence-artificielle",
       "type": "article",
       "duree": "variable",
-      "date": "2026-06-15",
+      "date": "2026-06-21",
       "lead": "Le hub Inria sur l'IA : axes de recherche, équipes, publications, événements. L'institut national de référence en France.",
       "themes": [
         "llm",
         "ethique",
         "agents"
       ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1581090464777-f3220bbe1b8b%3Fw%3D1200&w=1200&output=webp",
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1532375810709-75b1da00537c%3Fw%3D1200&w=1200&output=webp",
       "auteur": "Inria",
       "slug": "inria-intelligence-artificielle",
       "tags": [
@@ -513,13 +513,13 @@
       "url": "https://huggingface.co/blog",
       "type": "article",
       "duree": "variable",
-      "date": "2026-06-15",
+      "date": "2026-06-21",
       "lead": "Le blog officiel d'Hugging Face : nouveaux modèles, tutoriels, retours d'expérience. EN, mais source primaire de la communauté ML mondiale.",
       "themes": [
         "llm",
         "creation"
       ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1602025882379-e01cf08baa51%3Fw%3D1200&w=1200&output=webp",
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1518770660439-4636190af475%3Fw%3D1200&w=1200&output=webp",
       "auteur": "Hugging Face",
       "slug": "hugging-face-blog",
       "tags": [
@@ -533,13 +533,13 @@
       "url": "https://www.francetvinfo.fr/sciences/intelligence-artificielle/",
       "type": "article",
       "duree": "variable",
-      "date": "2026-06-15",
+      "date": "2026-06-21",
       "lead": "Le hub IA de France Info : articles courts, accessibles, mis à jour quotidiennement. Source publique fiable pour suivre l'actu IA en français.",
       "themes": [
         "llm",
         "ethique"
       ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1611532736597-de2d4265fba3%3Fw%3D1200&w=1200&output=webp",
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1496861083958-175bb1bd5702%3Fw%3D1200&w=1200&output=webp",
       "auteur": "France Info",
       "slug": "france-info-intelligence-artificielle",
       "tags": [
@@ -553,14 +553,14 @@
       "url": "https://next.ink/sciences/",
       "type": "article",
       "duree": "variable",
-      "date": "2026-06-15",
+      "date": "2026-06-21",
       "lead": "Le média indépendant Next.ink (ex-Next Inpact) couvre l'IA avec rigueur. Articles fouillés, ton critique, accessible sans abonnement pour les actus.",
       "themes": [
         "llm",
         "ethique",
         "workflow"
       ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1574717024452-7faae3b6c2e2%3Fw%3D1200&w=1200&output=webp",
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1457369804613-52c61a468e7d%3Fw%3D1200&w=1200&output=webp",
       "auteur": "Next.ink",
       "slug": "next-ink-sciences",
       "tags": [
@@ -575,13 +575,13 @@
       "url": "https://www.lemagit.fr/tag/IntelligenceArtificielle",
       "type": "article",
       "duree": "variable",
-      "date": "2026-06-15",
+      "date": "2026-06-21",
       "lead": "Actu IA B2B en français : déploiements en entreprise, retours techniques, comparatifs sérieux. Public initialement IT mais lecture utile pour profs en gestion / management.",
       "themes": [
         "workflow",
         "agents"
       ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1487058792275-0ad4aaf24ca7%3Fw%3D1200&w=1200&output=webp",
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1542744173-8e7e53415bb0%3Fw%3D1200&w=1200&output=webp",
       "auteur": "LeMagIT",
       "slug": "lemagit-intelligence-artificielle",
       "tags": [
@@ -595,13 +595,13 @@
       "url": "https://www.franceculture.fr/",
       "type": "podcast",
       "duree": "variable",
-      "date": "2026-06-15",
+      "date": "2026-06-21",
       "lead": "La radio publique culturelle propose régulièrement des séries documentaires et débats sur l'IA. Format audio long, fond, contradicteurs.",
       "themes": [
         "ethique",
         "curation"
       ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1456406644174-8ddd4cd52a06%3Fw%3D1200&w=1200&output=webp",
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1473177104440-ffee2f376098%3Fw%3D1200&w=1200&output=webp",
       "auteur": "France Culture",
       "slug": "france-culture",
       "tags": [
@@ -615,7 +615,7 @@
       "url": "https://www.persee.fr/",
       "type": "etude",
       "duree": "variable",
-      "date": "2026-06-15",
+      "date": "2026-06-21",
       "lead": "Le portail Persée donne accès en libre à des milliers d'articles de revues SHS françaises. Source de référence pour ancrer ses cours dans la recherche.",
       "themes": [
         "curation"
@@ -633,13 +633,13 @@
       "url": "https://www.lebigdata.fr/",
       "type": "article",
       "duree": "variable",
-      "date": "2026-06-15",
+      "date": "2026-06-21",
       "lead": "Média français consacré à l'IA, au cloud, à la data. Articles quotidiens, comparatifs d'outils, retours pratiques. Compagnon utile à Numerama.",
       "themes": [
         "llm",
         "workflow"
       ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1591453089816-0fbb971b454c%3Fw%3D1200&w=1200&output=webp",
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1556761175-5973dc0f32e7%3Fw%3D1200&w=1200&output=webp",
       "auteur": "LeBigData.fr",
       "slug": "lebigdata-fr",
       "tags": [
@@ -653,12 +653,12 @@
       "url": "https://www.heygen.com/",
       "type": "outil",
       "duree": "variable",
-      "date": "2026-06-13",
+      "date": "2026-06-21",
       "lead": "Faire parler un avatar à partir d'un script. Plusieurs langues, voix, formats. Freemium avec quota gratuit limité.",
       "themes": [
         "creation"
       ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1614741118887-7a4ee193a5fa%3Fw%3D1200&w=1200&output=webp",
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1523240795612-9a054b0db644%3Fw%3D1200&w=1200&output=webp",
       "auteur": "HeyGen",
       "slug": "heygen-cr-er-des-capsules-vid-o-avec-avatar"
     },
@@ -673,7 +673,7 @@
       "themes": [
         "workflow"
       ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1591453089816-0fbb971b454c%3Fw%3D1200&w=1200&output=webp",
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1556761175-5973dc0f32e7%3Fw%3D1200&w=1200&output=webp",
       "auteur": "Maddyness",
       "slug": "lev-es-de-fonds-startups-fran-aises-254-m"
     },
@@ -689,7 +689,7 @@
         "agents",
         "ethique"
       ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1577896851231-70ef18881754%3Fw%3D1200&w=1200&output=webp",
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1523240795612-9a054b0db644%3Fw%3D1200&w=1200&output=webp",
       "auteur": "Anthropic",
       "slug": "claude-corps-fellowship-national"
     },
@@ -705,7 +705,7 @@
         "workflow",
         "ethique"
       ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1611162616305-c69b3fa7fbe0%3Fw%3D1200&w=1200&output=webp",
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1518770660439-4636190af475%3Fw%3D1200&w=1200&output=webp",
       "auteur": "Maddyness",
       "slug": "hauts-de-france-softbank-la-vall-e-de-l-ia"
     },
@@ -715,13 +715,13 @@
       "url": "https://www.anthropic.com/engineering",
       "type": "article",
       "duree": "variable",
-      "date": "2026-06-10",
+      "date": "2026-06-21",
       "lead": "Le blog d'ingénierie Anthropic : patterns d'agents, retours techniques, bonnes pratiques. Lecture longue.",
       "themes": [
         "workflow",
         "agents"
       ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1639152201720-5e536d254d81%3Fw%3D1200&w=1200&output=webp",
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1535378917042-10a22c95931a%3Fw%3D1200&w=1200&output=webp",
       "auteur": "Anthropic",
       "slug": "anthropic-building-agents-with-claude"
     },
@@ -736,7 +736,7 @@
       "themes": [
         "ethique"
       ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1581094288338-2314dddb7ece%3Fw%3D1200&w=1200&output=webp",
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1532375810709-75b1da00537c%3Fw%3D1200&w=1200&output=webp",
       "auteur": "Anthropic",
       "slug": "policy-on-the-ai-exponential"
     },
@@ -751,7 +751,7 @@
       "themes": [
         "llm"
       ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1530870110042-98b2cb110834%3Fw%3D1200&w=1200&output=webp",
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1677442136019-21780ecad995%3Fw%3D1200&w=1200&output=webp",
       "auteur": "Anthropic",
       "slug": "introducing-claude-fable-5-and-mythos-5"
     },
@@ -761,13 +761,13 @@
       "url": "https://claude.ai/",
       "type": "outil",
       "duree": "variable",
-      "date": "2026-06-09",
+      "date": "2026-06-21",
       "lead": "Avec Claude Design / Artifacts, on décrit ce qu'on veut, on regarde, on affine. Inclus dans l'abonnement Claude.",
       "themes": [
         "creation",
         "workflow"
       ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1591115765373-5207764f72e7%3Fw%3D1200&w=1200&output=webp",
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1593642632559-0c6d3fc62b89%3Fw%3D1200&w=1200&output=webp",
       "auteur": "Anthropic",
       "slug": "claude-cr-er-un-visuel-une-slide-un-mini-site"
     },
@@ -777,7 +777,7 @@
       "url": "https://gamma.app/",
       "type": "outil",
       "duree": "5 min",
-      "date": "2026-06-07",
+      "date": "2026-06-21",
       "lead": "Outil no-code qui transforme un plan en présentation projetable et illustrée. Freemium. Idéal pour démarrer.",
       "themes": [
         "creation"
@@ -792,7 +792,7 @@
       "url": "https://notebooklm.google/",
       "type": "outil",
       "duree": "5 min",
-      "date": "2026-06-05",
+      "date": "2026-06-21",
       "lead": "L'outil Google qui transforme vos sources (PDF, texte, lien, vidéo) en podcast, quiz, carte mentale. Gratuit, intégré Classroom.",
       "themes": [
         "curation",
@@ -814,7 +814,7 @@
         "agents",
         "ethique"
       ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1535378620166-273708d44e4c%3Fw%3D1200&w=1200&output=webp",
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1563013544-824ae1b704d3%3Fw%3D1200&w=1200&output=webp",
       "auteur": "Anthropic",
       "slug": "what-we-learned-mapping-a-year-s-worth-of-ai-enabled-cyber-t"
     },
@@ -824,13 +824,13 @@
       "url": "https://mistral.ai/",
       "type": "outil",
       "duree": "5 min",
-      "date": "2026-06-01",
+      "date": "2026-06-21",
       "lead": "Le champion français des modèles open et propriétaires. Documentation, accès API, garanties européennes et RGPD.",
       "themes": [
         "llm",
         "ethique"
       ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1599658880436-c61792e70672%3Fw%3D1200&w=1200&output=webp",
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1532375810709-75b1da00537c%3Fw%3D1200&w=1200&output=webp",
       "auteur": "Mistral AI",
       "slug": "mistral-ai-mod-les-plateforme-tarifs"
     },
@@ -840,12 +840,12 @@
       "url": "https://www.perplexity.ai/",
       "type": "outil",
       "duree": "3 min",
-      "date": "2026-06-01",
+      "date": "2026-06-21",
       "lead": "Moteur de réponse avec sources cliquables. Idéal pour préparer un cours d'actualité. Freemium.",
       "themes": [
         "curation"
       ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1554224155-6726b3ff858f%3Fw%3D1200&w=1200&output=webp",
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1518770660439-4636190af475%3Fw%3D1200&w=1200&output=webp",
       "auteur": "Perplexity",
       "slug": "perplexity-la-recherche-qui-cite"
     },
@@ -855,12 +855,12 @@
       "url": "https://www.cairn.info/",
       "type": "article",
       "duree": "variable",
-      "date": "2026-06-01",
+      "date": "2026-06-21",
       "lead": "La référence francophone pour les revues SHS. Beaucoup d'accès libre, parfois embargo. À croiser avec une IA pour digérer.",
       "themes": [
         "curation"
       ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1444084316824-dc26d6657664%3Fw%3D1200&w=1200&output=webp",
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1457369804613-52c61a468e7d%3Fw%3D1200&w=1200&output=webp",
       "auteur": "Cairn",
       "slug": "cairn-info-sciences-humaines-et-sociales"
     },
@@ -870,7 +870,7 @@
       "url": "https://www.openedition.org/",
       "type": "article",
       "duree": "variable",
-      "date": "2026-06-01",
+      "date": "2026-06-21",
       "lead": "Livres, revues, carnets de recherche en libre accès. Source précieuse pour étoffer un cours avec des références sérieuses.",
       "themes": [
         "curation"
@@ -885,12 +885,12 @@
       "url": "https://hal.science/",
       "type": "article",
       "duree": "variable",
-      "date": "2026-06-01",
+      "date": "2026-06-21",
       "lead": "Le dépôt national en accès libre des publications scientifiques françaises. 1,3 million de documents.",
       "themes": [
         "curation"
       ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1457369804613-52c61a468e7d%3Fw%3D1200&w=1200&output=webp",
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1532012197267-da84d127e765%3Fw%3D1200&w=1200&output=webp",
       "auteur": "HAL",
       "slug": "hal-archive-ouverte-fran-aise"
     },
@@ -900,12 +900,12 @@
       "url": "https://www.cnil.fr/fr/intelligence-artificielle",
       "type": "article",
       "duree": "variable",
-      "date": "2026-06-01",
+      "date": "2026-06-21",
       "lead": "Le hub de référence CNIL sur l'IA et le RGPD : fiches pratiques, recommandations, lignes directrices. La base pour un usage éducatif conforme.",
       "themes": [
         "ethique"
       ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1633265486064-086b219458ec%3Fw%3D1200&w=1200&output=webp",
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1496861083958-175bb1bd5702%3Fw%3D1200&w=1200&output=webp",
       "auteur": "CNIL",
       "slug": "cnil-intelligence-artificielle"
     },
@@ -915,7 +915,7 @@
       "url": "https://www.cnesco.fr/",
       "type": "etude",
       "duree": "variable",
-      "date": "2026-06-01",
+      "date": "2026-06-21",
       "lead": "Le hub des rapports Cnesco. Études récentes sur l'IA et l'éducation, l'évaluation, les pratiques pédagogiques.",
       "themes": [
         "ethique",
@@ -931,12 +931,12 @@
       "url": "https://eduscol.education.fr/",
       "type": "article",
       "duree": "variable",
-      "date": "2026-06-01",
+      "date": "2026-06-21",
       "lead": "Le portail officiel du ministère pour les enseignants. À consulter régulièrement pour le cadre réglementaire en évolution.",
       "themes": [
         "ethique"
       ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1488229297570-58520851e868%3Fw%3D1200&w=1200&output=webp",
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1497633762265-9d179a990aa6%3Fw%3D1200&w=1200&output=webp",
       "auteur": "Éduscol",
       "slug": "duscol-ia-et-cole"
     },
@@ -946,7 +946,7 @@
       "url": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai",
       "type": "livre-blanc",
       "duree": "45 min",
-      "date": "2026-06-01",
+      "date": "2026-06-21",
       "lead": "Le règlement européen sur l'IA. Page officielle de la Commission, avec FAQ, lignes directrices, calendrier d'application.",
       "themes": [
         "ethique"
@@ -967,7 +967,7 @@
         "llm",
         "workflow"
       ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1633265486064-086b219458ec%3Fw%3D1200&w=1200&output=webp",
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1551434678-e076c223a692%3Fw%3D1200&w=1200&output=webp",
       "auteur": "Anthropic",
       "slug": "introducing-claude-opus-4-8"
     },
@@ -982,9 +982,118 @@
       "themes": [
         "ethique"
       ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1633613286848-e6f43bbafb8d%3Fw%3D1200&w=1200&output=webp",
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1473177104440-ffee2f376098%3Fw%3D1200&w=1200&output=webp",
       "auteur": "Anthropic",
       "slug": "anthropic-co-founder-chris-olah-on-pope-leo-xiv-s-encyclical"
+    },
+    {
+      "slug": "ia-donnees-complexes-contenu-business-clair",
+      "titre": "Transformer des données complexes en contenu business clair grâce à l'IA",
+      "lead": "Reporting, synthèse, visualisation : un tour d'horizon concret des outils d'IA générative (Copilot, ChatGPT, Power BI) pour traduire des chiffres bruts en messages exploitables. Utile pour enseigner la communication de données en gestion et commerce.",
+      "source": "LeBigData.fr",
+      "auteur": "Oliva R.",
+      "url": "https://www.lebigdata.fr/ia-aide-professionnels-donnees-complexes-contenu-business-clair",
+      "type": "article",
+      "duree": "7 min",
+      "date": "2026-06-19",
+      "themes": [
+        "workflow",
+        "creation",
+        "curation"
+      ],
+      "tags": [
+        "workflow",
+        "creation",
+        "curation"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1551434678-e076c223a692%3Fw%3D1200&w=1200&output=webp",
+      "featured": false
+    },
+    {
+      "slug": "seo-b2b-ia-perception-strategique",
+      "titre": "Repenser le SEO B2B à l'ère de l'IA : la perception devient stratégique",
+      "lead": "Avec ChatGPT, Gemini et Perplexity, l'enjeu n'est plus d'être premier sur Google mais d'être ce que l'IA retient d'un marché. Une grille de lecture précieuse pour les cours de marketing, communication et stratégie digitale.",
+      "source": "LeBigData.fr",
+      "auteur": "John M. R. (entretien avec Cyril Bladier)",
+      "url": "https://www.lebigdata.fr/seo-b2b-cyril-bladier",
+      "type": "article",
+      "duree": "4 min",
+      "date": "2026-06-15",
+      "themes": [
+        "curation",
+        "workflow",
+        "ethique"
+      ],
+      "tags": [
+        "curation",
+        "workflow",
+        "ethique"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1556761175-5973dc0f32e7%3Fw%3D1200&w=1200&output=webp",
+      "featured": false
+    },
+    {
+      "slug": "anthropic-public-record-opinion-americains-ia",
+      "titre": "Anthropic Public Record : ce que les citoyens pensent vraiment de l'IA",
+      "lead": "Première grande consultation citoyenne d'Anthropic : 64 % redoutent les pertes d'emploi, mais les usagers quotidiens de l'IA sont nettement moins inquiets. Des données utiles pour nourrir le débat en classe sur l'impact sociétal de l'IA.",
+      "source": "Anthropic",
+      "auteur": "Anthropic",
+      "url": "https://www.anthropic.com/news/anthropic-public-record",
+      "type": "etude",
+      "duree": "6 min",
+      "date": "2026-06-12",
+      "themes": [
+        "ethique"
+      ],
+      "tags": [
+        "ethique"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1517245386807-bb43f82c33c4%3Fw%3D1200&w=1200&output=webp",
+      "featured": false
+    },
+    {
+      "slug": "utt-symposium-ia-generative-universites-2026",
+      "titre": "Symposium « IA générative au cœur des universités » (UTT, 29-30 juin)",
+      "lead": "Les 29 et 30 juin 2026, l'Université de technologie de Troyes réunit enseignants-chercheurs et acteurs économiques pour débattre des nouvelles pratiques pédagogiques, de l'évaluation et de l'éthique face à l'IA générative dans le supérieur.",
+      "source": "Université de technologie de Troyes",
+      "auteur": "UTT",
+      "url": "https://www.utt.fr/actualites/symposium-sur-lia-generative-au-coeur-des-universites",
+      "type": "article",
+      "duree": "variable",
+      "date": "2026-06-21",
+      "themes": [
+        "workflow",
+        "ethique"
+      ],
+      "tags": [
+        "workflow",
+        "ethique"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1523240795612-9a054b0db644%3Fw%3D1200&w=1200&output=webp",
+      "featured": false
+    },
+    {
+      "slug": "rapport-obvia-2026-ia-agentive-ecole",
+      "titre": "Rapport Obvia 2026 : de l'IA générative à l'IA agentive, quels défis pour l'enseignement ?",
+      "lead": "L'Observatoire (Obvia) alerte sur la « substitution cognitive » et le fait que 73 % des étudiants n'ont reçu aucune formation à l'IA. Le rapport propose des pistes concrètes pour repenser l'évaluation : lecture précieuse pour les enseignants.",
+      "source": "École branchée",
+      "auteur": "Audrey Miller",
+      "url": "https://ecolebranchee.com/rapport-obvia-2026-ia-generative-defis-ecole/",
+      "type": "etude",
+      "duree": "4 min",
+      "date": "2026-04-29",
+      "themes": [
+        "ethique",
+        "agents",
+        "curation"
+      ],
+      "tags": [
+        "ethique",
+        "agents",
+        "curation"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1532012197267-da84d127e765%3Fw%3D1200&w=1200&output=webp",
+      "featured": false
     }
   ]
 }
