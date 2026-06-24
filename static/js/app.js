@@ -1,4 +1,4 @@
-/* ===== Le Blog IA — front SPA ===== */
+/* ===== Le MagIA — front SPA ===== */
 const APP = document.getElementById('app');
 const STATE = { data: null, currentTheme: 'all' };
 
@@ -158,7 +158,7 @@ function renderHome() {
     </section>
 
     <footer class="footer">
-      <span>Le Blog IA · par Eduservices · ${ed.annee} · Édition #${ed.numero}</span>
+      <span>Le MagIA · par Eduservices · ${ed.annee} · Édition #${ed.numero}</span>
       <span class="lock">🔒 Accès participants</span>
     </footer>
   `;
