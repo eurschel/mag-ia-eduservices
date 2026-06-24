@@ -667,3 +667,31 @@ button.vignette{border-width:1px}
 .nl-meta{display:flex;flex-direction:column;gap:8px;padding-top:18px;border-top:1px solid var(--line)}
 .nl-meta div{font-size:12.5px;color:var(--ink3);display:flex;align-items:center;gap:8px}
 .nl-meta div span{color:var(--cyan);font-weight:700;font-size:14px}
+
+/* ============ PHASE 9 : popup-trigger inline + inset-img inline-right ============ */
+.popup-trigger{
+  display:flex;align-items:center;gap:12px;width:100%;max-width:760px;
+  margin:24px auto;padding:14px 20px;
+  background:linear-gradient(90deg,rgba(77,208,255,.08),rgba(77,208,255,.02));
+  border:1px solid var(--cyan-dim);border-left:3px solid var(--cyan);
+  border-radius:10px;color:var(--text);font-family:inherit;font-size:14.5px;
+  cursor:pointer;text-align:left;transition:all .15s
+}
+.popup-trigger:hover{background:rgba(77,208,255,.12);border-color:var(--cyan);transform:translateX(2px)}
+.popup-trigger-icon{color:var(--cyan);font-size:18px;font-weight:600;flex-shrink:0}
+.popup-trigger-text{flex:1;line-height:1.4}
+.popup-trigger-text strong{color:var(--cyan);font-weight:600;font-size:15.5px}
+
+.content .inset-img.inline-right{
+  float:right;width:42%;max-width:320px;
+  margin:6px 0 18px 26px;clear:right;
+}
+.content .inset-img.inline-right img{aspect-ratio:4/3;width:100%;height:auto}
+.content .inset-img.inline-right figcaption{font-size:12px;line-height:1.4}
+.content .inset-img.wide{max-width:780px;margin:32px auto}
+.content .inset-img.wide img{aspect-ratio:21/9}
+.content h2.chap{clear:both}
+@media (max-width:768px){
+  .content .inset-img.inline-right{float:none;width:100%;max-width:none;margin:24px auto}
+  .content .inset-img.inline-right img{aspect-ratio:16/10}
+}
