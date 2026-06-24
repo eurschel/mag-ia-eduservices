@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""Le Blog IA — par Eduservices. Flask backend (SPA hash routing côté front)."""
+"""Le MagIA — par Eduservices. Flask backend (SPA hash routing côté front)."""
 import json
 from pathlib import Path
 from flask import Flask, render_template, jsonify, send_from_directory, abort
