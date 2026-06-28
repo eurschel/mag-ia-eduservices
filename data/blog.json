@@ -1,6 +1,92 @@
 {
   "articles": [
     {
+      "slug": "gemini-study-notebooks-apprentissage-personnalise",
+      "titre": "« Study notebooks » : Gemini se transforme en tuteur personnalisé",
+      "lead": "Google déploie dans Gemini un espace d'apprentissage qui génère un quiz diagnostic, des mini-leçons ciblées et un tableau de bord de progression à partir des supports de cours déposés. Une piste concrète — et ses limites — pour la révision et l'accompagnement des étudiants.",
+      "source": "Google Blog",
+      "auteur": "Carol Walport",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-study-notebooks/",
+      "type": "article",
+      "duree": "5 min",
+      "date": "2026-06-25",
+      "themes": [
+        "curation",
+        "creation"
+      ],
+      "tags": [
+        "curation",
+        "creation"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1456513080510-7bf3a84b82f8%3Fw%3D1200&w=1200&output=webp",
+      "featured": false
+    },
+    {
+      "slug": "avenir-seo-geo-moteurs-ia-2026",
+      "titre": "SEO à l'ère des moteurs IA : ce que la « GEO » change pour le marketing",
+      "lead": "Entretien avec un expert du référencement sur l'arrivée de Gemini, ChatGPT Search et Perplexity : nouveaux KPI, ROI plus opaque, retour de la « preuve humaine » face aux contenus générés. Une grille de lecture utile pour les cours de marketing, communication et stratégie digitale.",
+      "source": "LeBigData.fr",
+      "auteur": "John M. R. (entretien avec Bertrand Masselot)",
+      "url": "https://www.lebigdata.fr/avenir-du-seo-2026",
+      "type": "article",
+      "duree": "6 min",
+      "date": "2026-06-24",
+      "themes": [
+        "curation",
+        "workflow",
+        "ethique"
+      ],
+      "tags": [
+        "curation",
+        "workflow",
+        "ethique"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1556761175-5973dc0f32e7%3Fw%3D1200&w=1200&output=webp",
+      "featured": false
+    },
+    {
+      "slug": "copilot-excel-skills-transparence-2026",
+      "titre": "Copilot dans Excel : compétences automatisées et IA qui explique ses calculs",
+      "lead": "Microsoft dote Copilot pour Excel de « Skills » réutilisables (rapports types, conventions de nommage), de connecteurs de données et d'un mode « Plan with Copilot » qui détaille ses modifications avant de les appliquer. Concret pour enseigner l'analyse de données et la traçabilité en gestion et commerce.",
+      "source": "LeBigData.fr",
+      "auteur": "Tinah F.",
+      "url": "https://www.lebigdata.fr/microsoft-enrichit-copilot-dans-excel-avec-des-fonctions-qui-vont-simplifier-votre-travail",
+      "type": "article",
+      "duree": "3 min",
+      "date": "2026-06-25",
+      "themes": [
+        "workflow",
+        "creation"
+      ],
+      "tags": [
+        "workflow",
+        "creation"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1551434678-e076c223a692%3Fw%3D1200&w=1200&output=webp",
+      "featured": false
+    },
+    {
+      "slug": "ia-erreur-qui-est-responsable-justice-allemande",
+      "titre": "Quand l'IA se trompe, qui est responsable ? La justice allemande tranche",
+      "lead": "Un tribunal allemand juge Google responsable des erreurs de ses résumés IA (AI Overviews), rejetant l'idée que l'internaute doit tout revérifier. Un cas d'école pour débattre en classe de fiabilité, de responsabilité et du statut éditorial des IA génératives.",
+      "source": "LeBigData.fr",
+      "auteur": "Ny Ando A.",
+      "url": "https://www.lebigdata.fr/si-chatgpt-ou-gemini-vous-induit-en-erreur-qui-est-le-fautif",
+      "type": "article",
+      "duree": "4 min",
+      "date": "2026-06-28",
+      "themes": [
+        "ethique",
+        "llm"
+      ],
+      "tags": [
+        "ethique",
+        "llm"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1517245386807-bb43f82c33c4%3Fw%3D1200&w=1200&output=webp",
+      "featured": false
+    },
+    {
       "titre": "Statement on the US government directive to suspend access to Fable 5 and Mythos 5",
       "source": "Anthropic",
       "url": "https://www.anthropic.com/news/fable-mythos-access",
@@ -26,7 +112,7 @@
       "url": "https://www.youtube.com/@ScienceEtonnante",
       "type": "video",
       "duree": "variable",
-      "date": "2026-06-21",
+      "date": "2026-06-28",
       "themes": [
         "llm",
         "ethique",
@@ -48,7 +134,7 @@
       "url": "https://www.youtube.com/@Underscore_",
       "type": "video",
       "duree": "variable",
-      "date": "2026-06-21",
+      "date": "2026-06-28",
       "themes": [
         "llm",
         "creation",
@@ -70,7 +156,7 @@
       "url": "https://www.youtube.com/@MachineLearnia",
       "type": "video",
       "duree": "variable",
-      "date": "2026-06-21",
+      "date": "2026-06-28",
       "themes": [
         "llm",
         "creation"
@@ -90,7 +176,7 @@
       "url": "https://www.youtube.com/@LeMeta",
       "type": "video",
       "duree": "variable",
-      "date": "2026-06-21",
+      "date": "2026-06-28",
       "themes": [
         "ethique",
         "workflow"
@@ -110,7 +196,7 @@
       "url": "https://www.youtube.com/@HygieneMentale",
       "type": "video",
       "duree": "variable",
-      "date": "2026-06-21",
+      "date": "2026-06-28",
       "themes": [
         "ethique"
       ],
@@ -128,7 +214,7 @@
       "url": "https://www.youtube.com/@cocadmin",
       "type": "video",
       "duree": "variable",
-      "date": "2026-06-21",
+      "date": "2026-06-28",
       "themes": [
         "agents",
         "workflow"
@@ -148,7 +234,7 @@
       "url": "https://www.youtube.com/@Numerama",
       "type": "video",
       "duree": "variable",
-      "date": "2026-06-21",
+      "date": "2026-06-28",
       "themes": [
         "llm",
         "ethique"
@@ -168,7 +254,7 @@
       "url": "https://www.youtube.com/@3blue1brown",
       "type": "video",
       "duree": "variable",
-      "date": "2026-06-21",
+      "date": "2026-06-28",
       "themes": [
         "llm",
         "creation"
@@ -188,7 +274,7 @@
       "url": "https://www.youtube.com/@TwoMinutePapers",
       "type": "video",
       "duree": "variable",
-      "date": "2026-06-21",
+      "date": "2026-06-28",
       "themes": [
         "llm",
         "agents"
@@ -208,7 +294,7 @@
       "url": "https://www.youtube.com/@AndrejKarpathy",
       "type": "video",
       "duree": "variable",
-      "date": "2026-06-21",
+      "date": "2026-06-28",
       "themes": [
         "llm"
       ],
@@ -226,7 +312,7 @@
       "url": "https://www.youtube.com/@anthropic-ai",
       "type": "video",
       "duree": "variable",
-      "date": "2026-06-21",
+      "date": "2026-06-28",
       "themes": [
         "llm",
         "agents",
@@ -248,7 +334,7 @@
       "url": "https://www.youtube.com/@LudovicSalenne",
       "type": "video",
       "duree": "variable",
-      "date": "2026-06-21",
+      "date": "2026-06-28",
       "themes": [
         "llm",
         "workflow",
@@ -270,7 +356,7 @@
       "url": "https://www.youtube.com/@LudoAuCarre",
       "type": "video",
       "duree": "variable",
-      "date": "2026-06-21",
+      "date": "2026-06-28",
       "themes": [
         "llm",
         "creation",
@@ -292,7 +378,7 @@
       "url": "https://www.youtube.com/@Korben",
       "type": "video",
       "duree": "variable",
-      "date": "2026-06-21",
+      "date": "2026-06-28",
       "themes": [
         "llm",
         "workflow",
@@ -314,7 +400,7 @@
       "url": "https://www.youtube.com/@elliottpierret",
       "type": "video",
       "duree": "variable",
-      "date": "2026-06-21",
+      "date": "2026-06-28",
       "themes": [
         "workflow",
         "creation"
@@ -334,7 +420,7 @@
       "url": "https://www.youtube.com/@Micode",
       "type": "video",
       "duree": "variable",
-      "date": "2026-06-21",
+      "date": "2026-06-28",
       "themes": [
         "llm",
         "ethique"
@@ -354,7 +440,7 @@
       "url": "https://www.youtube.com/@GoogleGemini",
       "type": "video",
       "duree": "variable",
-      "date": "2026-06-21",
+      "date": "2026-06-28",
       "themes": [
         "llm",
         "curation",
@@ -376,7 +462,7 @@
       "url": "https://www.youtube.com/@OpenAI",
       "type": "video",
       "duree": "variable",
-      "date": "2026-06-21",
+      "date": "2026-06-28",
       "themes": [
         "llm",
         "creation",
@@ -398,7 +484,7 @@
       "url": "https://www.youtube.com/@canva",
       "type": "video",
       "duree": "variable",
-      "date": "2026-06-21",
+      "date": "2026-06-28",
       "themes": [
         "creation"
       ],
@@ -443,7 +529,7 @@
       "url": "https://blog.google/products/gemini/",
       "type": "article",
       "duree": "variable",
-      "date": "2026-06-21",
+      "date": "2026-06-28",
       "lead": "Le fil officiel des annonces Gemini : modèles, intégration Workspace, NotebookLM, IA Studio. Source primaire à suivre.",
       "themes": [
         "llm",
@@ -459,7 +545,7 @@
       "url": "https://openai.com/research/",
       "type": "article",
       "duree": "variable",
-      "date": "2026-06-21",
+      "date": "2026-06-28",
       "lead": "Publications scientifiques d'OpenAI : papers techniques, comparatifs, axes de recherche en cours. Lecture obligée pour suivre.",
       "themes": [
         "llm"
@@ -474,7 +560,7 @@
       "url": "https://www.numerama.com/tech/intelligence-artificielle/",
       "type": "article",
       "duree": "variable",
-      "date": "2026-06-21",
+      "date": "2026-06-28",
       "lead": "Le hub IA de Numerama. Actualité quotidienne sourcée et critique, en français. À mettre dans la bookmark bar.",
       "themes": [
         "llm",
@@ -491,7 +577,7 @@
       "url": "https://www.inria.fr/fr/intelligence-artificielle",
       "type": "article",
       "duree": "variable",
-      "date": "2026-06-21",
+      "date": "2026-06-28",
       "lead": "Le hub Inria sur l'IA : axes de recherche, équipes, publications, événements. L'institut national de référence en France.",
       "themes": [
         "llm",
@@ -513,7 +599,7 @@
       "url": "https://huggingface.co/blog",
       "type": "article",
       "duree": "variable",
-      "date": "2026-06-21",
+      "date": "2026-06-28",
       "lead": "Le blog officiel d'Hugging Face : nouveaux modèles, tutoriels, retours d'expérience. EN, mais source primaire de la communauté ML mondiale.",
       "themes": [
         "llm",
@@ -533,7 +619,7 @@
       "url": "https://www.francetvinfo.fr/sciences/intelligence-artificielle/",
       "type": "article",
       "duree": "variable",
-      "date": "2026-06-21",
+      "date": "2026-06-28",
       "lead": "Le hub IA de France Info : articles courts, accessibles, mis à jour quotidiennement. Source publique fiable pour suivre l'actu IA en français.",
       "themes": [
         "llm",
@@ -553,7 +639,7 @@
       "url": "https://next.ink/sciences/",
       "type": "article",
       "duree": "variable",
-      "date": "2026-06-21",
+      "date": "2026-06-28",
       "lead": "Le média indépendant Next.ink (ex-Next Inpact) couvre l'IA avec rigueur. Articles fouillés, ton critique, accessible sans abonnement pour les actus.",
       "themes": [
         "llm",
@@ -575,7 +661,7 @@
       "url": "https://www.lemagit.fr/tag/IntelligenceArtificielle",
       "type": "article",
       "duree": "variable",
-      "date": "2026-06-21",
+      "date": "2026-06-28",
       "lead": "Actu IA B2B en français : déploiements en entreprise, retours techniques, comparatifs sérieux. Public initialement IT mais lecture utile pour profs en gestion / management.",
       "themes": [
         "workflow",
@@ -595,7 +681,7 @@
       "url": "https://www.franceculture.fr/",
       "type": "podcast",
       "duree": "variable",
-      "date": "2026-06-21",
+      "date": "2026-06-28",
       "lead": "La radio publique culturelle propose régulièrement des séries documentaires et débats sur l'IA. Format audio long, fond, contradicteurs.",
       "themes": [
         "ethique",
@@ -615,7 +701,7 @@
       "url": "https://www.persee.fr/",
       "type": "etude",
       "duree": "variable",
-      "date": "2026-06-21",
+      "date": "2026-06-28",
       "lead": "Le portail Persée donne accès en libre à des milliers d'articles de revues SHS françaises. Source de référence pour ancrer ses cours dans la recherche.",
       "themes": [
         "curation"
@@ -633,7 +719,7 @@
       "url": "https://www.lebigdata.fr/",
       "type": "article",
       "duree": "variable",
-      "date": "2026-06-21",
+      "date": "2026-06-28",
       "lead": "Média français consacré à l'IA, au cloud, à la data. Articles quotidiens, comparatifs d'outils, retours pratiques. Compagnon utile à Numerama.",
       "themes": [
         "llm",
@@ -653,7 +739,7 @@
       "url": "https://www.heygen.com/",
       "type": "outil",
       "duree": "variable",
-      "date": "2026-06-21",
+      "date": "2026-06-28",
       "lead": "Faire parler un avatar à partir d'un script. Plusieurs langues, voix, formats. Freemium avec quota gratuit limité.",
       "themes": [
         "creation"
@@ -715,7 +801,7 @@
       "url": "https://www.anthropic.com/engineering",
       "type": "article",
       "duree": "variable",
-      "date": "2026-06-21",
+      "date": "2026-06-28",
       "lead": "Le blog d'ingénierie Anthropic : patterns d'agents, retours techniques, bonnes pratiques. Lecture longue.",
       "themes": [
         "workflow",
@@ -761,7 +847,7 @@
       "url": "https://claude.ai/",
       "type": "outil",
       "duree": "variable",
-      "date": "2026-06-21",
+      "date": "2026-06-28",
       "lead": "Avec Claude Design / Artifacts, on décrit ce qu'on veut, on regarde, on affine. Inclus dans l'abonnement Claude.",
       "themes": [
         "creation",
@@ -777,7 +863,7 @@
       "url": "https://gamma.app/",
       "type": "outil",
       "duree": "5 min",
-      "date": "2026-06-21",
+      "date": "2026-06-28",
       "lead": "Outil no-code qui transforme un plan en présentation projetable et illustrée. Freemium. Idéal pour démarrer.",
       "themes": [
         "creation"
@@ -792,7 +878,7 @@
       "url": "https://notebooklm.google/",
       "type": "outil",
       "duree": "5 min",
-      "date": "2026-06-21",
+      "date": "2026-06-28",
       "lead": "L'outil Google qui transforme vos sources (PDF, texte, lien, vidéo) en podcast, quiz, carte mentale. Gratuit, intégré Classroom.",
       "themes": [
         "curation",
@@ -824,7 +910,7 @@
       "url": "https://mistral.ai/",
       "type": "outil",
       "duree": "5 min",
-      "date": "2026-06-21",
+      "date": "2026-06-28",
       "lead": "Le champion français des modèles open et propriétaires. Documentation, accès API, garanties européennes et RGPD.",
       "themes": [
         "llm",
@@ -840,7 +926,7 @@
       "url": "https://www.perplexity.ai/",
       "type": "outil",
       "duree": "3 min",
-      "date": "2026-06-21",
+      "date": "2026-06-28",
       "lead": "Moteur de réponse avec sources cliquables. Idéal pour préparer un cours d'actualité. Freemium.",
       "themes": [
         "curation"
@@ -855,7 +941,7 @@
       "url": "https://www.cairn.info/",
       "type": "article",
       "duree": "variable",
-      "date": "2026-06-21",
+      "date": "2026-06-28",
       "lead": "La référence francophone pour les revues SHS. Beaucoup d'accès libre, parfois embargo. À croiser avec une IA pour digérer.",
       "themes": [
         "curation"
@@ -870,7 +956,7 @@
       "url": "https://www.openedition.org/",
       "type": "article",
       "duree": "variable",
-      "date": "2026-06-21",
+      "date": "2026-06-28",
       "lead": "Livres, revues, carnets de recherche en libre accès. Source précieuse pour étoffer un cours avec des références sérieuses.",
       "themes": [
         "curation"
@@ -885,7 +971,7 @@
       "url": "https://hal.science/",
       "type": "article",
       "duree": "variable",
-      "date": "2026-06-21",
+      "date": "2026-06-28",
       "lead": "Le dépôt national en accès libre des publications scientifiques françaises. 1,3 million de documents.",
       "themes": [
         "curation"
@@ -900,7 +986,7 @@
       "url": "https://www.cnil.fr/fr/intelligence-artificielle",
       "type": "article",
       "duree": "variable",
-      "date": "2026-06-21",
+      "date": "2026-06-28",
       "lead": "Le hub de référence CNIL sur l'IA et le RGPD : fiches pratiques, recommandations, lignes directrices. La base pour un usage éducatif conforme.",
       "themes": [
         "ethique"
@@ -915,7 +1001,7 @@
       "url": "https://www.cnesco.fr/",
       "type": "etude",
       "duree": "variable",
-      "date": "2026-06-21",
+      "date": "2026-06-28",
       "lead": "Le hub des rapports Cnesco. Études récentes sur l'IA et l'éducation, l'évaluation, les pratiques pédagogiques.",
       "themes": [
         "ethique",
@@ -931,7 +1017,7 @@
       "url": "https://eduscol.education.fr/",
       "type": "article",
       "duree": "variable",
-      "date": "2026-06-21",
+      "date": "2026-06-28",
       "lead": "Le portail officiel du ministère pour les enseignants. À consulter régulièrement pour le cadre réglementaire en évolution.",
       "themes": [
         "ethique"
@@ -946,7 +1032,7 @@
       "url": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai",
       "type": "livre-blanc",
       "duree": "45 min",
-      "date": "2026-06-21",
+      "date": "2026-06-28",
       "lead": "Le règlement européen sur l'IA. Page officielle de la Commission, avec FAQ, lignes directrices, calendrier d'application.",
       "themes": [
         "ethique"
@@ -1060,7 +1146,7 @@
       "url": "https://www.utt.fr/actualites/symposium-sur-lia-generative-au-coeur-des-universites",
       "type": "article",
       "duree": "variable",
-      "date": "2026-06-21",
+      "date": "2026-06-28",
       "themes": [
         "workflow",
         "ethique"
