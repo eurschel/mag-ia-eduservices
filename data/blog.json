@@ -1,78 +1,15 @@
 {
   "articles": [
     {
-      "slug": "clones-ia-coach-entrepreneurs-french-tech",
-      "titre": "Des « clones IA » pour coacher les entrepreneurs",
-      "lead": "Frédéric Mazzella (BlaBlaCar) et d'autres figures de la French Tech lancent des doubles numériques qui reproduisent leurs conseils, et parfois leur voix. Un cas parlant pour aborder les agents IA, l'entrepreneuriat et les limites du mentorat automatisé.",
-      "source": "Maddyness",
-      "auteur": "Benoît Zante",
-      "url": "https://www.maddyness.com/2026/07/10/ces-figures-de-la-french-tech-qui-lancent-leur-clone-ia-pour-coacher-les-entrepreneurs/",
-      "type": "article",
-      "duree": "5 min",
-      "date": "2026-07-10",
-      "themes": [
-        "agents",
-        "workflow"
-      ],
-      "tags": [
-        "agents",
-        "workflow"
-      ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1523240795612-9a054b0db644%3Fw%3D1200&w=1200&output=webp",
-      "featured": false
-    },
-    {
-      "slug": "ia-rh-donnees-angle-mort-transformation",
-      "titre": "RH et IA : la donnée, angle mort de la transformation",
-      "lead": "L'IA pourrait optimiser 60 % des tâches RH (étude Indeed–Cambridge), mais sans données structurées ni comité éthique, elle amplifie surtout les biais existants. Une mise au point utile pour les cours de GRH et de management.",
+      "slug": "lemagit-roi-ia-pas-ou-on-lattend",
+      "titre": "Le ROI de l'IA est là — mais pas où on l'attend",
+      "lead": "Une étude Oxford Economics montre que l'IA améliore l'analyse métier et la relation client, sans faire économiser mécaniquement temps ni argent. Un contre-argument solide à opposer aux promesses de productivité en cours de gestion.",
       "source": "LeMagIT",
-      "auteur": "Philippe Ducellier",
-      "url": "https://www.lemagit.fr/actualites/366645795/IA-les-donnees-restent-langle-mort-de-la-transformation-des-RH",
-      "type": "article",
-      "duree": "6 min",
-      "date": "2026-07-09",
-      "themes": [
-        "workflow",
-        "ethique"
-      ],
-      "tags": [
-        "workflow",
-        "ethique"
-      ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1542744173-8e7e53415bb0%3Fw%3D1200&w=1200&output=webp",
-      "featured": false
-    },
-    {
-      "slug": "anthropic-reflect-claude-usage-ia-fluency",
-      "titre": "Anthropic « Reflect » : prendre du recul sur son usage de l'IA",
-      "lead": "Un nouveau tableau de bord permet de visualiser comment on utilise Claude et de muscler ses compétences via le cadre « AI Fluency » (déléguer, décrire, discerner, rester diligent). Un support idéal pour faire réfléchir les étudiants à un usage lucide de l'IA.",
-      "source": "Anthropic",
-      "auteur": "Anthropic",
-      "url": "https://www.anthropic.com/news/reflect-with-claude",
-      "type": "article",
-      "duree": "5 min",
-      "date": "2026-07-09",
-      "themes": [
-        "workflow",
-        "ethique"
-      ],
-      "tags": [
-        "workflow",
-        "ethique"
-      ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1496861083958-175bb1bd5702%3Fw%3D1200&w=1200&output=webp",
-      "featured": false
-    },
-    {
-      "slug": "em-lyon-ia-conseil-audit-productivite-pas-qualite",
-      "titre": "IA dans le conseil et l'audit : plus vite, mais pas forcément mieux (étude EM Lyon)",
-      "lead": "D'après l'EM Lyon, l'IA booste la productivité individuelle des consultants sans améliorer la qualité du jugement collectif — et fragilise la formation des juniors. Un cas d'école pour enseigner l'esprit critique et la gouvernance de l'IA.",
-      "source": "LeMagIT",
-      "auteur": "Philippe Ducellier",
-      "url": "https://www.lemagit.fr/actualites/366645673/Conseil-Audit-lIA-permet-daller-plus-vite-pas-de-faire-mieux-etude",
+      "auteur": "LeMagIT",
+      "url": "https://www.lemagit.fr/actualites/366645690/Le-ROI-de-lIA-est-la-mais-pas-ou-on-lattend",
       "type": "etude",
-      "duree": "8 min",
-      "date": "2026-07-08",
+      "duree": "5 min",
+      "date": "2026-07-16",
       "themes": [
         "workflow",
         "ethique"
@@ -81,241 +18,65 @@
         "workflow",
         "ethique"
       ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1554224155-6726b3ff858f%3Fw%3D1200&w=1200&output=webp",
-      "featured": false
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1554224155-6726b3ff858f%3Fw%3D1200&w=1200&output=webp"
     },
     {
-      "slug": "search-conversationnel-seo-sea-fin-clic-gratuit",
-      "titre": "Search conversationnel : la fin du « clic gratuit » en SEO et SEA ?",
-      "lead": "Les moteurs génératifs captent les clics informationnels : first-party data, E-E-A-T et authenticité humaine deviennent les clés de l'acquisition. Un décryptage concret pour les cours de marketing digital et de communication.",
+      "slug": "nobel-ia-emploi-alerte-2026",
+      "titre": "Seize prix Nobel alertent sur l'IA et l'emploi : le diagnostic sans l'ordonnance",
+      "lead": "Plus de 200 économistes (Acemoglu, Johnson, Spence…) signent « Nous devons agir maintenant » sans proposer de mesures concrètes. Matière première idéale pour un débat argumenté en économie ou en GRH.",
       "source": "LeBigData.fr",
-      "auteur": "Sylvia R.",
-      "url": "https://www.lebigdata.fr/search-conversationnel-la-fin-du-clic-gratuit-en-seo-et-sea",
-      "type": "article",
-      "duree": "6 min",
-      "date": "2026-07-08",
-      "themes": [
-        "curation",
-        "workflow"
-      ],
-      "tags": [
-        "curation",
-        "workflow"
-      ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1556761175-5973dc0f32e7%3Fw%3D1200&w=1200&output=webp",
-      "featured": false
-    },
-    {
-      "slug": "google-historique-recherche-entrainement-ia-desactiver",
-      "titre": "Google entraîne son IA sur votre historique : comment refuser",
-      "lead": "Google déploie « Historique des services de recherche » pour entraîner ses modèles sur vos activités ; voici comment désactiver la collecte en quelques clics. Un réflexe RGPD utile à transmettre aux étudiants comme aux collègues.",
-      "source": "LeBigData.fr",
-      "auteur": "Ny Ando A.",
-      "url": "https://www.lebigdata.fr/google-utilise-votre-historique-pour-entrainer-son-ia-voici-comment-len-empecher",
+      "auteur": "Dina R.",
+      "url": "https://www.lebigdata.fr/seize-prix-nobel-redoutent-un-tsunami-de-lia-sur-lemploi-faut-il-sinquieter",
       "type": "article",
       "duree": "3 min",
-      "date": "2026-07-08",
+      "date": "2026-07-16",
       "themes": [
-        "ethique",
-        "curation"
+        "ethique"
       ],
       "tags": [
-        "ethique",
-        "curation"
+        "ethique"
       ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1620712943543-bcc4688e7485%3Fw%3D1200&w=1200&output=webp",
-      "featured": false
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1497633762265-9d179a990aa6%3Fw%3D1200&w=1200&output=webp"
     },
     {
-      "slug": "triche-ia-examens-universite-brown-chatgpt",
-      "titre": "Triche à l’IA : un cas d’école qui pousse à repenser l’évaluation",
-      "lead": "À Brown, 40 étudiants sur 86 obtiennent 100/100 à un examen maison… puis s’effondrent à 48/100 en présentiel. Un signal fort sur l’usage de ChatGPT dans les épreuves et sur la nécessité de revoir nos modalités d’évaluation.",
+      "slug": "claude-for-teachers-anthropic",
+      "titre": "Claude for Teachers : Anthropic ouvre un accès gratuit dédié aux enseignants",
+      "lead": "Anthropic lance une offre réservée aux enseignants vérifiés, avec des « teaching skills » pensées pour la préparation de cours et la différenciation pédagogique. Le référentiel de compétences est publié en open source — transposable hors K-12 américain.",
+      "source": "Anthropic",
+      "auteur": "Anthropic",
+      "url": "https://www.anthropic.com/news/claude-for-teachers",
+      "type": "article",
+      "duree": "6 min",
+      "date": "2026-07-14",
+      "themes": [
+        "workflow",
+        "creation"
+      ],
+      "tags": [
+        "workflow",
+        "creation"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1523240795612-9a054b0db644%3Fw%3D1200&w=1200&output=webp"
+    },
+    {
+      "slug": "ai-act-confidentialite-shadow-ai",
+      "titre": "AI Act et « Shadow AI » : 27 % des collaborateurs utilisent l'IA hors cadre",
+      "lead": "À l'approche des échéances d'août 2026, l'enjeu se déplace vers la gouvernance des données. Cas d'école directement exploitable en cours de management, RH ou droit : auditer les usages, écrire une politique, fournir des outils sûrs.",
       "source": "LeBigData.fr",
-      "auteur": "Ny Ando A.",
-      "url": "https://www.lebigdata.fr/triche-a-lia-un-prof-de-luniversite-brown-alerte-sur-lusage-de-chatgpt-aux-examens",
+      "auteur": "John M. R.",
+      "url": "https://www.lebigdata.fr/la-confidentialite-de-lai-act-contraintes-et-opportunites",
       "type": "article",
       "duree": "5 min",
-      "date": "2026-07-03",
+      "date": "2026-07-13",
       "themes": [
-        "ethique"
-      ],
-      "tags": [
-        "ethique"
-      ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1517245386807-bb43f82c33c4%3Fw%3D1200&w=1200&output=webp",
-      "featured": false
-    },
-    {
-      "slug": "google-ia-juin-2026-education-notebooklm",
-      "titre": "Récap IA de Google (juin 2026) : NotebookLM, study notebooks et outils pour la classe",
-      "lead": "Le bilan mensuel de Google met l’IA au service de l’apprentissage : un NotebookLM qui génère graphiques, tableurs et slides, des « study notebooks » adaptatifs et de nouveaux outils pour les enseignants — accompagnés d’un guide de formation gratuit.",
-      "source": "Google Blog",
-      "auteur": "Keyword Team",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
-      "type": "article",
-      "duree": "8 min",
-      "date": "2026-07-01",
-      "themes": [
-        "curation",
-        "creation",
+        "ethique",
         "workflow"
       ],
       "tags": [
-        "curation",
-        "creation",
+        "ethique",
         "workflow"
       ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1497633762265-9d179a990aa6%3Fw%3D1200&w=1200&output=webp",
-      "featured": false
-    },
-    {
-      "slug": "claude-sonnet-5-modele-agentique-abordable",
-      "titre": "Claude Sonnet 5 : un modèle plus autonome, désormais par défaut sur les offres gratuites",
-      "lead": "Anthropic lance son Sonnet le plus « agentique » : il planifie, utilise des outils et vérifie son propre travail. Devenu le modèle par défaut des offres Free et Pro, il approche la qualité d’Opus à moindre coût — utile pour préparer cours, corrigés et supports.",
-      "source": "Anthropic",
-      "auteur": "Anthropic",
-      "url": "https://www.anthropic.com/news/claude-sonnet-5",
-      "type": "article",
-      "duree": "6 min",
-      "date": "2026-06-30",
-      "themes": [
-        "llm",
-        "workflow",
-        "agents"
-      ],
-      "tags": [
-        "llm",
-        "workflow",
-        "agents"
-      ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1677442136019-21780ecad995%3Fw%3D1200&w=1200&output=webp",
-      "featured": false
-    },
-    {
-      "slug": "gartner-ia-qualite-donnees-plutot-que-derniers-llm",
-      "titre": "IA en entreprise : soigner ses données plutôt que courir après le dernier LLM (Gartner)",
-      "lead": "Plutôt que d’adopter chaque nouveau modèle, Gartner recommande de miser sur la qualité des données, l’acculturation à l’IA et la refonte des processus — et note une corrélation forte entre formation à l’IA et retour sur investissement. Un cadre utile pour les enseignements de gestion et de management.",
-      "source": "LeMagIT",
-      "auteur": "Gaétan Raoul, LeMagIT",
-      "url": "https://www.lemagit.fr/actualites/366645198/IA-Il-y-a-mieux-a-faire-que-de-courir-apres-les-derniers-LLM-juge-Gartner",
-      "type": "article",
-      "duree": "5 min",
-      "date": "2026-06-26",
-      "themes": [
-        "workflow",
-        "ethique",
-        "llm"
-      ],
-      "tags": [
-        "workflow",
-        "ethique",
-        "llm"
-      ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1554224155-6726b3ff858f%3Fw%3D1200&w=1200&output=webp",
-      "featured": false
-    },
-    {
-      "slug": "gemini-study-notebooks-apprentissage-personnalise",
-      "titre": "« Study notebooks » : Gemini se transforme en tuteur personnalisé",
-      "lead": "Google déploie dans Gemini un espace d'apprentissage qui génère un quiz diagnostic, des mini-leçons ciblées et un tableau de bord de progression à partir des supports de cours déposés. Une piste concrète — et ses limites — pour la révision et l'accompagnement des étudiants.",
-      "source": "Google Blog",
-      "auteur": "Carol Walport",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-study-notebooks/",
-      "type": "article",
-      "duree": "5 min",
-      "date": "2026-06-25",
-      "themes": [
-        "curation",
-        "creation"
-      ],
-      "tags": [
-        "curation",
-        "creation"
-      ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1456513080510-7bf3a84b82f8%3Fw%3D1200&w=1200&output=webp",
-      "featured": false
-    },
-    {
-      "slug": "avenir-seo-geo-moteurs-ia-2026",
-      "titre": "SEO à l'ère des moteurs IA : ce que la « GEO » change pour le marketing",
-      "lead": "Entretien avec un expert du référencement sur l'arrivée de Gemini, ChatGPT Search et Perplexity : nouveaux KPI, ROI plus opaque, retour de la « preuve humaine » face aux contenus générés. Une grille de lecture utile pour les cours de marketing, communication et stratégie digitale.",
-      "source": "LeBigData.fr",
-      "auteur": "John M. R. (entretien avec Bertrand Masselot)",
-      "url": "https://www.lebigdata.fr/avenir-du-seo-2026",
-      "type": "article",
-      "duree": "6 min",
-      "date": "2026-06-24",
-      "themes": [
-        "curation",
-        "workflow",
-        "ethique"
-      ],
-      "tags": [
-        "curation",
-        "workflow",
-        "ethique"
-      ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1556761175-5973dc0f32e7%3Fw%3D1200&w=1200&output=webp",
-      "featured": false
-    },
-    {
-      "slug": "copilot-excel-skills-transparence-2026",
-      "titre": "Copilot dans Excel : compétences automatisées et IA qui explique ses calculs",
-      "lead": "Microsoft dote Copilot pour Excel de « Skills » réutilisables (rapports types, conventions de nommage), de connecteurs de données et d'un mode « Plan with Copilot » qui détaille ses modifications avant de les appliquer. Concret pour enseigner l'analyse de données et la traçabilité en gestion et commerce.",
-      "source": "LeBigData.fr",
-      "auteur": "Tinah F.",
-      "url": "https://www.lebigdata.fr/microsoft-enrichit-copilot-dans-excel-avec-des-fonctions-qui-vont-simplifier-votre-travail",
-      "type": "article",
-      "duree": "3 min",
-      "date": "2026-06-25",
-      "themes": [
-        "workflow",
-        "creation"
-      ],
-      "tags": [
-        "workflow",
-        "creation"
-      ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1551434678-e076c223a692%3Fw%3D1200&w=1200&output=webp",
-      "featured": false
-    },
-    {
-      "slug": "ia-erreur-qui-est-responsable-justice-allemande",
-      "titre": "Quand l'IA se trompe, qui est responsable ? La justice allemande tranche",
-      "lead": "Un tribunal allemand juge Google responsable des erreurs de ses résumés IA (AI Overviews), rejetant l'idée que l'internaute doit tout revérifier. Un cas d'école pour débattre en classe de fiabilité, de responsabilité et du statut éditorial des IA génératives.",
-      "source": "LeBigData.fr",
-      "auteur": "Ny Ando A.",
-      "url": "https://www.lebigdata.fr/si-chatgpt-ou-gemini-vous-induit-en-erreur-qui-est-le-fautif",
-      "type": "article",
-      "duree": "4 min",
-      "date": "2026-06-28",
-      "themes": [
-        "ethique",
-        "llm"
-      ],
-      "tags": [
-        "ethique",
-        "llm"
-      ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1517245386807-bb43f82c33c4%3Fw%3D1200&w=1200&output=webp",
-      "featured": false
-    },
-    {
-      "titre": "Statement on the US government directive to suspend access to Fable 5 and Mythos 5",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/news/fable-mythos-access",
-      "type": "article",
-      "duree": "5 min",
-      "date": "2026-06-12",
-      "lead": "Communiqué officiel d'Anthropic après l'ordre d'export control américain suspendant l'accès aux deux nouveaux modèles publiés le 9 juin.",
-      "themes": [
-        "llm",
-        "ethique"
-      ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1620712943543-bcc4688e7485%3Fw%3D1200&w=1200&output=webp",
-      "featured": true,
-      "auteur": "Anthropic",
-      "slug": "statement-on-the-us-government-directive-to-suspend-access-t"
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1556761175-5973dc0f32e7%3Fw%3D1200&w=1200&output=webp"
     },
     {
       "slug": "scienceetonnante",
@@ -708,36 +469,6 @@
       "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1551836022-d5d88e9218df%3Fw%3D1200&w=1200&output=webp"
     },
     {
-      "titre": "Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem",
-      "type": "article",
-      "duree": "5 min",
-      "date": "2026-06-17",
-      "lead": "Ouverture du bureau Séoul, partenariats avec l'écosystème coréen. Indicateur de la stratégie Asie-Pacifique d'Anthropic.",
-      "themes": [
-        "llm"
-      ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1538485399081-7191377e8241%3Fw%3D1200&w=1200&output=webp",
-      "auteur": "Anthropic",
-      "slug": "anthropic-opens-seoul-office-and-announces-new-partnerships"
-    },
-    {
-      "titre": "« Le vrai différentiel, c'est la qualité de l'intégration » — IA en entreprise",
-      "source": "Maddyness",
-      "url": "https://www.maddyness.com/2026/06/16/ia-en-entreprise-le-vrai-differentiel-cest-la-qualite-de-lintegration/",
-      "type": "article",
-      "duree": "6 min",
-      "date": "2026-06-16",
-      "lead": "Décryptage Maddyness : le succès des projets IA en entreprise dépend de l'intégration dans les processus, pas du choix du modèle. Transposable à l'enseignement.",
-      "themes": [
-        "workflow"
-      ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1542744173-8e7e53415bb0%3Fw%3D1200&w=1200&output=webp",
-      "auteur": "Maddyness",
-      "slug": "le-vrai-diff-rentiel-c-est-la-qualit-de-l-int-gration-ia-en"
-    },
-    {
       "titre": "Google Gemini — actualité produit",
       "source": "Google Blog",
       "url": "https://blog.google/products/gemini/",
@@ -963,53 +694,6 @@
       "slug": "heygen-cr-er-des-capsules-vid-o-avec-avatar"
     },
     {
-      "titre": "Levées de fonds startups françaises — 254 M€",
-      "source": "Maddyness",
-      "url": "https://www.maddyness.com/2026/06/12/les-startups-francaises-ont-leve-254-millions-deuros-cette-semaine/",
-      "type": "article",
-      "duree": "4 min",
-      "date": "2026-06-12",
-      "lead": "Le hebdo des levées de fonds tech FR. Beaucoup de dossiers IA. À recommander aux étudiants qui suivent la French Tech.",
-      "themes": [
-        "workflow"
-      ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1556761175-5973dc0f32e7%3Fw%3D1200&w=1200&output=webp",
-      "auteur": "Maddyness",
-      "slug": "lev-es-de-fonds-startups-fran-aises-254-m"
-    },
-    {
-      "titre": "Claude Corps — fellowship national",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/news/claude-corps",
-      "type": "article",
-      "duree": "5 min",
-      "date": "2026-06-11",
-      "lead": "Lancement du programme fellowship pour porter l'IA dans les communautés. Inspiration pour ce qui pourrait exister en France.",
-      "themes": [
-        "agents",
-        "ethique"
-      ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1523240795612-9a054b0db644%3Fw%3D1200&w=1200&output=webp",
-      "auteur": "Anthropic",
-      "slug": "claude-corps-fellowship-national"
-    },
-    {
-      "titre": "Hauts-de-France & SoftBank : la « vallée de l'IA »",
-      "source": "Maddyness",
-      "url": "https://www.maddyness.com/2026/06/10/comment-la-region-hauts-de-france-reve-de-devenir-une-vallee-de-lia-apres-linvestissement-xxl-promis-par-softbank/",
-      "type": "article",
-      "duree": "7 min",
-      "date": "2026-06-10",
-      "lead": "Analyse de l'effet attendu de l'investissement SoftBank sur la région. Cas d'école pour CEJM, management territorial, géopolitique.",
-      "themes": [
-        "workflow",
-        "ethique"
-      ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1518770660439-4636190af475%3Fw%3D1200&w=1200&output=webp",
-      "auteur": "Maddyness",
-      "slug": "hauts-de-france-softbank-la-vall-e-de-l-ia"
-    },
-    {
       "titre": "Anthropic — Building agents with Claude",
       "source": "Anthropic",
       "url": "https://www.anthropic.com/engineering",
@@ -1024,36 +708,6 @@
       "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1535378917042-10a22c95931a%3Fw%3D1200&w=1200&output=webp",
       "auteur": "Anthropic",
       "slug": "anthropic-building-agents-with-claude"
-    },
-    {
-      "titre": "Policy on the AI Exponential",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/policy-on-the-ai-exponential",
-      "type": "livre-blanc",
-      "duree": "25 min",
-      "date": "2026-06-10",
-      "lead": "Texte fondateur d'Anthropic sur la gouvernance d'une IA exponentielle. Propositions concrètes pour les institutions.",
-      "themes": [
-        "ethique"
-      ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1532375810709-75b1da00537c%3Fw%3D1200&w=1200&output=webp",
-      "auteur": "Anthropic",
-      "slug": "policy-on-the-ai-exponential"
-    },
-    {
-      "titre": "Introducing Claude Fable 5 and Mythos 5",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
-      "type": "article",
-      "duree": "7 min",
-      "date": "2026-06-09",
-      "lead": "Présentation officielle des deux nouveaux modèles haut de gamme : performance, contexte étendu, agentic tasks, et la consistance pour le travail long.",
-      "themes": [
-        "llm"
-      ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1677442136019-21780ecad995%3Fw%3D1200&w=1200&output=webp",
-      "auteur": "Anthropic",
-      "slug": "introducing-claude-fable-5-and-mythos-5"
     },
     {
       "titre": "Claude — créer un visuel, une slide, un mini-site",
@@ -1101,22 +755,6 @@
       "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1456513080510-7bf3a84b82f8%3Fw%3D1200&w=1200&output=webp",
       "auteur": "Google",
       "slug": "notebooklm-google"
-    },
-    {
-      "titre": "What we learned mapping a year's worth of AI-enabled cyber threats",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack",
-      "type": "livre-blanc",
-      "duree": "30 min",
-      "date": "2026-06-03",
-      "lead": "Rapport Anthropic — typologie des menaces cyber alimentées par l'IA, mappées sur MITRE ATT&CK. Lecture longue, indispensable côté sécurité.",
-      "themes": [
-        "agents",
-        "ethique"
-      ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1563013544-824ae1b704d3%3Fw%3D1200&w=1200&output=webp",
-      "auteur": "Anthropic",
-      "slug": "what-we-learned-mapping-a-year-s-worth-of-ai-enabled-cyber-t"
     },
     {
       "titre": "Mistral AI — modèles, plateforme, tarifs",
@@ -1256,6 +894,552 @@
       "slug": "ai-act-cadre-r-glementaire-europ-en"
     },
     {
+      "slug": "clones-ia-coach-entrepreneurs-french-tech",
+      "titre": "Des « clones IA » pour coacher les entrepreneurs",
+      "lead": "Frédéric Mazzella (BlaBlaCar) et d'autres figures de la French Tech lancent des doubles numériques qui reproduisent leurs conseils, et parfois leur voix. Un cas parlant pour aborder les agents IA, l'entrepreneuriat et les limites du mentorat automatisé.",
+      "source": "Maddyness",
+      "auteur": "Benoît Zante",
+      "url": "https://www.maddyness.com/2026/07/10/ces-figures-de-la-french-tech-qui-lancent-leur-clone-ia-pour-coacher-les-entrepreneurs/",
+      "type": "article",
+      "duree": "5 min",
+      "date": "2026-07-10",
+      "themes": [
+        "agents",
+        "workflow"
+      ],
+      "tags": [
+        "agents",
+        "workflow"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1523240795612-9a054b0db644%3Fw%3D1200&w=1200&output=webp",
+      "featured": false
+    },
+    {
+      "slug": "ia-rh-donnees-angle-mort-transformation",
+      "titre": "RH et IA : la donnée, angle mort de la transformation",
+      "lead": "L'IA pourrait optimiser 60 % des tâches RH (étude Indeed–Cambridge), mais sans données structurées ni comité éthique, elle amplifie surtout les biais existants. Une mise au point utile pour les cours de GRH et de management.",
+      "source": "LeMagIT",
+      "auteur": "Philippe Ducellier",
+      "url": "https://www.lemagit.fr/actualites/366645795/IA-les-donnees-restent-langle-mort-de-la-transformation-des-RH",
+      "type": "article",
+      "duree": "6 min",
+      "date": "2026-07-09",
+      "themes": [
+        "workflow",
+        "ethique"
+      ],
+      "tags": [
+        "workflow",
+        "ethique"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1542744173-8e7e53415bb0%3Fw%3D1200&w=1200&output=webp",
+      "featured": false
+    },
+    {
+      "slug": "anthropic-reflect-claude-usage-ia-fluency",
+      "titre": "Anthropic « Reflect » : prendre du recul sur son usage de l'IA",
+      "lead": "Un nouveau tableau de bord permet de visualiser comment on utilise Claude et de muscler ses compétences via le cadre « AI Fluency » (déléguer, décrire, discerner, rester diligent). Un support idéal pour faire réfléchir les étudiants à un usage lucide de l'IA.",
+      "source": "Anthropic",
+      "auteur": "Anthropic",
+      "url": "https://www.anthropic.com/news/reflect-with-claude",
+      "type": "article",
+      "duree": "5 min",
+      "date": "2026-07-09",
+      "themes": [
+        "workflow",
+        "ethique"
+      ],
+      "tags": [
+        "workflow",
+        "ethique"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1496861083958-175bb1bd5702%3Fw%3D1200&w=1200&output=webp",
+      "featured": false
+    },
+    {
+      "slug": "anthropic-inviting-hard-questions",
+      "titre": "« Inviting hard questions » : Anthropic sollicite les questions les plus dures sur l'IA",
+      "lead": "Anthropic ouvre un appel public à questions difficiles et s'engage à publier ses raisonnements. Un bon support pour faire travailler l'esprit critique des étudiants sur le discours des acteurs de l'IA.",
+      "source": "Anthropic",
+      "auteur": "Anthropic",
+      "url": "https://www.anthropic.com/news/hard-questions",
+      "type": "article",
+      "duree": "4 min",
+      "date": "2026-07-09",
+      "themes": [
+        "ethique",
+        "curation"
+      ],
+      "tags": [
+        "ethique",
+        "curation"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1517245386807-bb43f82c33c4%3Fw%3D1200&w=1200&output=webp"
+    },
+    {
+      "slug": "em-lyon-ia-conseil-audit-productivite-pas-qualite",
+      "titre": "IA dans le conseil et l'audit : plus vite, mais pas forcément mieux (étude EM Lyon)",
+      "lead": "D'après l'EM Lyon, l'IA booste la productivité individuelle des consultants sans améliorer la qualité du jugement collectif — et fragilise la formation des juniors. Un cas d'école pour enseigner l'esprit critique et la gouvernance de l'IA.",
+      "source": "LeMagIT",
+      "auteur": "Philippe Ducellier",
+      "url": "https://www.lemagit.fr/actualites/366645673/Conseil-Audit-lIA-permet-daller-plus-vite-pas-de-faire-mieux-etude",
+      "type": "etude",
+      "duree": "8 min",
+      "date": "2026-07-08",
+      "themes": [
+        "workflow",
+        "ethique"
+      ],
+      "tags": [
+        "workflow",
+        "ethique"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1554224155-6726b3ff858f%3Fw%3D1200&w=1200&output=webp",
+      "featured": false
+    },
+    {
+      "slug": "search-conversationnel-seo-sea-fin-clic-gratuit",
+      "titre": "Search conversationnel : la fin du « clic gratuit » en SEO et SEA ?",
+      "lead": "Les moteurs génératifs captent les clics informationnels : first-party data, E-E-A-T et authenticité humaine deviennent les clés de l'acquisition. Un décryptage concret pour les cours de marketing digital et de communication.",
+      "source": "LeBigData.fr",
+      "auteur": "Sylvia R.",
+      "url": "https://www.lebigdata.fr/search-conversationnel-la-fin-du-clic-gratuit-en-seo-et-sea",
+      "type": "article",
+      "duree": "6 min",
+      "date": "2026-07-08",
+      "themes": [
+        "curation",
+        "workflow"
+      ],
+      "tags": [
+        "curation",
+        "workflow"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1556761175-5973dc0f32e7%3Fw%3D1200&w=1200&output=webp",
+      "featured": false
+    },
+    {
+      "slug": "google-historique-recherche-entrainement-ia-desactiver",
+      "titre": "Google entraîne son IA sur votre historique : comment refuser",
+      "lead": "Google déploie « Historique des services de recherche » pour entraîner ses modèles sur vos activités ; voici comment désactiver la collecte en quelques clics. Un réflexe RGPD utile à transmettre aux étudiants comme aux collègues.",
+      "source": "LeBigData.fr",
+      "auteur": "Ny Ando A.",
+      "url": "https://www.lebigdata.fr/google-utilise-votre-historique-pour-entrainer-son-ia-voici-comment-len-empecher",
+      "type": "article",
+      "duree": "3 min",
+      "date": "2026-07-08",
+      "themes": [
+        "ethique",
+        "curation"
+      ],
+      "tags": [
+        "ethique",
+        "curation"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1620712943543-bcc4688e7485%3Fw%3D1200&w=1200&output=webp",
+      "featured": false
+    },
+    {
+      "slug": "triche-ia-examens-universite-brown-chatgpt",
+      "titre": "Triche à l’IA : un cas d’école qui pousse à repenser l’évaluation",
+      "lead": "À Brown, 40 étudiants sur 86 obtiennent 100/100 à un examen maison… puis s’effondrent à 48/100 en présentiel. Un signal fort sur l’usage de ChatGPT dans les épreuves et sur la nécessité de revoir nos modalités d’évaluation.",
+      "source": "LeBigData.fr",
+      "auteur": "Ny Ando A.",
+      "url": "https://www.lebigdata.fr/triche-a-lia-un-prof-de-luniversite-brown-alerte-sur-lusage-de-chatgpt-aux-examens",
+      "type": "article",
+      "duree": "5 min",
+      "date": "2026-07-03",
+      "themes": [
+        "ethique"
+      ],
+      "tags": [
+        "ethique"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1517245386807-bb43f82c33c4%3Fw%3D1200&w=1200&output=webp",
+      "featured": false
+    },
+    {
+      "slug": "google-ia-juin-2026-education-notebooklm",
+      "titre": "Récap IA de Google (juin 2026) : NotebookLM, study notebooks et outils pour la classe",
+      "lead": "Le bilan mensuel de Google met l’IA au service de l’apprentissage : un NotebookLM qui génère graphiques, tableurs et slides, des « study notebooks » adaptatifs et de nouveaux outils pour les enseignants — accompagnés d’un guide de formation gratuit.",
+      "source": "Google Blog",
+      "auteur": "Keyword Team",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
+      "type": "article",
+      "duree": "8 min",
+      "date": "2026-07-01",
+      "themes": [
+        "curation",
+        "creation",
+        "workflow"
+      ],
+      "tags": [
+        "curation",
+        "creation",
+        "workflow"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1497633762265-9d179a990aa6%3Fw%3D1200&w=1200&output=webp",
+      "featured": false
+    },
+    {
+      "slug": "claude-sonnet-5-modele-agentique-abordable",
+      "titre": "Claude Sonnet 5 : un modèle plus autonome, désormais par défaut sur les offres gratuites",
+      "lead": "Anthropic lance son Sonnet le plus « agentique » : il planifie, utilise des outils et vérifie son propre travail. Devenu le modèle par défaut des offres Free et Pro, il approche la qualité d’Opus à moindre coût — utile pour préparer cours, corrigés et supports.",
+      "source": "Anthropic",
+      "auteur": "Anthropic",
+      "url": "https://www.anthropic.com/news/claude-sonnet-5",
+      "type": "article",
+      "duree": "6 min",
+      "date": "2026-06-30",
+      "themes": [
+        "llm",
+        "workflow",
+        "agents"
+      ],
+      "tags": [
+        "llm",
+        "workflow",
+        "agents"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1677442136019-21780ecad995%3Fw%3D1200&w=1200&output=webp",
+      "featured": false
+    },
+    {
+      "slug": "ia-erreur-qui-est-responsable-justice-allemande",
+      "titre": "Quand l'IA se trompe, qui est responsable ? La justice allemande tranche",
+      "lead": "Un tribunal allemand juge Google responsable des erreurs de ses résumés IA (AI Overviews), rejetant l'idée que l'internaute doit tout revérifier. Un cas d'école pour débattre en classe de fiabilité, de responsabilité et du statut éditorial des IA génératives.",
+      "source": "LeBigData.fr",
+      "auteur": "Ny Ando A.",
+      "url": "https://www.lebigdata.fr/si-chatgpt-ou-gemini-vous-induit-en-erreur-qui-est-le-fautif",
+      "type": "article",
+      "duree": "4 min",
+      "date": "2026-06-28",
+      "themes": [
+        "ethique",
+        "llm"
+      ],
+      "tags": [
+        "ethique",
+        "llm"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1517245386807-bb43f82c33c4%3Fw%3D1200&w=1200&output=webp",
+      "featured": false
+    },
+    {
+      "slug": "utt-symposium-ia-generative-universites-2026",
+      "titre": "Symposium « IA générative au cœur des universités » (UTT, 29-30 juin)",
+      "lead": "Les 29 et 30 juin 2026, l'Université de technologie de Troyes réunit enseignants-chercheurs et acteurs économiques pour débattre des nouvelles pratiques pédagogiques, de l'évaluation et de l'éthique face à l'IA générative dans le supérieur.",
+      "source": "Université de technologie de Troyes",
+      "auteur": "UTT",
+      "url": "https://www.utt.fr/actualites/symposium-sur-lia-generative-au-coeur-des-universites",
+      "type": "article",
+      "duree": "variable",
+      "date": "2026-06-28",
+      "themes": [
+        "workflow",
+        "ethique"
+      ],
+      "tags": [
+        "workflow",
+        "ethique"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1523240795612-9a054b0db644%3Fw%3D1200&w=1200&output=webp",
+      "featured": false
+    },
+    {
+      "slug": "gartner-ia-qualite-donnees-plutot-que-derniers-llm",
+      "titre": "IA en entreprise : soigner ses données plutôt que courir après le dernier LLM (Gartner)",
+      "lead": "Plutôt que d’adopter chaque nouveau modèle, Gartner recommande de miser sur la qualité des données, l’acculturation à l’IA et la refonte des processus — et note une corrélation forte entre formation à l’IA et retour sur investissement. Un cadre utile pour les enseignements de gestion et de management.",
+      "source": "LeMagIT",
+      "auteur": "Gaétan Raoul, LeMagIT",
+      "url": "https://www.lemagit.fr/actualites/366645198/IA-Il-y-a-mieux-a-faire-que-de-courir-apres-les-derniers-LLM-juge-Gartner",
+      "type": "article",
+      "duree": "5 min",
+      "date": "2026-06-26",
+      "themes": [
+        "workflow",
+        "ethique",
+        "llm"
+      ],
+      "tags": [
+        "workflow",
+        "ethique",
+        "llm"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1554224155-6726b3ff858f%3Fw%3D1200&w=1200&output=webp",
+      "featured": false
+    },
+    {
+      "slug": "gemini-study-notebooks-apprentissage-personnalise",
+      "titre": "« Study notebooks » : Gemini se transforme en tuteur personnalisé",
+      "lead": "Google déploie dans Gemini un espace d'apprentissage qui génère un quiz diagnostic, des mini-leçons ciblées et un tableau de bord de progression à partir des supports de cours déposés. Une piste concrète — et ses limites — pour la révision et l'accompagnement des étudiants.",
+      "source": "Google Blog",
+      "auteur": "Carol Walport",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-study-notebooks/",
+      "type": "article",
+      "duree": "5 min",
+      "date": "2026-06-25",
+      "themes": [
+        "curation",
+        "creation"
+      ],
+      "tags": [
+        "curation",
+        "creation"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1456513080510-7bf3a84b82f8%3Fw%3D1200&w=1200&output=webp",
+      "featured": false
+    },
+    {
+      "slug": "copilot-excel-skills-transparence-2026",
+      "titre": "Copilot dans Excel : compétences automatisées et IA qui explique ses calculs",
+      "lead": "Microsoft dote Copilot pour Excel de « Skills » réutilisables (rapports types, conventions de nommage), de connecteurs de données et d'un mode « Plan with Copilot » qui détaille ses modifications avant de les appliquer. Concret pour enseigner l'analyse de données et la traçabilité en gestion et commerce.",
+      "source": "LeBigData.fr",
+      "auteur": "Tinah F.",
+      "url": "https://www.lebigdata.fr/microsoft-enrichit-copilot-dans-excel-avec-des-fonctions-qui-vont-simplifier-votre-travail",
+      "type": "article",
+      "duree": "3 min",
+      "date": "2026-06-25",
+      "themes": [
+        "workflow",
+        "creation"
+      ],
+      "tags": [
+        "workflow",
+        "creation"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1551434678-e076c223a692%3Fw%3D1200&w=1200&output=webp",
+      "featured": false
+    },
+    {
+      "slug": "avenir-seo-geo-moteurs-ia-2026",
+      "titre": "SEO à l'ère des moteurs IA : ce que la « GEO » change pour le marketing",
+      "lead": "Entretien avec un expert du référencement sur l'arrivée de Gemini, ChatGPT Search et Perplexity : nouveaux KPI, ROI plus opaque, retour de la « preuve humaine » face aux contenus générés. Une grille de lecture utile pour les cours de marketing, communication et stratégie digitale.",
+      "source": "LeBigData.fr",
+      "auteur": "John M. R. (entretien avec Bertrand Masselot)",
+      "url": "https://www.lebigdata.fr/avenir-du-seo-2026",
+      "type": "article",
+      "duree": "6 min",
+      "date": "2026-06-24",
+      "themes": [
+        "curation",
+        "workflow",
+        "ethique"
+      ],
+      "tags": [
+        "curation",
+        "workflow",
+        "ethique"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1556761175-5973dc0f32e7%3Fw%3D1200&w=1200&output=webp",
+      "featured": false
+    },
+    {
+      "slug": "ia-donnees-complexes-contenu-business-clair",
+      "titre": "Transformer des données complexes en contenu business clair grâce à l'IA",
+      "lead": "Reporting, synthèse, visualisation : un tour d'horizon concret des outils d'IA générative (Copilot, ChatGPT, Power BI) pour traduire des chiffres bruts en messages exploitables. Utile pour enseigner la communication de données en gestion et commerce.",
+      "source": "LeBigData.fr",
+      "auteur": "Oliva R.",
+      "url": "https://www.lebigdata.fr/ia-aide-professionnels-donnees-complexes-contenu-business-clair",
+      "type": "article",
+      "duree": "7 min",
+      "date": "2026-06-19",
+      "themes": [
+        "workflow",
+        "creation",
+        "curation"
+      ],
+      "tags": [
+        "workflow",
+        "creation",
+        "curation"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1551434678-e076c223a692%3Fw%3D1200&w=1200&output=webp",
+      "featured": false
+    },
+    {
+      "titre": "Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem",
+      "type": "article",
+      "duree": "5 min",
+      "date": "2026-06-17",
+      "lead": "Ouverture du bureau Séoul, partenariats avec l'écosystème coréen. Indicateur de la stratégie Asie-Pacifique d'Anthropic.",
+      "themes": [
+        "llm"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1538485399081-7191377e8241%3Fw%3D1200&w=1200&output=webp",
+      "auteur": "Anthropic",
+      "slug": "anthropic-opens-seoul-office-and-announces-new-partnerships"
+    },
+    {
+      "titre": "« Le vrai différentiel, c'est la qualité de l'intégration » — IA en entreprise",
+      "source": "Maddyness",
+      "url": "https://www.maddyness.com/2026/06/16/ia-en-entreprise-le-vrai-differentiel-cest-la-qualite-de-lintegration/",
+      "type": "article",
+      "duree": "6 min",
+      "date": "2026-06-16",
+      "lead": "Décryptage Maddyness : le succès des projets IA en entreprise dépend de l'intégration dans les processus, pas du choix du modèle. Transposable à l'enseignement.",
+      "themes": [
+        "workflow"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1542744173-8e7e53415bb0%3Fw%3D1200&w=1200&output=webp",
+      "auteur": "Maddyness",
+      "slug": "le-vrai-diff-rentiel-c-est-la-qualit-de-l-int-gration-ia-en"
+    },
+    {
+      "slug": "seo-b2b-ia-perception-strategique",
+      "titre": "Repenser le SEO B2B à l'ère de l'IA : la perception devient stratégique",
+      "lead": "Avec ChatGPT, Gemini et Perplexity, l'enjeu n'est plus d'être premier sur Google mais d'être ce que l'IA retient d'un marché. Une grille de lecture précieuse pour les cours de marketing, communication et stratégie digitale.",
+      "source": "LeBigData.fr",
+      "auteur": "John M. R. (entretien avec Cyril Bladier)",
+      "url": "https://www.lebigdata.fr/seo-b2b-cyril-bladier",
+      "type": "article",
+      "duree": "4 min",
+      "date": "2026-06-15",
+      "themes": [
+        "curation",
+        "workflow",
+        "ethique"
+      ],
+      "tags": [
+        "curation",
+        "workflow",
+        "ethique"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1556761175-5973dc0f32e7%3Fw%3D1200&w=1200&output=webp",
+      "featured": false
+    },
+    {
+      "titre": "Statement on the US government directive to suspend access to Fable 5 and Mythos 5",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/fable-mythos-access",
+      "type": "article",
+      "duree": "5 min",
+      "date": "2026-06-12",
+      "lead": "Communiqué officiel d'Anthropic après l'ordre d'export control américain suspendant l'accès aux deux nouveaux modèles publiés le 9 juin.",
+      "themes": [
+        "llm",
+        "ethique"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1620712943543-bcc4688e7485%3Fw%3D1200&w=1200&output=webp",
+      "featured": true,
+      "auteur": "Anthropic",
+      "slug": "statement-on-the-us-government-directive-to-suspend-access-t"
+    },
+    {
+      "titre": "Levées de fonds startups françaises — 254 M€",
+      "source": "Maddyness",
+      "url": "https://www.maddyness.com/2026/06/12/les-startups-francaises-ont-leve-254-millions-deuros-cette-semaine/",
+      "type": "article",
+      "duree": "4 min",
+      "date": "2026-06-12",
+      "lead": "Le hebdo des levées de fonds tech FR. Beaucoup de dossiers IA. À recommander aux étudiants qui suivent la French Tech.",
+      "themes": [
+        "workflow"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1556761175-5973dc0f32e7%3Fw%3D1200&w=1200&output=webp",
+      "auteur": "Maddyness",
+      "slug": "lev-es-de-fonds-startups-fran-aises-254-m"
+    },
+    {
+      "slug": "anthropic-public-record-opinion-americains-ia",
+      "titre": "Anthropic Public Record : ce que les citoyens pensent vraiment de l'IA",
+      "lead": "Première grande consultation citoyenne d'Anthropic : 64 % redoutent les pertes d'emploi, mais les usagers quotidiens de l'IA sont nettement moins inquiets. Des données utiles pour nourrir le débat en classe sur l'impact sociétal de l'IA.",
+      "source": "Anthropic",
+      "auteur": "Anthropic",
+      "url": "https://www.anthropic.com/news/anthropic-public-record",
+      "type": "etude",
+      "duree": "6 min",
+      "date": "2026-06-12",
+      "themes": [
+        "ethique"
+      ],
+      "tags": [
+        "ethique"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1517245386807-bb43f82c33c4%3Fw%3D1200&w=1200&output=webp",
+      "featured": false
+    },
+    {
+      "titre": "Claude Corps — fellowship national",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/claude-corps",
+      "type": "article",
+      "duree": "5 min",
+      "date": "2026-06-11",
+      "lead": "Lancement du programme fellowship pour porter l'IA dans les communautés. Inspiration pour ce qui pourrait exister en France.",
+      "themes": [
+        "agents",
+        "ethique"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1523240795612-9a054b0db644%3Fw%3D1200&w=1200&output=webp",
+      "auteur": "Anthropic",
+      "slug": "claude-corps-fellowship-national"
+    },
+    {
+      "titre": "Hauts-de-France & SoftBank : la « vallée de l'IA »",
+      "source": "Maddyness",
+      "url": "https://www.maddyness.com/2026/06/10/comment-la-region-hauts-de-france-reve-de-devenir-une-vallee-de-lia-apres-linvestissement-xxl-promis-par-softbank/",
+      "type": "article",
+      "duree": "7 min",
+      "date": "2026-06-10",
+      "lead": "Analyse de l'effet attendu de l'investissement SoftBank sur la région. Cas d'école pour CEJM, management territorial, géopolitique.",
+      "themes": [
+        "workflow",
+        "ethique"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1518770660439-4636190af475%3Fw%3D1200&w=1200&output=webp",
+      "auteur": "Maddyness",
+      "slug": "hauts-de-france-softbank-la-vall-e-de-l-ia"
+    },
+    {
+      "titre": "Policy on the AI Exponential",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/policy-on-the-ai-exponential",
+      "type": "livre-blanc",
+      "duree": "25 min",
+      "date": "2026-06-10",
+      "lead": "Texte fondateur d'Anthropic sur la gouvernance d'une IA exponentielle. Propositions concrètes pour les institutions.",
+      "themes": [
+        "ethique"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1532375810709-75b1da00537c%3Fw%3D1200&w=1200&output=webp",
+      "auteur": "Anthropic",
+      "slug": "policy-on-the-ai-exponential"
+    },
+    {
+      "titre": "Introducing Claude Fable 5 and Mythos 5",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+      "type": "article",
+      "duree": "7 min",
+      "date": "2026-06-09",
+      "lead": "Présentation officielle des deux nouveaux modèles haut de gamme : performance, contexte étendu, agentic tasks, et la consistance pour le travail long.",
+      "themes": [
+        "llm"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1677442136019-21780ecad995%3Fw%3D1200&w=1200&output=webp",
+      "auteur": "Anthropic",
+      "slug": "introducing-claude-fable-5-and-mythos-5"
+    },
+    {
+      "titre": "What we learned mapping a year's worth of AI-enabled cyber threats",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack",
+      "type": "livre-blanc",
+      "duree": "30 min",
+      "date": "2026-06-03",
+      "lead": "Rapport Anthropic — typologie des menaces cyber alimentées par l'IA, mappées sur MITRE ATT&CK. Lecture longue, indispensable côté sécurité.",
+      "themes": [
+        "agents",
+        "ethique"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1563013544-824ae1b704d3%3Fw%3D1200&w=1200&output=webp",
+      "auteur": "Anthropic",
+      "slug": "what-we-learned-mapping-a-year-s-worth-of-ai-enabled-cyber-t"
+    },
+    {
       "titre": "Introducing Claude Opus 4.8",
       "source": "Anthropic",
       "url": "https://www.anthropic.com/news/claude-opus-4-8",
@@ -1285,92 +1469,6 @@
       "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1473177104440-ffee2f376098%3Fw%3D1200&w=1200&output=webp",
       "auteur": "Anthropic",
       "slug": "anthropic-co-founder-chris-olah-on-pope-leo-xiv-s-encyclical"
-    },
-    {
-      "slug": "ia-donnees-complexes-contenu-business-clair",
-      "titre": "Transformer des données complexes en contenu business clair grâce à l'IA",
-      "lead": "Reporting, synthèse, visualisation : un tour d'horizon concret des outils d'IA générative (Copilot, ChatGPT, Power BI) pour traduire des chiffres bruts en messages exploitables. Utile pour enseigner la communication de données en gestion et commerce.",
-      "source": "LeBigData.fr",
-      "auteur": "Oliva R.",
-      "url": "https://www.lebigdata.fr/ia-aide-professionnels-donnees-complexes-contenu-business-clair",
-      "type": "article",
-      "duree": "7 min",
-      "date": "2026-06-19",
-      "themes": [
-        "workflow",
-        "creation",
-        "curation"
-      ],
-      "tags": [
-        "workflow",
-        "creation",
-        "curation"
-      ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1551434678-e076c223a692%3Fw%3D1200&w=1200&output=webp",
-      "featured": false
-    },
-    {
-      "slug": "seo-b2b-ia-perception-strategique",
-      "titre": "Repenser le SEO B2B à l'ère de l'IA : la perception devient stratégique",
-      "lead": "Avec ChatGPT, Gemini et Perplexity, l'enjeu n'est plus d'être premier sur Google mais d'être ce que l'IA retient d'un marché. Une grille de lecture précieuse pour les cours de marketing, communication et stratégie digitale.",
-      "source": "LeBigData.fr",
-      "auteur": "John M. R. (entretien avec Cyril Bladier)",
-      "url": "https://www.lebigdata.fr/seo-b2b-cyril-bladier",
-      "type": "article",
-      "duree": "4 min",
-      "date": "2026-06-15",
-      "themes": [
-        "curation",
-        "workflow",
-        "ethique"
-      ],
-      "tags": [
-        "curation",
-        "workflow",
-        "ethique"
-      ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1556761175-5973dc0f32e7%3Fw%3D1200&w=1200&output=webp",
-      "featured": false
-    },
-    {
-      "slug": "anthropic-public-record-opinion-americains-ia",
-      "titre": "Anthropic Public Record : ce que les citoyens pensent vraiment de l'IA",
-      "lead": "Première grande consultation citoyenne d'Anthropic : 64 % redoutent les pertes d'emploi, mais les usagers quotidiens de l'IA sont nettement moins inquiets. Des données utiles pour nourrir le débat en classe sur l'impact sociétal de l'IA.",
-      "source": "Anthropic",
-      "auteur": "Anthropic",
-      "url": "https://www.anthropic.com/news/anthropic-public-record",
-      "type": "etude",
-      "duree": "6 min",
-      "date": "2026-06-12",
-      "themes": [
-        "ethique"
-      ],
-      "tags": [
-        "ethique"
-      ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1517245386807-bb43f82c33c4%3Fw%3D1200&w=1200&output=webp",
-      "featured": false
-    },
-    {
-      "slug": "utt-symposium-ia-generative-universites-2026",
-      "titre": "Symposium « IA générative au cœur des universités » (UTT, 29-30 juin)",
-      "lead": "Les 29 et 30 juin 2026, l'Université de technologie de Troyes réunit enseignants-chercheurs et acteurs économiques pour débattre des nouvelles pratiques pédagogiques, de l'évaluation et de l'éthique face à l'IA générative dans le supérieur.",
-      "source": "Université de technologie de Troyes",
-      "auteur": "UTT",
-      "url": "https://www.utt.fr/actualites/symposium-sur-lia-generative-au-coeur-des-universites",
-      "type": "article",
-      "duree": "variable",
-      "date": "2026-06-28",
-      "themes": [
-        "workflow",
-        "ethique"
-      ],
-      "tags": [
-        "workflow",
-        "ethique"
-      ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1523240795612-9a054b0db644%3Fw%3D1200&w=1200&output=webp",
-      "featured": false
     },
     {
       "slug": "rapport-obvia-2026-ia-agentive-ecole",
