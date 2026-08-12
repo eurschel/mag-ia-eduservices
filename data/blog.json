@@ -1,6 +1,1041 @@
 {
   "articles": [
     {
+      "slug": "scienceetonnante",
+      "titre": "ScienceEtonnante — chaîne YouTube",
+      "lead": "Vulgarisation scientifique d'exception. Plusieurs vidéos longues sur les LLM, l'apprentissage profond, les biais cognitifs. À recommander en premier — ton accessible, fond rigoureux.",
+      "source": "YouTube",
+      "auteur": "David Louapre",
+      "url": "https://www.youtube.com/@ScienceEtonnante",
+      "type": "video",
+      "duree": "variable",
+      "date": "2026-08-12",
+      "themes": [
+        "llm",
+        "ethique",
+        "creation"
+      ],
+      "tags": [
+        "llm",
+        "ethique",
+        "creation"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1611162616305-c69b3fa7fbe0%3Fw%3D1200&w=1200&output=webp"
+    },
+    {
+      "slug": "underscore",
+      "titre": "Underscore_ — chaîne YouTube",
+      "lead": "Actualité tech IA en français, démos prompts, comparatifs d'outils. La référence FR sur les outils IA grand public. Format dynamique, ton accessible.",
+      "source": "YouTube",
+      "auteur": "Micode",
+      "url": "https://www.youtube.com/@Underscore_",
+      "type": "video",
+      "duree": "variable",
+      "date": "2026-08-12",
+      "themes": [
+        "llm",
+        "creation",
+        "workflow"
+      ],
+      "tags": [
+        "llm",
+        "creation",
+        "workflow"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1593642632559-0c6d3fc62b89%3Fw%3D1200&w=1200&output=webp"
+    },
+    {
+      "slug": "machine-learnia",
+      "titre": "Machine Learnia — chaîne YouTube",
+      "lead": "Le meilleur cours de Machine Learning gratuit en français. Théorie + pratique Python. Idéal pour étudiants curieux et profs qui veulent monter en compétence.",
+      "source": "YouTube",
+      "auteur": "Guillaume Saint-Cirgue",
+      "url": "https://www.youtube.com/@MachineLearnia",
+      "type": "video",
+      "duree": "variable",
+      "date": "2026-08-12",
+      "themes": [
+        "llm",
+        "creation"
+      ],
+      "tags": [
+        "llm",
+        "creation"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1555066931-4365d14bab8c%3Fw%3D1200&w=1200&output=webp"
+    },
+    {
+      "slug": "le-meta",
+      "titre": "Le Meta — chaîne YouTube",
+      "lead": "Analyse critique des transformations du numérique et de l'IA. Approche réflexive utile pour les profs qui veulent prendre du recul.",
+      "source": "YouTube",
+      "auteur": "Le Meta",
+      "url": "https://www.youtube.com/@LeMeta",
+      "type": "video",
+      "duree": "variable",
+      "date": "2026-08-12",
+      "themes": [
+        "ethique",
+        "workflow"
+      ],
+      "tags": [
+        "ethique",
+        "workflow"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1532375810709-75b1da00537c%3Fw%3D1200&w=1200&output=webp"
+    },
+    {
+      "slug": "hygi-ne-mentale",
+      "titre": "Hygiène Mentale — chaîne YouTube",
+      "lead": "Esprit critique appliqué à l'information, aux biais, et aux promesses de l'IA. Indispensable pour cadrer le discours en classe.",
+      "source": "YouTube",
+      "auteur": "Christophe Michel",
+      "url": "https://www.youtube.com/@HygieneMentale",
+      "type": "video",
+      "duree": "variable",
+      "date": "2026-08-12",
+      "themes": [
+        "ethique"
+      ],
+      "tags": [
+        "ethique"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1496861083958-175bb1bd5702%3Fw%3D1200&w=1200&output=webp"
+    },
+    {
+      "slug": "cocadmin",
+      "titre": "cocadmin — chaîne YouTube",
+      "lead": "Sysadmin, sécurité, et tech avec rigueur. Plusieurs vidéos sur les agents IA, les workflows automatisés, le code assisté.",
+      "source": "YouTube",
+      "auteur": "cocadmin",
+      "url": "https://www.youtube.com/@cocadmin",
+      "type": "video",
+      "duree": "variable",
+      "date": "2026-08-12",
+      "themes": [
+        "agents",
+        "workflow"
+      ],
+      "tags": [
+        "agents",
+        "workflow"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1542831371-29b0f74f9713%3Fw%3D1200&w=1200&output=webp"
+    },
+    {
+      "slug": "numerama",
+      "titre": "Numerama — chaîne YouTube",
+      "lead": "La chaîne du média Numerama. Décryptage actu IA en français, interviews, formats courts. Compagnon des articles écrits.",
+      "source": "YouTube",
+      "auteur": "Numerama",
+      "url": "https://www.youtube.com/@Numerama",
+      "type": "video",
+      "duree": "variable",
+      "date": "2026-08-12",
+      "themes": [
+        "llm",
+        "ethique"
+      ],
+      "tags": [
+        "llm",
+        "ethique"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1554224155-6726b3ff858f%3Fw%3D1200&w=1200&output=webp"
+    },
+    {
+      "slug": "3blue1brown",
+      "titre": "3Blue1Brown — chaîne YouTube",
+      "lead": "Animations exceptionnelles pour comprendre l'algèbre linéaire, les réseaux de neurones, les transformers. EN sous-titrable. Pédagogie maths-IA absolue.",
+      "source": "YouTube",
+      "auteur": "Grant Sanderson",
+      "url": "https://www.youtube.com/@3blue1brown",
+      "type": "video",
+      "duree": "variable",
+      "date": "2026-08-12",
+      "themes": [
+        "llm",
+        "creation"
+      ],
+      "tags": [
+        "llm",
+        "creation"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1581091226825-a6a2a5aee158%3Fw%3D1200&w=1200&output=webp"
+    },
+    {
+      "slug": "two-minute-papers",
+      "titre": "Two Minute Papers — chaîne YouTube",
+      "lead": "Une publication scientifique IA résumée en 5-10 min. Idéal pour suivre la recherche sans lire les papers. EN, sous-titrable.",
+      "source": "YouTube",
+      "auteur": "Károly Zsolnai-Fehér",
+      "url": "https://www.youtube.com/@TwoMinutePapers",
+      "type": "video",
+      "duree": "variable",
+      "date": "2026-08-12",
+      "themes": [
+        "llm",
+        "agents"
+      ],
+      "tags": [
+        "llm",
+        "agents"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1620712943543-bcc4688e7485%3Fw%3D1200&w=1200&output=webp"
+    },
+    {
+      "slug": "andrej-karpathy",
+      "titre": "Andrej Karpathy — chaîne YouTube",
+      "lead": "Ex-OpenAI, ex-Tesla. Ses cours « Neural Networks: Zero to Hero » sont la référence mondiale pour comprendre comment fonctionnent les LLM. Long format.",
+      "source": "YouTube",
+      "auteur": "Andrej Karpathy",
+      "url": "https://www.youtube.com/@AndrejKarpathy",
+      "type": "video",
+      "duree": "variable",
+      "date": "2026-08-12",
+      "themes": [
+        "llm"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1485827404703-89b55fcc595e%3Fw%3D1200&w=1200&output=webp"
+    },
+    {
+      "slug": "anthropic",
+      "titre": "Anthropic — chaîne YouTube",
+      "lead": "Chaîne officielle d'Anthropic : démos Claude, talks recherche, tutoriels prompting. EN, sous-titrable.",
+      "source": "YouTube",
+      "auteur": "Anthropic",
+      "url": "https://www.youtube.com/@anthropic-ai",
+      "type": "video",
+      "duree": "variable",
+      "date": "2026-08-12",
+      "themes": [
+        "llm",
+        "agents",
+        "creation"
+      ],
+      "tags": [
+        "llm",
+        "agents",
+        "creation"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1620712943543-bcc4688e7485%3Fw%3D1200&w=1200&output=webp"
+    },
+    {
+      "slug": "ludo-salenne",
+      "titre": "Ludo Salenne — chaîne YouTube",
+      "lead": "Le youtubeur tech français qui couvre l'IA, les outils, la productivité. Démos pratiques, ton accessible, indispensable.",
+      "source": "YouTube",
+      "auteur": "Ludovic Salenne",
+      "url": "https://www.youtube.com/@LudovicSalenne",
+      "type": "video",
+      "duree": "variable",
+      "date": "2026-08-12",
+      "themes": [
+        "llm",
+        "workflow",
+        "creation"
+      ],
+      "tags": [
+        "llm",
+        "workflow",
+        "creation"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1593642632559-0c6d3fc62b89%3Fw%3D1200&w=1200&output=webp"
+    },
+    {
+      "slug": "ludo-ia",
+      "titre": "Ludo IA² — chaîne YouTube",
+      "lead": "Le deuxième canal de Ludo Salenne, 100 % IA. Tutoriels, comparatifs d'outils, workflows pour pro. Une mine.",
+      "source": "YouTube",
+      "auteur": "Ludovic Salenne",
+      "url": "https://www.youtube.com/@LudoAuCarre",
+      "type": "video",
+      "duree": "variable",
+      "date": "2026-08-12",
+      "themes": [
+        "llm",
+        "creation",
+        "workflow"
+      ],
+      "tags": [
+        "llm",
+        "creation",
+        "workflow"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1551434678-e076c223a692%3Fw%3D1200&w=1200&output=webp"
+    },
+    {
+      "slug": "korben",
+      "titre": "Korben — chaîne YouTube",
+      "lead": "L'institution tech française. Decouvertes d'outils, tutos, IA, cybersécurité. Ton libre, format efficace.",
+      "source": "YouTube",
+      "auteur": "Korben",
+      "url": "https://www.youtube.com/@Korben",
+      "type": "video",
+      "duree": "variable",
+      "date": "2026-08-12",
+      "themes": [
+        "llm",
+        "workflow",
+        "ethique"
+      ],
+      "tags": [
+        "llm",
+        "workflow",
+        "ethique"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1556761175-5973dc0f32e7%3Fw%3D1200&w=1200&output=webp"
+    },
+    {
+      "slug": "elliott-pierret",
+      "titre": "Elliott Pierret — chaîne YouTube",
+      "lead": "Spécialiste de la productivité avec l'IA. Workflows concrets, gain de temps mesurable, outils variés.",
+      "source": "YouTube",
+      "auteur": "Elliott Pierret",
+      "url": "https://www.youtube.com/@elliottpierret",
+      "type": "video",
+      "duree": "variable",
+      "date": "2026-08-12",
+      "themes": [
+        "workflow",
+        "creation"
+      ],
+      "tags": [
+        "workflow",
+        "creation"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1552664730-d307ca884978%3Fw%3D1200&w=1200&output=webp"
+    },
+    {
+      "slug": "micode",
+      "titre": "Micode — chaîne YouTube",
+      "lead": "La chaîne perso de Micode (Underscore_). Récits longs, enquêtes tech, formats narratifs. À voir pour le ton et la mise en récit.",
+      "source": "YouTube",
+      "auteur": "Micode",
+      "url": "https://www.youtube.com/@Micode",
+      "type": "video",
+      "duree": "variable",
+      "date": "2026-08-12",
+      "themes": [
+        "llm",
+        "ethique"
+      ],
+      "tags": [
+        "llm",
+        "ethique"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1581091226825-a6a2a5aee158%3Fw%3D1200&w=1200&output=webp"
+    },
+    {
+      "slug": "google-gemini",
+      "titre": "Google Gemini — chaîne YouTube",
+      "lead": "La chaîne officielle Gemini. Démos NotebookLM, IA Studio, Google Workspace. EN sous-titrable.",
+      "source": "YouTube",
+      "auteur": "Google",
+      "url": "https://www.youtube.com/@GoogleGemini",
+      "type": "video",
+      "duree": "variable",
+      "date": "2026-08-12",
+      "themes": [
+        "llm",
+        "curation",
+        "creation"
+      ],
+      "tags": [
+        "llm",
+        "curation",
+        "creation"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1554224155-6726b3ff858f%3Fw%3D1200&w=1200&output=webp"
+    },
+    {
+      "slug": "openai",
+      "titre": "OpenAI — chaîne YouTube",
+      "lead": "La chaîne officielle OpenAI : annonces produits, démos GPT, talks recherche. EN sous-titrable.",
+      "source": "YouTube",
+      "auteur": "OpenAI",
+      "url": "https://www.youtube.com/@OpenAI",
+      "type": "video",
+      "duree": "variable",
+      "date": "2026-08-12",
+      "themes": [
+        "llm",
+        "creation",
+        "agents"
+      ],
+      "tags": [
+        "llm",
+        "creation",
+        "agents"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1620712943543-bcc4688e7485%3Fw%3D1200&w=1200&output=webp"
+    },
+    {
+      "slug": "canva",
+      "titre": "Canva — chaîne YouTube",
+      "lead": "Tutoriels visuels Canva, dont la suite IA intégrée. Utile pour produire vite des supports visuels propres.",
+      "source": "YouTube",
+      "auteur": "Canva",
+      "url": "https://www.youtube.com/@canva",
+      "type": "video",
+      "duree": "variable",
+      "date": "2026-08-12",
+      "themes": [
+        "creation"
+      ],
+      "tags": [
+        "creation"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1551836022-d5d88e9218df%3Fw%3D1200&w=1200&output=webp"
+    },
+    {
+      "titre": "Google Gemini — actualité produit",
+      "source": "Google Blog",
+      "url": "https://blog.google/products/gemini/",
+      "type": "article",
+      "duree": "variable",
+      "date": "2026-08-12",
+      "lead": "Le fil officiel des annonces Gemini : modèles, intégration Workspace, NotebookLM, IA Studio. Source primaire à suivre.",
+      "themes": [
+        "llm",
+        "curation"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1554224155-6726b3ff858f%3Fw%3D1200&w=1200&output=webp",
+      "auteur": "Google Blog",
+      "slug": "google-gemini-actualit-produit"
+    },
+    {
+      "titre": "OpenAI — Research",
+      "source": "OpenAI",
+      "url": "https://openai.com/research/",
+      "type": "article",
+      "duree": "variable",
+      "date": "2026-08-12",
+      "lead": "Publications scientifiques d'OpenAI : papers techniques, comparatifs, axes de recherche en cours. Lecture obligée pour suivre.",
+      "themes": [
+        "llm"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1620712943543-bcc4688e7485%3Fw%3D1200&w=1200&output=webp",
+      "auteur": "OpenAI",
+      "slug": "openai-research"
+    },
+    {
+      "titre": "Numerama — actualité tech française",
+      "source": "Numerama",
+      "url": "https://www.numerama.com/tech/intelligence-artificielle/",
+      "type": "article",
+      "duree": "variable",
+      "date": "2026-08-12",
+      "lead": "Le hub IA de Numerama. Actualité quotidienne sourcée et critique, en français. À mettre dans la bookmark bar.",
+      "themes": [
+        "llm",
+        "ethique",
+        "workflow"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1554224155-6726b3ff858f%3Fw%3D1200&w=1200&output=webp",
+      "auteur": "Numerama",
+      "slug": "numerama-actualit-tech-fran-aise"
+    },
+    {
+      "titre": "Inria — Intelligence artificielle",
+      "source": "Inria",
+      "url": "https://www.inria.fr/fr/intelligence-artificielle",
+      "type": "article",
+      "duree": "variable",
+      "date": "2026-08-12",
+      "lead": "Le hub Inria sur l'IA : axes de recherche, équipes, publications, événements. L'institut national de référence en France.",
+      "themes": [
+        "llm",
+        "ethique",
+        "agents"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1532375810709-75b1da00537c%3Fw%3D1200&w=1200&output=webp",
+      "auteur": "Inria",
+      "slug": "inria-intelligence-artificielle",
+      "tags": [
+        "llm",
+        "ethique",
+        "agents"
+      ]
+    },
+    {
+      "titre": "Hugging Face — Blog",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog",
+      "type": "article",
+      "duree": "variable",
+      "date": "2026-08-12",
+      "lead": "Le blog officiel d'Hugging Face : nouveaux modèles, tutoriels, retours d'expérience. EN, mais source primaire de la communauté ML mondiale.",
+      "themes": [
+        "llm",
+        "creation"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1518770660439-4636190af475%3Fw%3D1200&w=1200&output=webp",
+      "auteur": "Hugging Face",
+      "slug": "hugging-face-blog",
+      "tags": [
+        "llm",
+        "creation"
+      ]
+    },
+    {
+      "titre": "France Info — Intelligence artificielle",
+      "source": "France Info",
+      "url": "https://www.francetvinfo.fr/sciences/intelligence-artificielle/",
+      "type": "article",
+      "duree": "variable",
+      "date": "2026-08-12",
+      "lead": "Le hub IA de France Info : articles courts, accessibles, mis à jour quotidiennement. Source publique fiable pour suivre l'actu IA en français.",
+      "themes": [
+        "llm",
+        "ethique"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1496861083958-175bb1bd5702%3Fw%3D1200&w=1200&output=webp",
+      "auteur": "France Info",
+      "slug": "france-info-intelligence-artificielle",
+      "tags": [
+        "llm",
+        "ethique"
+      ]
+    },
+    {
+      "titre": "Next.ink — Sciences",
+      "source": "Next.ink",
+      "url": "https://next.ink/sciences/",
+      "type": "article",
+      "duree": "variable",
+      "date": "2026-08-12",
+      "lead": "Le média indépendant Next.ink (ex-Next Inpact) couvre l'IA avec rigueur. Articles fouillés, ton critique, accessible sans abonnement pour les actus.",
+      "themes": [
+        "llm",
+        "ethique",
+        "workflow"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1457369804613-52c61a468e7d%3Fw%3D1200&w=1200&output=webp",
+      "auteur": "Next.ink",
+      "slug": "next-ink-sciences",
+      "tags": [
+        "llm",
+        "ethique",
+        "workflow"
+      ]
+    },
+    {
+      "titre": "LeMagIT — Intelligence artificielle",
+      "source": "LeMagIT",
+      "url": "https://www.lemagit.fr/tag/IntelligenceArtificielle",
+      "type": "article",
+      "duree": "variable",
+      "date": "2026-08-12",
+      "lead": "Actu IA B2B en français : déploiements en entreprise, retours techniques, comparatifs sérieux. Public initialement IT mais lecture utile pour profs en gestion / management.",
+      "themes": [
+        "workflow",
+        "agents"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1542744173-8e7e53415bb0%3Fw%3D1200&w=1200&output=webp",
+      "auteur": "LeMagIT",
+      "slug": "lemagit-intelligence-artificielle",
+      "tags": [
+        "workflow",
+        "agents"
+      ]
+    },
+    {
+      "titre": "France Culture",
+      "source": "France Culture",
+      "url": "https://www.franceculture.fr/",
+      "type": "podcast",
+      "duree": "variable",
+      "date": "2026-08-12",
+      "lead": "La radio publique culturelle propose régulièrement des séries documentaires et débats sur l'IA. Format audio long, fond, contradicteurs.",
+      "themes": [
+        "ethique",
+        "curation"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1473177104440-ffee2f376098%3Fw%3D1200&w=1200&output=webp",
+      "auteur": "France Culture",
+      "slug": "france-culture",
+      "tags": [
+        "ethique",
+        "curation"
+      ]
+    },
+    {
+      "titre": "Persée — portail de revues académiques",
+      "source": "Persée",
+      "url": "https://www.persee.fr/",
+      "type": "etude",
+      "duree": "variable",
+      "date": "2026-08-12",
+      "lead": "Le portail Persée donne accès en libre à des milliers d'articles de revues SHS françaises. Source de référence pour ancrer ses cours dans la recherche.",
+      "themes": [
+        "curation"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1532012197267-da84d127e765%3Fw%3D1200&w=1200&output=webp",
+      "auteur": "Persée",
+      "slug": "pers-e-portail-de-revues-acad-miques",
+      "tags": [
+        "curation"
+      ]
+    },
+    {
+      "titre": "LeBigData.fr",
+      "source": "LeBigData.fr",
+      "url": "https://www.lebigdata.fr/",
+      "type": "article",
+      "duree": "variable",
+      "date": "2026-08-12",
+      "lead": "Média français consacré à l'IA, au cloud, à la data. Articles quotidiens, comparatifs d'outils, retours pratiques. Compagnon utile à Numerama.",
+      "themes": [
+        "llm",
+        "workflow"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1556761175-5973dc0f32e7%3Fw%3D1200&w=1200&output=webp",
+      "auteur": "LeBigData.fr",
+      "slug": "lebigdata-fr",
+      "tags": [
+        "llm",
+        "workflow"
+      ]
+    },
+    {
+      "titre": "HeyGen — créer des capsules vidéo avec avatar",
+      "source": "HeyGen",
+      "url": "https://www.heygen.com/",
+      "type": "outil",
+      "duree": "variable",
+      "date": "2026-08-12",
+      "lead": "Faire parler un avatar à partir d'un script. Plusieurs langues, voix, formats. Freemium avec quota gratuit limité.",
+      "themes": [
+        "creation"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1523240795612-9a054b0db644%3Fw%3D1200&w=1200&output=webp",
+      "auteur": "HeyGen",
+      "slug": "heygen-cr-er-des-capsules-vid-o-avec-avatar"
+    },
+    {
+      "titre": "Anthropic — Building agents with Claude",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/engineering",
+      "type": "article",
+      "duree": "variable",
+      "date": "2026-08-12",
+      "lead": "Le blog d'ingénierie Anthropic : patterns d'agents, retours techniques, bonnes pratiques. Lecture longue.",
+      "themes": [
+        "workflow",
+        "agents"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1535378917042-10a22c95931a%3Fw%3D1200&w=1200&output=webp",
+      "auteur": "Anthropic",
+      "slug": "anthropic-building-agents-with-claude"
+    },
+    {
+      "titre": "Claude — créer un visuel, une slide, un mini-site",
+      "source": "Anthropic",
+      "url": "https://claude.ai/",
+      "type": "outil",
+      "duree": "variable",
+      "date": "2026-08-12",
+      "lead": "Avec Claude Design / Artifacts, on décrit ce qu'on veut, on regarde, on affine. Inclus dans l'abonnement Claude.",
+      "themes": [
+        "creation",
+        "workflow"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1593642632559-0c6d3fc62b89%3Fw%3D1200&w=1200&output=webp",
+      "auteur": "Anthropic",
+      "slug": "claude-cr-er-un-visuel-une-slide-un-mini-site"
+    },
+    {
+      "titre": "Gamma — du plan aux slides en 2 minutes",
+      "source": "Gamma",
+      "url": "https://gamma.app/",
+      "type": "outil",
+      "duree": "5 min",
+      "date": "2026-08-12",
+      "lead": "Outil no-code qui transforme un plan en présentation projetable et illustrée. Freemium. Idéal pour démarrer.",
+      "themes": [
+        "creation"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1551836022-d5d88e9218df%3Fw%3D1200&w=1200&output=webp",
+      "auteur": "Gamma",
+      "slug": "gamma-du-plan-aux-slides-en-2-minutes"
+    },
+    {
+      "titre": "NotebookLM — Google",
+      "source": "Google",
+      "url": "https://notebooklm.google/",
+      "type": "outil",
+      "duree": "5 min",
+      "date": "2026-08-12",
+      "lead": "L'outil Google qui transforme vos sources (PDF, texte, lien, vidéo) en podcast, quiz, carte mentale. Gratuit, intégré Classroom.",
+      "themes": [
+        "curation",
+        "creation"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1456513080510-7bf3a84b82f8%3Fw%3D1200&w=1200&output=webp",
+      "auteur": "Google",
+      "slug": "notebooklm-google"
+    },
+    {
+      "titre": "Mistral AI — modèles, plateforme, tarifs",
+      "source": "Mistral AI",
+      "url": "https://mistral.ai/",
+      "type": "outil",
+      "duree": "5 min",
+      "date": "2026-08-12",
+      "lead": "Le champion français des modèles open et propriétaires. Documentation, accès API, garanties européennes et RGPD.",
+      "themes": [
+        "llm",
+        "ethique"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1532375810709-75b1da00537c%3Fw%3D1200&w=1200&output=webp",
+      "auteur": "Mistral AI",
+      "slug": "mistral-ai-mod-les-plateforme-tarifs"
+    },
+    {
+      "titre": "Perplexity — la recherche qui cite",
+      "source": "Perplexity",
+      "url": "https://www.perplexity.ai/",
+      "type": "outil",
+      "duree": "3 min",
+      "date": "2026-08-12",
+      "lead": "Moteur de réponse avec sources cliquables. Idéal pour préparer un cours d'actualité. Freemium.",
+      "themes": [
+        "curation"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1518770660439-4636190af475%3Fw%3D1200&w=1200&output=webp",
+      "auteur": "Perplexity",
+      "slug": "perplexity-la-recherche-qui-cite"
+    },
+    {
+      "titre": "Cairn.info — sciences humaines et sociales",
+      "source": "Cairn",
+      "url": "https://www.cairn.info/",
+      "type": "article",
+      "duree": "variable",
+      "date": "2026-08-12",
+      "lead": "La référence francophone pour les revues SHS. Beaucoup d'accès libre, parfois embargo. À croiser avec une IA pour digérer.",
+      "themes": [
+        "curation"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1457369804613-52c61a468e7d%3Fw%3D1200&w=1200&output=webp",
+      "auteur": "Cairn",
+      "slug": "cairn-info-sciences-humaines-et-sociales"
+    },
+    {
+      "titre": "OpenEdition — plateforme académique",
+      "source": "OpenEdition",
+      "url": "https://www.openedition.org/",
+      "type": "article",
+      "duree": "variable",
+      "date": "2026-08-12",
+      "lead": "Livres, revues, carnets de recherche en libre accès. Source précieuse pour étoffer un cours avec des références sérieuses.",
+      "themes": [
+        "curation"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1524995997946-a1c2e315a42f%3Fw%3D1200&w=1200&output=webp",
+      "auteur": "OpenEdition",
+      "slug": "openedition-plateforme-acad-mique"
+    },
+    {
+      "titre": "HAL — archive ouverte française",
+      "source": "HAL",
+      "url": "https://hal.science/",
+      "type": "article",
+      "duree": "variable",
+      "date": "2026-08-12",
+      "lead": "Le dépôt national en accès libre des publications scientifiques françaises. 1,3 million de documents.",
+      "themes": [
+        "curation"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1532012197267-da84d127e765%3Fw%3D1200&w=1200&output=webp",
+      "auteur": "HAL",
+      "slug": "hal-archive-ouverte-fran-aise"
+    },
+    {
+      "titre": "CNIL — Intelligence artificielle",
+      "source": "CNIL",
+      "url": "https://www.cnil.fr/fr/intelligence-artificielle",
+      "type": "article",
+      "duree": "variable",
+      "date": "2026-08-12",
+      "lead": "Le hub de référence CNIL sur l'IA et le RGPD : fiches pratiques, recommandations, lignes directrices. La base pour un usage éducatif conforme.",
+      "themes": [
+        "ethique"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1496861083958-175bb1bd5702%3Fw%3D1200&w=1200&output=webp",
+      "auteur": "CNIL",
+      "slug": "cnil-intelligence-artificielle"
+    },
+    {
+      "titre": "Cnesco — Conseil national d'évaluation du système scolaire",
+      "source": "Cnesco",
+      "url": "https://www.cnesco.fr/",
+      "type": "etude",
+      "duree": "variable",
+      "date": "2026-08-12",
+      "lead": "Le hub des rapports Cnesco. Études récentes sur l'IA et l'éducation, l'évaluation, les pratiques pédagogiques.",
+      "themes": [
+        "ethique",
+        "curation"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1497633762265-9d179a990aa6%3Fw%3D1200&w=1200&output=webp",
+      "auteur": "Cnesco",
+      "slug": "cnesco-conseil-national-d-valuation-du-syst-me-scolaire"
+    },
+    {
+      "titre": "Éduscol — IA et école",
+      "source": "Éduscol",
+      "url": "https://eduscol.education.fr/",
+      "type": "article",
+      "duree": "variable",
+      "date": "2026-08-12",
+      "lead": "Le portail officiel du ministère pour les enseignants. À consulter régulièrement pour le cadre réglementaire en évolution.",
+      "themes": [
+        "ethique"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1497633762265-9d179a990aa6%3Fw%3D1200&w=1200&output=webp",
+      "auteur": "Éduscol",
+      "slug": "duscol-ia-et-cole"
+    },
+    {
+      "titre": "AI Act — cadre réglementaire européen",
+      "source": "Commission européenne",
+      "url": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai",
+      "type": "livre-blanc",
+      "duree": "45 min",
+      "date": "2026-08-12",
+      "lead": "Le règlement européen sur l'IA. Page officielle de la Commission, avec FAQ, lignes directrices, calendrier d'application.",
+      "themes": [
+        "ethique"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1517245386807-bb43f82c33c4%3Fw%3D1200&w=1200&output=webp",
+      "auteur": "Commission européenne",
+      "slug": "ai-act-cadre-r-glementaire-europ-en"
+    },
+    {
+      "slug": "maddyness-prospection-commerciale-contexte",
+      "titre": "Prospection commerciale : la pertinence remplace le volume",
+      "lead": "Plus l'automatisation rend l'envoi facile, plus les messages inutiles se multiplient — la différence se fait sur le ciblage et le contexte. Un support de discussion idéal pour la négociation, la prospection et le pilotage d'équipes commerciales.",
+      "source": "Maddyness",
+      "auteur": "Rayane Conan, Sales Director INSKIP",
+      "url": "https://www.maddyness.com/2026/08/10/prospection-commerciale-le-probleme-nest-pas-de-contacter-des-inconnus-mais-de-le-faire-sans-raison-valable/",
+      "type": "article",
+      "duree": "7 min",
+      "date": "2026-08-10",
+      "themes": [
+        "workflow",
+        "creation"
+      ],
+      "tags": [
+        "workflow",
+        "creation"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1552664730-d307ca884978%3Fw%3D1200&w=1200&output=webp"
+    },
+    {
+      "slug": "lemagit-dirigeants-peinent-utiliser-ia",
+      "titre": "Les conseils d'administration prêchent l'IA... sans se l'appliquer",
+      "lead": "Étude Deloitte : 51 % des boards n'ont aucune règle encadrant leur propre usage de l'IA et seuls 8 % utilisent des outils validés par leur entreprise. Un excellent point d'entrée pour parler gouvernance et exemplarité managériale.",
+      "source": "LeMagIT",
+      "auteur": "Philippe Ducellier",
+      "url": "https://www.lemagit.fr/actualites/366648093/Les-grands-dirigeants-peinent-a-bien-utiliser-lIA",
+      "type": "etude",
+      "duree": "5 min",
+      "date": "2026-08-06",
+      "themes": [
+        "ethique",
+        "workflow"
+      ],
+      "tags": [
+        "ethique",
+        "workflow"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1521737604893-d14cc237f11d%3Fw%3D1200&w=1200&output=webp"
+    },
+    {
+      "slug": "maddyness-recrutement-conversation-entre-machines",
+      "titre": "Recrutement : quand les CV générés par IA sont triés par une autre IA",
+      "lead": "Candidats et recruteurs s'automatisent mutuellement : 300 candidatures par offre en moyenne, deux fois moins de chances d'entretien qu'il y a cinq ans. Un cas d'école prêt à l'emploi pour les cours de GRH et de recrutement.",
+      "source": "Maddyness",
+      "auteur": "Sophie Adam, Personal Job Coach",
+      "url": "https://www.maddyness.com/2026/08/05/cv-generes-par-ia-tri-par-ia-le-recrutement-est-en-train-de-devenir-une-conversation-entre-machines/",
+      "type": "article",
+      "duree": "4 min",
+      "date": "2026-08-05",
+      "themes": [
+        "ethique",
+        "workflow",
+        "agents"
+      ],
+      "tags": [
+        "ethique",
+        "workflow",
+        "agents"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1454165804606-c3d57bc86b40%3Fw%3D1200&w=1200&output=webp"
+    },
+    {
+      "slug": "maddyness-geo-cinq-idees-recues",
+      "titre": "GEO : cinq idées reçues qui rendent une marque invisible dans les IA",
+      "lead": "Être cité par ChatGPT ou Gemini ne relève pas de la technique mais de la réputation : 39 % des médias français sont inaccessibles aux crawlers d'IA. Matière directe pour un cours de communication, de e-marketing ou de stratégie de marque.",
+      "source": "Maddyness",
+      "auteur": "Patricia Attar Desjardins, Hello SunRise PR",
+      "url": "https://www.maddyness.com/2026/08/04/geo-5-idees-recues-qui-vous-rendent-invisibles/",
+      "type": "article",
+      "duree": "6 min",
+      "date": "2026-08-04",
+      "themes": [
+        "curation",
+        "creation",
+        "workflow"
+      ],
+      "tags": [
+        "curation",
+        "creation",
+        "workflow"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1460925895917-afdab827c52f%3Fw%3D1200&w=1200&output=webp"
+    },
+    {
+      "slug": "anthropic-claude-opus-5",
+      "titre": "Claude Opus 5 : le modèle du quotidien passe un cap",
+      "lead": "Anthropic annonce Opus 5, proche de Fable 5 pour moitié moins cher, avec des gains sur les tâches longues et le travail de bureau. Utile pour savoir quel modèle utiliser par défaut dans sa préparation de cours.",
+      "source": "Anthropic",
+      "auteur": "Anthropic",
+      "url": "https://www.anthropic.com/news/claude-opus-5",
+      "type": "article",
+      "duree": "8 min",
+      "date": "2026-07-24",
+      "themes": [
+        "llm",
+        "agents"
+      ],
+      "tags": [
+        "llm",
+        "agents"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1526628953301-3e589a6a8b74%3Fw%3D1200&w=1200&output=webp"
+    },
+    {
+      "slug": "du-seo-au-geo-etre-cite-par-les-ia",
+      "titre": "Du SEO au GEO : être cité par les IA, nouveau nerf de la visibilité",
+      "lead": "Avec les moteurs de réponse, l'enjeu n'est plus d'être premier sur Google mais d'être la source que ChatGPT, Gemini ou Perplexity citent. Une entrée idéale pour actualiser un cours de marketing digital, de e-réputation ou de stratégie de contenu.",
+      "source": "LeBigData.fr",
+      "auteur": "John M. R.",
+      "url": "https://www.lebigdata.fr/geo-intelligence-artificielle",
+      "type": "article",
+      "duree": "6 min",
+      "date": "2026-07-23",
+      "themes": [
+        "curation",
+        "workflow"
+      ],
+      "tags": [
+        "curation",
+        "workflow"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1457369804613-52c61a468e7d%3Fw%3D1200&w=1200&output=webp"
+    },
+    {
+      "slug": "cnil-affirme-autorite-ia-donnees-personnelles",
+      "titre": "IA et données personnelles : la CNIL affirme son autorité",
+      "lead": "Entre la mise en œuvre du règlement européen sur l'IA (RIA) et son opposition au « Digital Omnibus », la CNIL précise ce qu'elle attend des organisations — dont l'éducation. Un appui concret pour aborder RGPD, systèmes à haut risque et rôle du DPO en cours de droit et de gestion.",
+      "source": "LeMagIT",
+      "auteur": "Christophe Auffray",
+      "url": "https://www.lemagit.fr/actualites/366646050/IA-et-definition-des-donnees-personnelles-la-CNIL-affirme-son-autorite",
+      "type": "article",
+      "duree": "6 min",
+      "date": "2026-07-22",
+      "themes": [
+        "ethique"
+      ],
+      "tags": [
+        "ethique"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1517245386807-bb43f82c33c4%3Fw%3D1200&w=1200&output=webp"
+    },
+    {
+      "slug": "anthropic-economic-index-connecteur-emploi-ia",
+      "titre": "Emploi et IA : interroger l'Economic Index d'Anthropic en langage naturel",
+      "lead": "Anthropic ouvre un connecteur qui laisse chacun questionner ses données sur l'usage réel de l'IA, métier par métier et tâche par tâche. Une mine de chiffres pour illustrer, en cours de gestion, de RH ou de commerce, quels emplois et compétences l'IA transforme.",
+      "source": "Anthropic",
+      "auteur": "Anthropic",
+      "url": "https://www.anthropic.com/news/anthropic-economic-index-connector",
+      "type": "outil",
+      "duree": "5 min",
+      "date": "2026-07-22",
+      "themes": [
+        "workflow",
+        "ethique"
+      ],
+      "tags": [
+        "workflow",
+        "ethique"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1554224155-6726b3ff858f%3Fw%3D1200&w=1200&output=webp"
+    },
+    {
+      "slug": "anthropic-15-milliards-jurisprudence-droit-auteur-ia",
+      "titre": "Droit d'auteur et IA : l'accord à 1,5 milliard d'Anthropic qui fera date",
+      "lead": "En réglant 1,5 Md$ avec des auteurs, Anthropic acte que la provenance des données d'entraînement — ici des livres piratés — devient un risque juridique majeur pour toute l'industrie de l'IA. Un cas concret pour discuter propriété intellectuelle et IA générative avec les étudiants.",
+      "source": "LeBigData.fr",
+      "auteur": "Mariano R.",
+      "url": "https://www.lebigdata.fr/cet-accord-d-anthropic-a-15-milliard-fera-jurisprudence-pour-toute-lindustrie-de-lia-voici-pourquoi",
+      "type": "article",
+      "duree": "4 min",
+      "date": "2026-07-22",
+      "themes": [
+        "ethique",
+        "creation"
+      ],
+      "tags": [
+        "ethique",
+        "creation"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1497633762265-9d179a990aa6%3Fw%3D1200&w=1200&output=webp"
+    },
+    {
+      "slug": "axa-generalise-copilot-microsoft-365",
+      "titre": "AXA généralise Copilot à tous ses salariés (sans abandonner son IA maison)",
+      "lead": "Après trois ans d'expérimentation de son « Secure GPT », l'assureur déploie à la rentrée Microsoft 365 Copilot à l'échelle, les deux solutions cohabitant. Un cas d'école d'adoption de l'IA générative en grande entreprise, utile pour le management et la conduite du changement.",
+      "source": "LeMagIT",
+      "auteur": "LeMagIT",
+      "url": "https://www.lemagit.fr/actualites/366646005/AXA-generalise-Copilot-sans-abandonner-son-IA-maison",
+      "type": "article",
+      "duree": "5 min",
+      "date": "2026-07-22",
+      "themes": [
+        "workflow"
+      ],
+      "tags": [
+        "workflow"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1542744173-8e7e53415bb0%3Fw%3D1200&w=1200&output=webp"
+    },
+    {
+      "slug": "cnil-ia-agentique-donnees-personnelles",
+      "titre": "IA agentique : la CNIL alerte sur la perte de maîtrise des données",
+      "lead": "La CNIL et le Conseil de l'IA et du Numérique publient une note exploratoire sur les agents IA qui agissent à la place de l'utilisateur. Une source officielle et gratuite pour traiter le RGPD, la responsabilité et la mémoire persistante en cours de droit, RH ou management.",
+      "source": "CNIL",
+      "auteur": "CNIL & CIANum",
+      "url": "https://www.cnil.fr/fr/ia-agentique-cnil-cianum-note",
+      "type": "etude",
+      "duree": "8 min",
+      "date": "2026-07-20",
+      "themes": [
+        "agents",
+        "ethique"
+      ],
+      "tags": [
+        "agents",
+        "ethique"
+      ],
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1563986768609-322da13575f3%3Fw%3D1200&w=1200&output=webp"
+    },
+    {
       "slug": "lemagit-roi-ia-pas-ou-on-lattend",
       "titre": "Le ROI de l'IA est là — mais pas où on l'attend",
       "lead": "Une étude Oxford Economics montre que l'IA améliore l'analyse métier et la relation client, sans faire économiser mécaniquement temps ni argent. Un contre-argument solide à opposer aux promesses de productivité en cours de gestion.",
@@ -77,821 +1112,6 @@
         "workflow"
       ],
       "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1556761175-5973dc0f32e7%3Fw%3D1200&w=1200&output=webp"
-    },
-    {
-      "slug": "scienceetonnante",
-      "titre": "ScienceEtonnante — chaîne YouTube",
-      "lead": "Vulgarisation scientifique d'exception. Plusieurs vidéos longues sur les LLM, l'apprentissage profond, les biais cognitifs. À recommander en premier — ton accessible, fond rigoureux.",
-      "source": "YouTube",
-      "auteur": "David Louapre",
-      "url": "https://www.youtube.com/@ScienceEtonnante",
-      "type": "video",
-      "duree": "variable",
-      "date": "2026-07-26",
-      "themes": [
-        "llm",
-        "ethique",
-        "creation"
-      ],
-      "tags": [
-        "llm",
-        "ethique",
-        "creation"
-      ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1611162616305-c69b3fa7fbe0%3Fw%3D1200&w=1200&output=webp"
-    },
-    {
-      "slug": "underscore",
-      "titre": "Underscore_ — chaîne YouTube",
-      "lead": "Actualité tech IA en français, démos prompts, comparatifs d'outils. La référence FR sur les outils IA grand public. Format dynamique, ton accessible.",
-      "source": "YouTube",
-      "auteur": "Micode",
-      "url": "https://www.youtube.com/@Underscore_",
-      "type": "video",
-      "duree": "variable",
-      "date": "2026-07-26",
-      "themes": [
-        "llm",
-        "creation",
-        "workflow"
-      ],
-      "tags": [
-        "llm",
-        "creation",
-        "workflow"
-      ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1593642632559-0c6d3fc62b89%3Fw%3D1200&w=1200&output=webp"
-    },
-    {
-      "slug": "machine-learnia",
-      "titre": "Machine Learnia — chaîne YouTube",
-      "lead": "Le meilleur cours de Machine Learning gratuit en français. Théorie + pratique Python. Idéal pour étudiants curieux et profs qui veulent monter en compétence.",
-      "source": "YouTube",
-      "auteur": "Guillaume Saint-Cirgue",
-      "url": "https://www.youtube.com/@MachineLearnia",
-      "type": "video",
-      "duree": "variable",
-      "date": "2026-07-26",
-      "themes": [
-        "llm",
-        "creation"
-      ],
-      "tags": [
-        "llm",
-        "creation"
-      ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1555066931-4365d14bab8c%3Fw%3D1200&w=1200&output=webp"
-    },
-    {
-      "slug": "le-meta",
-      "titre": "Le Meta — chaîne YouTube",
-      "lead": "Analyse critique des transformations du numérique et de l'IA. Approche réflexive utile pour les profs qui veulent prendre du recul.",
-      "source": "YouTube",
-      "auteur": "Le Meta",
-      "url": "https://www.youtube.com/@LeMeta",
-      "type": "video",
-      "duree": "variable",
-      "date": "2026-07-26",
-      "themes": [
-        "ethique",
-        "workflow"
-      ],
-      "tags": [
-        "ethique",
-        "workflow"
-      ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1532375810709-75b1da00537c%3Fw%3D1200&w=1200&output=webp"
-    },
-    {
-      "slug": "hygi-ne-mentale",
-      "titre": "Hygiène Mentale — chaîne YouTube",
-      "lead": "Esprit critique appliqué à l'information, aux biais, et aux promesses de l'IA. Indispensable pour cadrer le discours en classe.",
-      "source": "YouTube",
-      "auteur": "Christophe Michel",
-      "url": "https://www.youtube.com/@HygieneMentale",
-      "type": "video",
-      "duree": "variable",
-      "date": "2026-07-26",
-      "themes": [
-        "ethique"
-      ],
-      "tags": [
-        "ethique"
-      ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1496861083958-175bb1bd5702%3Fw%3D1200&w=1200&output=webp"
-    },
-    {
-      "slug": "cocadmin",
-      "titre": "cocadmin — chaîne YouTube",
-      "lead": "Sysadmin, sécurité, et tech avec rigueur. Plusieurs vidéos sur les agents IA, les workflows automatisés, le code assisté.",
-      "source": "YouTube",
-      "auteur": "cocadmin",
-      "url": "https://www.youtube.com/@cocadmin",
-      "type": "video",
-      "duree": "variable",
-      "date": "2026-07-26",
-      "themes": [
-        "agents",
-        "workflow"
-      ],
-      "tags": [
-        "agents",
-        "workflow"
-      ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1542831371-29b0f74f9713%3Fw%3D1200&w=1200&output=webp"
-    },
-    {
-      "slug": "numerama",
-      "titre": "Numerama — chaîne YouTube",
-      "lead": "La chaîne du média Numerama. Décryptage actu IA en français, interviews, formats courts. Compagnon des articles écrits.",
-      "source": "YouTube",
-      "auteur": "Numerama",
-      "url": "https://www.youtube.com/@Numerama",
-      "type": "video",
-      "duree": "variable",
-      "date": "2026-07-26",
-      "themes": [
-        "llm",
-        "ethique"
-      ],
-      "tags": [
-        "llm",
-        "ethique"
-      ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1554224155-6726b3ff858f%3Fw%3D1200&w=1200&output=webp"
-    },
-    {
-      "slug": "3blue1brown",
-      "titre": "3Blue1Brown — chaîne YouTube",
-      "lead": "Animations exceptionnelles pour comprendre l'algèbre linéaire, les réseaux de neurones, les transformers. EN sous-titrable. Pédagogie maths-IA absolue.",
-      "source": "YouTube",
-      "auteur": "Grant Sanderson",
-      "url": "https://www.youtube.com/@3blue1brown",
-      "type": "video",
-      "duree": "variable",
-      "date": "2026-07-26",
-      "themes": [
-        "llm",
-        "creation"
-      ],
-      "tags": [
-        "llm",
-        "creation"
-      ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1581091226825-a6a2a5aee158%3Fw%3D1200&w=1200&output=webp"
-    },
-    {
-      "slug": "two-minute-papers",
-      "titre": "Two Minute Papers — chaîne YouTube",
-      "lead": "Une publication scientifique IA résumée en 5-10 min. Idéal pour suivre la recherche sans lire les papers. EN, sous-titrable.",
-      "source": "YouTube",
-      "auteur": "Károly Zsolnai-Fehér",
-      "url": "https://www.youtube.com/@TwoMinutePapers",
-      "type": "video",
-      "duree": "variable",
-      "date": "2026-07-26",
-      "themes": [
-        "llm",
-        "agents"
-      ],
-      "tags": [
-        "llm",
-        "agents"
-      ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1620712943543-bcc4688e7485%3Fw%3D1200&w=1200&output=webp"
-    },
-    {
-      "slug": "andrej-karpathy",
-      "titre": "Andrej Karpathy — chaîne YouTube",
-      "lead": "Ex-OpenAI, ex-Tesla. Ses cours « Neural Networks: Zero to Hero » sont la référence mondiale pour comprendre comment fonctionnent les LLM. Long format.",
-      "source": "YouTube",
-      "auteur": "Andrej Karpathy",
-      "url": "https://www.youtube.com/@AndrejKarpathy",
-      "type": "video",
-      "duree": "variable",
-      "date": "2026-07-26",
-      "themes": [
-        "llm"
-      ],
-      "tags": [
-        "llm"
-      ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1485827404703-89b55fcc595e%3Fw%3D1200&w=1200&output=webp"
-    },
-    {
-      "slug": "anthropic",
-      "titre": "Anthropic — chaîne YouTube",
-      "lead": "Chaîne officielle d'Anthropic : démos Claude, talks recherche, tutoriels prompting. EN, sous-titrable.",
-      "source": "YouTube",
-      "auteur": "Anthropic",
-      "url": "https://www.youtube.com/@anthropic-ai",
-      "type": "video",
-      "duree": "variable",
-      "date": "2026-07-26",
-      "themes": [
-        "llm",
-        "agents",
-        "creation"
-      ],
-      "tags": [
-        "llm",
-        "agents",
-        "creation"
-      ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1620712943543-bcc4688e7485%3Fw%3D1200&w=1200&output=webp"
-    },
-    {
-      "slug": "ludo-salenne",
-      "titre": "Ludo Salenne — chaîne YouTube",
-      "lead": "Le youtubeur tech français qui couvre l'IA, les outils, la productivité. Démos pratiques, ton accessible, indispensable.",
-      "source": "YouTube",
-      "auteur": "Ludovic Salenne",
-      "url": "https://www.youtube.com/@LudovicSalenne",
-      "type": "video",
-      "duree": "variable",
-      "date": "2026-07-26",
-      "themes": [
-        "llm",
-        "workflow",
-        "creation"
-      ],
-      "tags": [
-        "llm",
-        "workflow",
-        "creation"
-      ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1593642632559-0c6d3fc62b89%3Fw%3D1200&w=1200&output=webp"
-    },
-    {
-      "slug": "ludo-ia",
-      "titre": "Ludo IA² — chaîne YouTube",
-      "lead": "Le deuxième canal de Ludo Salenne, 100 % IA. Tutoriels, comparatifs d'outils, workflows pour pro. Une mine.",
-      "source": "YouTube",
-      "auteur": "Ludovic Salenne",
-      "url": "https://www.youtube.com/@LudoAuCarre",
-      "type": "video",
-      "duree": "variable",
-      "date": "2026-07-26",
-      "themes": [
-        "llm",
-        "creation",
-        "workflow"
-      ],
-      "tags": [
-        "llm",
-        "creation",
-        "workflow"
-      ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1551434678-e076c223a692%3Fw%3D1200&w=1200&output=webp"
-    },
-    {
-      "slug": "korben",
-      "titre": "Korben — chaîne YouTube",
-      "lead": "L'institution tech française. Decouvertes d'outils, tutos, IA, cybersécurité. Ton libre, format efficace.",
-      "source": "YouTube",
-      "auteur": "Korben",
-      "url": "https://www.youtube.com/@Korben",
-      "type": "video",
-      "duree": "variable",
-      "date": "2026-07-26",
-      "themes": [
-        "llm",
-        "workflow",
-        "ethique"
-      ],
-      "tags": [
-        "llm",
-        "workflow",
-        "ethique"
-      ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1556761175-5973dc0f32e7%3Fw%3D1200&w=1200&output=webp"
-    },
-    {
-      "slug": "elliott-pierret",
-      "titre": "Elliott Pierret — chaîne YouTube",
-      "lead": "Spécialiste de la productivité avec l'IA. Workflows concrets, gain de temps mesurable, outils variés.",
-      "source": "YouTube",
-      "auteur": "Elliott Pierret",
-      "url": "https://www.youtube.com/@elliottpierret",
-      "type": "video",
-      "duree": "variable",
-      "date": "2026-07-26",
-      "themes": [
-        "workflow",
-        "creation"
-      ],
-      "tags": [
-        "workflow",
-        "creation"
-      ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1552664730-d307ca884978%3Fw%3D1200&w=1200&output=webp"
-    },
-    {
-      "slug": "micode",
-      "titre": "Micode — chaîne YouTube",
-      "lead": "La chaîne perso de Micode (Underscore_). Récits longs, enquêtes tech, formats narratifs. À voir pour le ton et la mise en récit.",
-      "source": "YouTube",
-      "auteur": "Micode",
-      "url": "https://www.youtube.com/@Micode",
-      "type": "video",
-      "duree": "variable",
-      "date": "2026-07-26",
-      "themes": [
-        "llm",
-        "ethique"
-      ],
-      "tags": [
-        "llm",
-        "ethique"
-      ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1581091226825-a6a2a5aee158%3Fw%3D1200&w=1200&output=webp"
-    },
-    {
-      "slug": "google-gemini",
-      "titre": "Google Gemini — chaîne YouTube",
-      "lead": "La chaîne officielle Gemini. Démos NotebookLM, IA Studio, Google Workspace. EN sous-titrable.",
-      "source": "YouTube",
-      "auteur": "Google",
-      "url": "https://www.youtube.com/@GoogleGemini",
-      "type": "video",
-      "duree": "variable",
-      "date": "2026-07-26",
-      "themes": [
-        "llm",
-        "curation",
-        "creation"
-      ],
-      "tags": [
-        "llm",
-        "curation",
-        "creation"
-      ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1554224155-6726b3ff858f%3Fw%3D1200&w=1200&output=webp"
-    },
-    {
-      "slug": "openai",
-      "titre": "OpenAI — chaîne YouTube",
-      "lead": "La chaîne officielle OpenAI : annonces produits, démos GPT, talks recherche. EN sous-titrable.",
-      "source": "YouTube",
-      "auteur": "OpenAI",
-      "url": "https://www.youtube.com/@OpenAI",
-      "type": "video",
-      "duree": "variable",
-      "date": "2026-07-26",
-      "themes": [
-        "llm",
-        "creation",
-        "agents"
-      ],
-      "tags": [
-        "llm",
-        "creation",
-        "agents"
-      ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1620712943543-bcc4688e7485%3Fw%3D1200&w=1200&output=webp"
-    },
-    {
-      "slug": "canva",
-      "titre": "Canva — chaîne YouTube",
-      "lead": "Tutoriels visuels Canva, dont la suite IA intégrée. Utile pour produire vite des supports visuels propres.",
-      "source": "YouTube",
-      "auteur": "Canva",
-      "url": "https://www.youtube.com/@canva",
-      "type": "video",
-      "duree": "variable",
-      "date": "2026-07-26",
-      "themes": [
-        "creation"
-      ],
-      "tags": [
-        "creation"
-      ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1551836022-d5d88e9218df%3Fw%3D1200&w=1200&output=webp"
-    },
-    {
-      "titre": "Google Gemini — actualité produit",
-      "source": "Google Blog",
-      "url": "https://blog.google/products/gemini/",
-      "type": "article",
-      "duree": "variable",
-      "date": "2026-07-26",
-      "lead": "Le fil officiel des annonces Gemini : modèles, intégration Workspace, NotebookLM, IA Studio. Source primaire à suivre.",
-      "themes": [
-        "llm",
-        "curation"
-      ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1554224155-6726b3ff858f%3Fw%3D1200&w=1200&output=webp",
-      "auteur": "Google Blog",
-      "slug": "google-gemini-actualit-produit"
-    },
-    {
-      "titre": "OpenAI — Research",
-      "source": "OpenAI",
-      "url": "https://openai.com/research/",
-      "type": "article",
-      "duree": "variable",
-      "date": "2026-07-26",
-      "lead": "Publications scientifiques d'OpenAI : papers techniques, comparatifs, axes de recherche en cours. Lecture obligée pour suivre.",
-      "themes": [
-        "llm"
-      ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1620712943543-bcc4688e7485%3Fw%3D1200&w=1200&output=webp",
-      "auteur": "OpenAI",
-      "slug": "openai-research"
-    },
-    {
-      "titre": "Numerama — actualité tech française",
-      "source": "Numerama",
-      "url": "https://www.numerama.com/tech/intelligence-artificielle/",
-      "type": "article",
-      "duree": "variable",
-      "date": "2026-07-26",
-      "lead": "Le hub IA de Numerama. Actualité quotidienne sourcée et critique, en français. À mettre dans la bookmark bar.",
-      "themes": [
-        "llm",
-        "ethique",
-        "workflow"
-      ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1554224155-6726b3ff858f%3Fw%3D1200&w=1200&output=webp",
-      "auteur": "Numerama",
-      "slug": "numerama-actualit-tech-fran-aise"
-    },
-    {
-      "titre": "Inria — Intelligence artificielle",
-      "source": "Inria",
-      "url": "https://www.inria.fr/fr/intelligence-artificielle",
-      "type": "article",
-      "duree": "variable",
-      "date": "2026-07-26",
-      "lead": "Le hub Inria sur l'IA : axes de recherche, équipes, publications, événements. L'institut national de référence en France.",
-      "themes": [
-        "llm",
-        "ethique",
-        "agents"
-      ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1532375810709-75b1da00537c%3Fw%3D1200&w=1200&output=webp",
-      "auteur": "Inria",
-      "slug": "inria-intelligence-artificielle",
-      "tags": [
-        "llm",
-        "ethique",
-        "agents"
-      ]
-    },
-    {
-      "titre": "Hugging Face — Blog",
-      "source": "Hugging Face",
-      "url": "https://huggingface.co/blog",
-      "type": "article",
-      "duree": "variable",
-      "date": "2026-07-26",
-      "lead": "Le blog officiel d'Hugging Face : nouveaux modèles, tutoriels, retours d'expérience. EN, mais source primaire de la communauté ML mondiale.",
-      "themes": [
-        "llm",
-        "creation"
-      ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1518770660439-4636190af475%3Fw%3D1200&w=1200&output=webp",
-      "auteur": "Hugging Face",
-      "slug": "hugging-face-blog",
-      "tags": [
-        "llm",
-        "creation"
-      ]
-    },
-    {
-      "titre": "France Info — Intelligence artificielle",
-      "source": "France Info",
-      "url": "https://www.francetvinfo.fr/sciences/intelligence-artificielle/",
-      "type": "article",
-      "duree": "variable",
-      "date": "2026-07-26",
-      "lead": "Le hub IA de France Info : articles courts, accessibles, mis à jour quotidiennement. Source publique fiable pour suivre l'actu IA en français.",
-      "themes": [
-        "llm",
-        "ethique"
-      ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1496861083958-175bb1bd5702%3Fw%3D1200&w=1200&output=webp",
-      "auteur": "France Info",
-      "slug": "france-info-intelligence-artificielle",
-      "tags": [
-        "llm",
-        "ethique"
-      ]
-    },
-    {
-      "titre": "Next.ink — Sciences",
-      "source": "Next.ink",
-      "url": "https://next.ink/sciences/",
-      "type": "article",
-      "duree": "variable",
-      "date": "2026-07-26",
-      "lead": "Le média indépendant Next.ink (ex-Next Inpact) couvre l'IA avec rigueur. Articles fouillés, ton critique, accessible sans abonnement pour les actus.",
-      "themes": [
-        "llm",
-        "ethique",
-        "workflow"
-      ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1457369804613-52c61a468e7d%3Fw%3D1200&w=1200&output=webp",
-      "auteur": "Next.ink",
-      "slug": "next-ink-sciences",
-      "tags": [
-        "llm",
-        "ethique",
-        "workflow"
-      ]
-    },
-    {
-      "titre": "LeMagIT — Intelligence artificielle",
-      "source": "LeMagIT",
-      "url": "https://www.lemagit.fr/tag/IntelligenceArtificielle",
-      "type": "article",
-      "duree": "variable",
-      "date": "2026-07-26",
-      "lead": "Actu IA B2B en français : déploiements en entreprise, retours techniques, comparatifs sérieux. Public initialement IT mais lecture utile pour profs en gestion / management.",
-      "themes": [
-        "workflow",
-        "agents"
-      ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1542744173-8e7e53415bb0%3Fw%3D1200&w=1200&output=webp",
-      "auteur": "LeMagIT",
-      "slug": "lemagit-intelligence-artificielle",
-      "tags": [
-        "workflow",
-        "agents"
-      ]
-    },
-    {
-      "titre": "France Culture",
-      "source": "France Culture",
-      "url": "https://www.franceculture.fr/",
-      "type": "podcast",
-      "duree": "variable",
-      "date": "2026-07-26",
-      "lead": "La radio publique culturelle propose régulièrement des séries documentaires et débats sur l'IA. Format audio long, fond, contradicteurs.",
-      "themes": [
-        "ethique",
-        "curation"
-      ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1473177104440-ffee2f376098%3Fw%3D1200&w=1200&output=webp",
-      "auteur": "France Culture",
-      "slug": "france-culture",
-      "tags": [
-        "ethique",
-        "curation"
-      ]
-    },
-    {
-      "titre": "Persée — portail de revues académiques",
-      "source": "Persée",
-      "url": "https://www.persee.fr/",
-      "type": "etude",
-      "duree": "variable",
-      "date": "2026-07-26",
-      "lead": "Le portail Persée donne accès en libre à des milliers d'articles de revues SHS françaises. Source de référence pour ancrer ses cours dans la recherche.",
-      "themes": [
-        "curation"
-      ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1532012197267-da84d127e765%3Fw%3D1200&w=1200&output=webp",
-      "auteur": "Persée",
-      "slug": "pers-e-portail-de-revues-acad-miques",
-      "tags": [
-        "curation"
-      ]
-    },
-    {
-      "titre": "LeBigData.fr",
-      "source": "LeBigData.fr",
-      "url": "https://www.lebigdata.fr/",
-      "type": "article",
-      "duree": "variable",
-      "date": "2026-07-26",
-      "lead": "Média français consacré à l'IA, au cloud, à la data. Articles quotidiens, comparatifs d'outils, retours pratiques. Compagnon utile à Numerama.",
-      "themes": [
-        "llm",
-        "workflow"
-      ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1556761175-5973dc0f32e7%3Fw%3D1200&w=1200&output=webp",
-      "auteur": "LeBigData.fr",
-      "slug": "lebigdata-fr",
-      "tags": [
-        "llm",
-        "workflow"
-      ]
-    },
-    {
-      "titre": "HeyGen — créer des capsules vidéo avec avatar",
-      "source": "HeyGen",
-      "url": "https://www.heygen.com/",
-      "type": "outil",
-      "duree": "variable",
-      "date": "2026-07-26",
-      "lead": "Faire parler un avatar à partir d'un script. Plusieurs langues, voix, formats. Freemium avec quota gratuit limité.",
-      "themes": [
-        "creation"
-      ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1523240795612-9a054b0db644%3Fw%3D1200&w=1200&output=webp",
-      "auteur": "HeyGen",
-      "slug": "heygen-cr-er-des-capsules-vid-o-avec-avatar"
-    },
-    {
-      "titre": "Anthropic — Building agents with Claude",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/engineering",
-      "type": "article",
-      "duree": "variable",
-      "date": "2026-07-26",
-      "lead": "Le blog d'ingénierie Anthropic : patterns d'agents, retours techniques, bonnes pratiques. Lecture longue.",
-      "themes": [
-        "workflow",
-        "agents"
-      ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1535378917042-10a22c95931a%3Fw%3D1200&w=1200&output=webp",
-      "auteur": "Anthropic",
-      "slug": "anthropic-building-agents-with-claude"
-    },
-    {
-      "titre": "Claude — créer un visuel, une slide, un mini-site",
-      "source": "Anthropic",
-      "url": "https://claude.ai/",
-      "type": "outil",
-      "duree": "variable",
-      "date": "2026-07-26",
-      "lead": "Avec Claude Design / Artifacts, on décrit ce qu'on veut, on regarde, on affine. Inclus dans l'abonnement Claude.",
-      "themes": [
-        "creation",
-        "workflow"
-      ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1593642632559-0c6d3fc62b89%3Fw%3D1200&w=1200&output=webp",
-      "auteur": "Anthropic",
-      "slug": "claude-cr-er-un-visuel-une-slide-un-mini-site"
-    },
-    {
-      "titre": "Gamma — du plan aux slides en 2 minutes",
-      "source": "Gamma",
-      "url": "https://gamma.app/",
-      "type": "outil",
-      "duree": "5 min",
-      "date": "2026-07-26",
-      "lead": "Outil no-code qui transforme un plan en présentation projetable et illustrée. Freemium. Idéal pour démarrer.",
-      "themes": [
-        "creation"
-      ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1551836022-d5d88e9218df%3Fw%3D1200&w=1200&output=webp",
-      "auteur": "Gamma",
-      "slug": "gamma-du-plan-aux-slides-en-2-minutes"
-    },
-    {
-      "titre": "NotebookLM — Google",
-      "source": "Google",
-      "url": "https://notebooklm.google/",
-      "type": "outil",
-      "duree": "5 min",
-      "date": "2026-07-26",
-      "lead": "L'outil Google qui transforme vos sources (PDF, texte, lien, vidéo) en podcast, quiz, carte mentale. Gratuit, intégré Classroom.",
-      "themes": [
-        "curation",
-        "creation"
-      ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1456513080510-7bf3a84b82f8%3Fw%3D1200&w=1200&output=webp",
-      "auteur": "Google",
-      "slug": "notebooklm-google"
-    },
-    {
-      "titre": "Mistral AI — modèles, plateforme, tarifs",
-      "source": "Mistral AI",
-      "url": "https://mistral.ai/",
-      "type": "outil",
-      "duree": "5 min",
-      "date": "2026-07-26",
-      "lead": "Le champion français des modèles open et propriétaires. Documentation, accès API, garanties européennes et RGPD.",
-      "themes": [
-        "llm",
-        "ethique"
-      ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1532375810709-75b1da00537c%3Fw%3D1200&w=1200&output=webp",
-      "auteur": "Mistral AI",
-      "slug": "mistral-ai-mod-les-plateforme-tarifs"
-    },
-    {
-      "titre": "Perplexity — la recherche qui cite",
-      "source": "Perplexity",
-      "url": "https://www.perplexity.ai/",
-      "type": "outil",
-      "duree": "3 min",
-      "date": "2026-07-26",
-      "lead": "Moteur de réponse avec sources cliquables. Idéal pour préparer un cours d'actualité. Freemium.",
-      "themes": [
-        "curation"
-      ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1518770660439-4636190af475%3Fw%3D1200&w=1200&output=webp",
-      "auteur": "Perplexity",
-      "slug": "perplexity-la-recherche-qui-cite"
-    },
-    {
-      "titre": "Cairn.info — sciences humaines et sociales",
-      "source": "Cairn",
-      "url": "https://www.cairn.info/",
-      "type": "article",
-      "duree": "variable",
-      "date": "2026-07-26",
-      "lead": "La référence francophone pour les revues SHS. Beaucoup d'accès libre, parfois embargo. À croiser avec une IA pour digérer.",
-      "themes": [
-        "curation"
-      ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1457369804613-52c61a468e7d%3Fw%3D1200&w=1200&output=webp",
-      "auteur": "Cairn",
-      "slug": "cairn-info-sciences-humaines-et-sociales"
-    },
-    {
-      "titre": "OpenEdition — plateforme académique",
-      "source": "OpenEdition",
-      "url": "https://www.openedition.org/",
-      "type": "article",
-      "duree": "variable",
-      "date": "2026-07-26",
-      "lead": "Livres, revues, carnets de recherche en libre accès. Source précieuse pour étoffer un cours avec des références sérieuses.",
-      "themes": [
-        "curation"
-      ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1524995997946-a1c2e315a42f%3Fw%3D1200&w=1200&output=webp",
-      "auteur": "OpenEdition",
-      "slug": "openedition-plateforme-acad-mique"
-    },
-    {
-      "titre": "HAL — archive ouverte française",
-      "source": "HAL",
-      "url": "https://hal.science/",
-      "type": "article",
-      "duree": "variable",
-      "date": "2026-07-26",
-      "lead": "Le dépôt national en accès libre des publications scientifiques françaises. 1,3 million de documents.",
-      "themes": [
-        "curation"
-      ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1532012197267-da84d127e765%3Fw%3D1200&w=1200&output=webp",
-      "auteur": "HAL",
-      "slug": "hal-archive-ouverte-fran-aise"
-    },
-    {
-      "titre": "CNIL — Intelligence artificielle",
-      "source": "CNIL",
-      "url": "https://www.cnil.fr/fr/intelligence-artificielle",
-      "type": "article",
-      "duree": "variable",
-      "date": "2026-07-26",
-      "lead": "Le hub de référence CNIL sur l'IA et le RGPD : fiches pratiques, recommandations, lignes directrices. La base pour un usage éducatif conforme.",
-      "themes": [
-        "ethique"
-      ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1496861083958-175bb1bd5702%3Fw%3D1200&w=1200&output=webp",
-      "auteur": "CNIL",
-      "slug": "cnil-intelligence-artificielle"
-    },
-    {
-      "titre": "Cnesco — Conseil national d'évaluation du système scolaire",
-      "source": "Cnesco",
-      "url": "https://www.cnesco.fr/",
-      "type": "etude",
-      "duree": "variable",
-      "date": "2026-07-26",
-      "lead": "Le hub des rapports Cnesco. Études récentes sur l'IA et l'éducation, l'évaluation, les pratiques pédagogiques.",
-      "themes": [
-        "ethique",
-        "curation"
-      ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1497633762265-9d179a990aa6%3Fw%3D1200&w=1200&output=webp",
-      "auteur": "Cnesco",
-      "slug": "cnesco-conseil-national-d-valuation-du-syst-me-scolaire"
-    },
-    {
-      "titre": "Éduscol — IA et école",
-      "source": "Éduscol",
-      "url": "https://eduscol.education.fr/",
-      "type": "article",
-      "duree": "variable",
-      "date": "2026-07-26",
-      "lead": "Le portail officiel du ministère pour les enseignants. À consulter régulièrement pour le cadre réglementaire en évolution.",
-      "themes": [
-        "ethique"
-      ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1497633762265-9d179a990aa6%3Fw%3D1200&w=1200&output=webp",
-      "auteur": "Éduscol",
-      "slug": "duscol-ia-et-cole"
-    },
-    {
-      "titre": "AI Act — cadre réglementaire européen",
-      "source": "Commission européenne",
-      "url": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai",
-      "type": "livre-blanc",
-      "duree": "45 min",
-      "date": "2026-07-26",
-      "lead": "Le règlement européen sur l'IA. Page officielle de la Commission, avec FAQ, lignes directrices, calendrier d'application.",
-      "themes": [
-        "ethique"
-      ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1517245386807-bb43f82c33c4%3Fw%3D1200&w=1200&output=webp",
-      "auteur": "Commission européenne",
-      "slug": "ai-act-cadre-r-glementaire-europ-en"
     },
     {
       "slug": "clones-ia-coach-entrepreneurs-french-tech",
@@ -1492,102 +1712,6 @@
       ],
       "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1532012197267-da84d127e765%3Fw%3D1200&w=1200&output=webp",
       "featured": false
-    },
-    {
-      "slug": "cnil-affirme-autorite-ia-donnees-personnelles",
-      "titre": "IA et données personnelles : la CNIL affirme son autorité",
-      "lead": "Entre la mise en œuvre du règlement européen sur l'IA (RIA) et son opposition au « Digital Omnibus », la CNIL précise ce qu'elle attend des organisations — dont l'éducation. Un appui concret pour aborder RGPD, systèmes à haut risque et rôle du DPO en cours de droit et de gestion.",
-      "source": "LeMagIT",
-      "auteur": "Christophe Auffray",
-      "url": "https://www.lemagit.fr/actualites/366646050/IA-et-definition-des-donnees-personnelles-la-CNIL-affirme-son-autorite",
-      "type": "article",
-      "duree": "6 min",
-      "date": "2026-07-22",
-      "themes": [
-        "ethique"
-      ],
-      "tags": [
-        "ethique"
-      ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1517245386807-bb43f82c33c4%3Fw%3D1200&w=1200&output=webp"
-    },
-    {
-      "slug": "anthropic-economic-index-connecteur-emploi-ia",
-      "titre": "Emploi et IA : interroger l'Economic Index d'Anthropic en langage naturel",
-      "lead": "Anthropic ouvre un connecteur qui laisse chacun questionner ses données sur l'usage réel de l'IA, métier par métier et tâche par tâche. Une mine de chiffres pour illustrer, en cours de gestion, de RH ou de commerce, quels emplois et compétences l'IA transforme.",
-      "source": "Anthropic",
-      "auteur": "Anthropic",
-      "url": "https://www.anthropic.com/news/anthropic-economic-index-connector",
-      "type": "outil",
-      "duree": "5 min",
-      "date": "2026-07-22",
-      "themes": [
-        "workflow",
-        "ethique"
-      ],
-      "tags": [
-        "workflow",
-        "ethique"
-      ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1554224155-6726b3ff858f%3Fw%3D1200&w=1200&output=webp"
-    },
-    {
-      "slug": "anthropic-15-milliards-jurisprudence-droit-auteur-ia",
-      "titre": "Droit d'auteur et IA : l'accord à 1,5 milliard d'Anthropic qui fera date",
-      "lead": "En réglant 1,5 Md$ avec des auteurs, Anthropic acte que la provenance des données d'entraînement — ici des livres piratés — devient un risque juridique majeur pour toute l'industrie de l'IA. Un cas concret pour discuter propriété intellectuelle et IA générative avec les étudiants.",
-      "source": "LeBigData.fr",
-      "auteur": "Mariano R.",
-      "url": "https://www.lebigdata.fr/cet-accord-d-anthropic-a-15-milliard-fera-jurisprudence-pour-toute-lindustrie-de-lia-voici-pourquoi",
-      "type": "article",
-      "duree": "4 min",
-      "date": "2026-07-22",
-      "themes": [
-        "ethique",
-        "creation"
-      ],
-      "tags": [
-        "ethique",
-        "creation"
-      ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1497633762265-9d179a990aa6%3Fw%3D1200&w=1200&output=webp"
-    },
-    {
-      "slug": "axa-generalise-copilot-microsoft-365",
-      "titre": "AXA généralise Copilot à tous ses salariés (sans abandonner son IA maison)",
-      "lead": "Après trois ans d'expérimentation de son « Secure GPT », l'assureur déploie à la rentrée Microsoft 365 Copilot à l'échelle, les deux solutions cohabitant. Un cas d'école d'adoption de l'IA générative en grande entreprise, utile pour le management et la conduite du changement.",
-      "source": "LeMagIT",
-      "auteur": "LeMagIT",
-      "url": "https://www.lemagit.fr/actualites/366646005/AXA-generalise-Copilot-sans-abandonner-son-IA-maison",
-      "type": "article",
-      "duree": "5 min",
-      "date": "2026-07-22",
-      "themes": [
-        "workflow"
-      ],
-      "tags": [
-        "workflow"
-      ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1542744173-8e7e53415bb0%3Fw%3D1200&w=1200&output=webp"
-    },
-    {
-      "slug": "du-seo-au-geo-etre-cite-par-les-ia",
-      "titre": "Du SEO au GEO : être cité par les IA, nouveau nerf de la visibilité",
-      "lead": "Avec les moteurs de réponse, l'enjeu n'est plus d'être premier sur Google mais d'être la source que ChatGPT, Gemini ou Perplexity citent. Une entrée idéale pour actualiser un cours de marketing digital, de e-réputation ou de stratégie de contenu.",
-      "source": "LeBigData.fr",
-      "auteur": "John M. R.",
-      "url": "https://www.lebigdata.fr/geo-intelligence-artificielle",
-      "type": "article",
-      "duree": "6 min",
-      "date": "2026-07-23",
-      "themes": [
-        "curation",
-        "workflow"
-      ],
-      "tags": [
-        "curation",
-        "workflow"
-      ],
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1457369804613-52c61a468e7d%3Fw%3D1200&w=1200&output=webp"
     }
   ]
 }
