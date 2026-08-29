@@ -763,3 +763,14 @@ button.vignette{border-width:1px}
 .theme-toggle:hover{border-color:var(--cyan);color:var(--cyan);transform:translateY(-1px)}
 .theme-toggle:focus-visible{outline:2px solid var(--cyan);outline-offset:2px}
 @media (max-width:720px){.theme-toggle{margin-left:8px;width:30px;height:30px;font-size:13px}}
+
+/* Hero et bandeaux posés sur image : le texte reste clair même en thème clair */
+:root[data-theme="light"] .hero h1,
+:root[data-theme="light"] .hero-eyebrow,
+:root[data-theme="light"] .hero-lead,
+:root[data-theme="light"] .hero-video .hero-inner,
+:root[data-theme="light"] .hero-video .hero-inner h1,
+:root[data-theme="light"] .hero-video .hero-inner p{color:#f2f6fa}
+:root[data-theme="light"] .hero h1 em{color:#7fd4ff;text-shadow:none}
+:root[data-theme="light"] .hero .btn-ghost{color:#f2f6fa;border-color:rgba(255,255,255,.45)}
+:root[data-theme="light"] .hero .btn-ghost:hover{color:#fff;border-color:#fff;background:rgba(255,255,255,.12)}
